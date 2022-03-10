@@ -1,0 +1,330 @@
+Title: Selvværd
+
+----
+
+Cover:
+
+- selvvaerd-avilius-2.jpg
+
+----
+
+Intro: Kender du fornemmelsen af ikke at være god nok? Selvværd er ikke en konstant størrelse, man enten har eller ikke har, det er snarere et kontinuum, alle mennesker befinder sig på. Målet er ikke aldrig at have selvkritik, men at kunne håndtere den, når den opstår.
+
+----
+
+Portrait:
+
+- selvvaerd-avilius-2.jpg
+
+----
+
+Length: 6 uger (to timer om ugen)
+
+----
+
+Price: Per gang: 333
+
+----
+
+Email: rachad@avilius.dk
+
+----
+
+Conditions: 2.000,- i alt. Betales på én gang eller over flere omgange.
+
+----
+
+Description: Ligesom vi kan træne og nære vores fysiske immunforsvar, kan vi også styrke og nære vores mentale immunforsvar – selvværdet. Og det er en svær størrelse! Hvad er det? Hvorfor har vi det? Og hvordan kan vi optimere det? De spørgsmål udforsker vi her. Jagten på et selvværd kræver, at vi ændrer vores fundamentale tankemønstre, og derfor kan man godt ende med at slå sig selv i hovedet undervejs. Her kommer egenomsorg kommer ind i billedet. For både proces og mål skal føles behageligt, og derfor betyder det også at det er okay ikke at være okay.
+
+----
+
+Foryou:
+
+- 
+  if: er i tvivl om du er god nok
+- 
+  if: bebrejder dig selv for alting
+- 
+  if: vil lære at tro på dig selv
+- 
+  if: føler at alting er din skyld
+- 
+  if: føler dig udenfor i grupper
+- 
+  if: vil lære at udvise omsorg for dig selv
+
+----
+
+Therapistcover:
+
+- selvvaerd-avilius-1.jpg
+
+----
+
+Therapist: Emilie og Rachad
+
+----
+
+Therapistintro:
+
+Vi hedder Emilie og Rachad, er kommende psykologer og leder selvværdsgruppen i Avilius.
+Sammen vil vi undersøge hvordan vi kan drage omsorg overfor os selv, og samtidig hvad der kan stå i vejen for denne proces. Vi skal diskutere betydningen af selvværd for at forstå os selv, vores relationer og verden omkring os. Vi skal arbejde med værktøjer som tilknytning, bevidsthed, forsvar, motivation, ærlighed og frem for alt egenomsorg. Desuden er grænsesætning et vigtigt tema, der går igen, hvor vi arbejder med at registrere, forstå og agere efter vores egne behov.
+Selvværdet kommer ikke medfødt, men er præget af livets mange erfaringer. De erfaringer udforsker og arbejder vi med for at forstå, hvorfor vi tænker om os selv som vi gør. Vi hjælper og støtter hinanden i dette arbejde, og vi vil derfor indgå på lige fod med gruppens øvrige deltagere. 
+(link: https://avilius.dk/team/emilie-stolle text: Mød Emilie)  (link: https://avilius.dk/team/rachad-koleilat text: Mød Rachad)
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Det har været et spændende forløb,
+    hvor jeg har fået redskaber og
+    værktøjer samt brugbar viden, som jeg
+    kan bruge til at arbejde med mig selv og
+    blive bedre til at tackle svære tanker,
+    følelser og mønstre.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/selvvaerd text: Selvværd)'
+- 
+  quote: >
+    Setuppet var mega fedt – mere en
+    dialog blandt ligesindede end et
+    foredrag. Alle var på og deltog aktivt
+    med tanker, følelser og synspunkter.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/selvvaerd text: Selvværd)'
+- 
+  quote: >
+    Det har hele vejen igennem været sådan
+    en god, rar, lærerig oplevelse, hvor
+    jeg er blevet opmærksom på mange ting
+    om mig selv, jeg ikke var klar over.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/selvvaerd text: Selvværd)'
+- 
+  quote: >
+    Emilie og Rachad, I gjorde det så godt!
+    Det var så rart, at I selv delte ud af
+    personlige historier/erfaringer – man
+    følte sig tryg/set/i øjenhøjde.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/selvvaerd text: Selvværd)'
+
+----
+
+Dates:
+
+- 
+  introdate: 14. februar
+  introtime: 16:30 — 18:30
+  remainingdates: |
+    14. februar kl. 16:30 — 18:30
+    21. februar kl. 16:30 — 18:30
+    28. februar kl. 16:30 — 18:30
+    7. marts kl. 16:30 — 18:30
+    14. marts kl. 16:30 — 18:30
+    21. marts kl. 16:30 — 18:30
+  time: 18 — 20
+
+----
+
+Spots: Ledige pladser
+
+----
+
+Programdescription:
+
+Vi har lavet et gruppeforløb, hvor du som ung kan lære om og arbejde med dit selvværd. I gruppen vil du møde andre unge, der kæmper med lignende problematikker, og du vil blive udstyret med en bred vifte af konkrete værktøjer.
+
+Gennem undervisning, øvelser og diskussioner vil vi klæde dig på til at skabe en bedre relation med dig selv, give dig de rette værktøjer, og styrke dit mentale immunforsvar – selvværdet! Hver kursusgang starter med en tjek-in runde, hvor vi støtter og hjælper hinanden med øvelserne. Gruppen er deltagerdrevet og bygger på vores fælles snakke. 
+
+Gruppen løber over seks uger med sessioner af to timers varighed.
+
+Her i oversigten kan du få et indblik i forløbets indhold.
+
+----
+
+Program:
+
+- 
+  number: "1"
+  headline: Selvværdets og selvkritikkens fødsel
+  description: |
+    Vi starter forløbet ud med at gå på opdagelse i de fundamentale områder af selvværdet. Selvværd kan imidlertid være en flydende størrelse, derfor udforsker vi sammen følgende spørgsmål i gruppens første to kursusgange:
+    
+    1. Hvad er forskellen på selvværd og selvtillid?
+    2. Hvorfor har vi overhovedet et selvværd?
+    3. Og hvor kommer selvkritikken ind?
+    Gennem en række metaforer og øvelser får vi dannet et grundlag for arbejdet med selvværd og egenomsorg.
+    Blandt andet laver vi første gang et selvværdstjek, hvor vi ser på otte områder af vores liv.
+- 
+  number: "2"
+  headline: Selvværdet og selvkritikkens fødsel 2
+  description: >
+    Selvværdets og selvkritikkens fødsel
+    er så centralt et emne, at vi har valgt
+    at dele det op i to. Denne gang
+    fortsætter, hvor vi slap sidst, med at
+    få afdækket de centrale områder af
+    selvværdet. Vi deler erfaringer for at
+    blive klogere på, hvad der kan stå i
+    vejen for at stærkt selvværd.
+- 
+  number: "3"
+  headline: 'Værktøjer: Bevidsthed, forsvar og egenomsorg'
+  description: >
+    Når vi bliver født, er det essentielt
+    at tilpasse os vores familie og samfund,
+    og det er her at selvkritikken opstår
+    – for at sikre vores sociale
+    overlevelse. Derfor kan det være svært
+    at ændre vores selvkritik, da den har
+    fulgt os i store dele af vores liv.
+    Denne gang undersøger vi derfor,
+    hvordan vi bliver bevidste om vores
+    selvkritik og dermed kan begynde at
+    arbejde med den. I dette arbejde bliver
+    selvomsorg centralt som et alternativ
+    til selvkritik.
+- 
+  number: "4"
+  headline: 'Værktøjer: Grænsesætning og ærlighed 🙅‍♀️'
+  description: >
+    En del af selvværdsarbejdet handler om
+    at kunne mærke vores grænser. Det
+    kræver en stor mængde ærlighed
+    overfor os selv – herunder at turde
+    erkende, når vores grænser bliver
+    overskredet – for at kunne sige fra.
+    Dette er imidlertid nemmere sagt end
+    gjort, så det kan være hjælpsomt at
+    bruge en række værktøjer i det
+    kontinuerlige arbejde med grænser.
+    Netop fordi det kan være svært at
+    mærke egne grænser, bliver
+    erfaringsudvekslingen i gruppen en
+    vigtig del af denne gang.
+- 
+  number: "5"
+  headline: 'Værktøjer: Motivation og egenomsorg'
+  description: >
+    Det kan være hårdt at arbejde med
+    selvværd – så det er vigtigt at vi
+    er motiverede til at blive ved med at
+    arbejde på det. Ligesom at vi hver dag
+    må tage vores opvask for at undgå at
+    vores hjem bliver fyldt op med beskidte
+    tallerkner, må vi også tage vores
+    mentale opvask. Derfor arbejder vi denne
+    gang med værktøjer, som kan opretholde
+    og højne vores motivation. Egenomsorg
+    er ligeledes et virksomt værktøj, når
+    det kommer til vores motivation for at
+    arbejde med os selv. Derfor fokuserer vi
+    denne gang på at tage nogle af
+    fordommene ud af egenomsorg.
+- 
+  number: "6"
+  headline: >
+    Det videre arbejde med selvværd og
+    egenomsorg
+  description: |
+    Denne sidste gang følger vi op på de foregående gange, og taler om hvordan vi kan fortsætte med at højne vores selvværd. Hvordan kan vi sikre, at vi sætter tid af til os selv? Hvilke områder skal vi være opmærksomme på fremadrettet? Vi genbesøger desuden vores selvværdstjek for at se, hvor vi har rykket os.
+    
+    Arbejdet med selvværd er kontinuerligt, så denne gang taler vi ligeledes om, hvordan vi kan fastholde motivationen for at fortsætte vores med at møde os selv med egenomsorg.
+    
+    Lyder forløbet interessant for dig? Kontakt gruppelederne via emailknappen øverst på siden.
+
+----
+
+Seotitle: Selvværd – et gruppeforløb fra Avilius
+
+----
+
+Seodescription: Føler du, at dine tanker om dig selv sætter en stopper for alt det sjove her i ungdomslivet? Læs mere om vores gruppeterapiforløb, der lærer dig at håndtere dit dårlige selvværd.
+
+----
+
+Seokeywords: selvværd, lavt selvværd, lav selvtillid, selvtillid terapi, selvtillid unge, egenomsorg, selvkærlighed, selvkritik
+
+----
+
+Seoimage: 
+
+----
+
+Contact: kontakt@avilius.dk
+
+----
+
+Ctaheadline: Vil du gerne blive klogere på kærligheden?
+
+----
+
+Ctatext: Skriv til Ragnhild — så får du besked, når der er plads på holdet!
+
+----
+
+Pricedescription: Det er sjældent man har 1600,- på lommen. Vi har lavet to betalingsmåder, så du kan få SU-økonomien til at række.
+
+----
+
+Tieronedescription: Betal hver gang
+
+----
+
+Tieroneprice: 250
+
+----
+
+Tieronetotal: 2.000
+
+----
+
+Tiertwodescription: Betal det hele på én gang
+
+----
+
+Tiertwoprice: 200
+
+----
+
+Tiertwototal: 1.600
+
+----
+
+Perks:
+
+- 
+  perk: Gratis introaften
+- 
+  perk: Otte ugers forløb
+
+----
+
+Announcementtext: 8 ugers forløb
+
+----
+
+Announcementprice: 200
+
+----
+
+Excerpt: Det er med psykologiens blik, at vi i gruppen undersøger livets helt store mysterie. Vi bliver blive klogere på, hvordan vi bedre kommunikerer vores behov og får dem dækket. Vi skal snakke om hjertesorg og om, hvordan den tidlige tilknytning i livet spiller ind i vores forhold som voksne og meget mere.
+
+----
+
+Portraitcaption: Forløbet ledes af (link: /team/ragnhild-mohn text: Ragnhild) og (link: /team/jonas-schosler text: Jonas).
+
+----
+
+Image: - ragnhild.png
+
+----
+
+Start: 
+
+----
+
+Firstname: Jonas
+
+----
+
+Entry: 

@@ -1,0 +1,56 @@
+Title: Meningsløshed – guld uden grønne skove
+
+----
+
+Date: 2021-09-02
+
+----
+
+Card: false
+
+----
+
+Theme: f0f1b4
+
+----
+
+Author: Markus Jacobsen
+
+----
+
+Authorlink: 
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  avilius-meningsfuldhed-jonas-schoesler-2.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Streamingtjenester giver os adgang til tusindvis af filmmesterv\u00e6rker, serier og hele verdens kunstneres samlede diskografi. Vi kan g\u00e5 ned i supermarkedet og g\u00e5 p\u00e5 opdagelse i krydderier fra hele verden. Og for dem, der er blevet f\u00f8lelseskolde over for alt det, verden har at tilbyde det gennemsnitlige vestlige menneske, kan vi ogs\u00e5 k\u00f8be \u201doplevelser\u201d. Du kan altid bungee-jumpe fra et lidt h\u00f8jere sted. Pr\u00f8ve en k\u00f8retur i en lidt hurtigere sportsvogn.&nbsp;<\/p>"},"id":"47c3f96a-b9e0-4006-a898-f0833df72612","isHidden":false,"type":"text"},{"content":{"text":"<p>Samtidig er der flere og flere mennesker, der har det psykisk d\u00e5rligt. Hvordan skal man forst\u00e5 det, n\u00e5r der er en s\u00e5dan overflod af muligheder for materiel adspredelse? Her kommer der et bud. Til at besvare sp\u00f8rgsm\u00e5let skal vi bruge det lidt t\u00f8rre udtryk fra \u00f8konomien man kalder \u2728 inflation \u2728 og en gammel gr\u00e6sk myte \ud83c\udfdb<\/p><p><\/p>"},"id":"a48527be-d7a1-401b-a6e5-e0f4f75fe12e","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Kong Midas"},"id":"7436c0bb-9018-4c22-8bd4-060600c95aee","isHidden":false,"type":"heading"},{"content":{"text":"<p>Kong Midas var ham, der \u00f8nskede sig at alt, hvad han r\u00f8rte ved, blev til guld. Han endte med at d\u00f8 af sult, da alt mad blev til guld i hans mund. Hvad har det med vores sp\u00f8rgsm\u00e5l at g\u00f8re? Her er en m\u00e5de at se det p\u00e5: Vi mennesker er ikke (i hvert fald ikke de fleste af os) indrettet til bare at synes, at \u201ddet hele er fedt\u201d. Vi kan som regel finde et eller andet, der ikke heeeeeelt er som det skal v\u00e6re. Da vi var hulem\u00e6nd og j\u00e6vnligt blev angrebet af sabeltigre, var det tit ret let at overbevise sig selv om, at der var noget, der var v\u00e6rd at give sig i kaste med. Men hvad med nu?&nbsp;<\/p><p><\/p>"},"id":"109baaef-9a0f-4a0e-8ac6-0ff2551b1bed","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201dHvis jeg bare f\u00e5r klaret mig gennem den h\u00e5rde uge, s\u00e5 er der fest p\u00e5 fredag, og s\u00e5 er alt godt.\u201d<\/p><p>\u201dEksamen skal bare lige overst\u00e5s.\u201d<\/p><p>\u201dI morgen bliver et helvede, men bagefter\u2026\u201d<\/p><p>T\u00e6nker du nogle gange s\u00e5dan? Det er der nok mange af os, der g\u00f8r. Vi l\u00f8ser et problem og venter p\u00e5, at det n\u00e6ste opst\u00e5r. Vi lever mellem problemer, og mellemrummet f\u00f8les for mange nok i stigende grad som \u00e6blet, der bliver til guld i munden. Alt det, vi kan nyde, n\u00e5r vi har fri, giver os den samme tomhedsf\u00f8lelse, som den Kong Midas havde i mavsen. For hvad er \u201dmeningen\u201d? Det er det ord, vi bruger. Men ved vi overhovedet hvad, det er vi eftersp\u00f8rger? Det f\u00f8lgende er ikke en tilf\u00f8jelse til den allerede betydeligt lange liste af fors\u00f8g p\u00e5 at besvare det sp\u00f8rgsm\u00e5l. Her er blot et sp\u00e6dt bud p\u00e5, hvad mening IKKE er.&nbsp;<\/p><p><\/p>"},"id":"e02dfb9f-cd28-4941-875d-85c25acb5b49","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Det sp\u00e6de bud"},"id":"f24c549d-ae46-46b1-80dc-cd083008c4ca","isHidden":false,"type":"heading"},{"content":{"text":"<p>Problemet med problemer er, at der g\u00e5r inflation i dem, nu flere vi l\u00f8ser. Alts\u00e5, at noget bliver mindre og mindre v\u00e6rd. Det kan godt v\u00e6re, vi stadig form\u00e5r at fort\u00e6lle os selv, at ALT bliver godt, hvis vi lige f\u00e5r overst\u00e5et X, k\u00f8bt Y eller h\u00f8rt Z live. Tit, n\u00e5r noget f\u00f8les meningsfuldt, er det som at drikke af et uudt\u00f8mmeligt kar. En god ven for eksempel! Det er ikke noget, du lige skal \u201dklare\u201d, n\u00e5r du ser din gode ven. Og hvis du ser hende, fordi du vil nyde at have fri, er det heller ikke noget, der efterlader en tom smag i munden. Kong Midas lavede ogs\u00e5 sin familie og venner om til guld. Deri l\u00e5 den sande forbandelse. S\u00e5 l\u00e6nge du har en god ven, har livet en smag, du aldrig bliver tr\u00e6t af.<\/p>"},"id":"418a4a0e-a903-4732-bbaa-7d0499b79503","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["jonas-schoesler-avilius-4.jpg"],"description":"**Leder du efter meningen med livet?**\nI Avilius fors\u00f8ger vi at finde den sammen \u2013\u00a0blandt andet i et gruppeforl\u00f8b om det meningsfulde liv, hvor vi udforsker retning, identitet og v\u00e6rdier. Nye hold hver weekend.","link":"https:\/\/avilius.dk\/grupper\/det-meningsfulde-liv","linktext":"Find lidt mening her","linkcolor":"lpurple","linktextcolor":"purple"},"id":"b239f742-24dc-408d-8f5f-25dda199c9b2","isHidden":false,"type":"cta"}]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 

@@ -1,0 +1,54 @@
+title: Home
+icon: 🏠
+
+options:
+  status: false
+
+columns:
+  - width: 1/2
+    fields:
+      caption:
+        label: Cover caption
+        type: text
+        size: small
+
+      introduction:
+        label: Introduction
+        type: textarea
+        size: small
+
+      cover:
+        label: Cover
+        type: files
+        multiple: false
+
+  - width: 1/2
+    fields:
+      quote:
+        label: Quote
+        type: structure
+        fields:
+          text:
+            label: Quote
+            type: text
+            width: 1/1
+          author:
+            label: Author
+            type: text
+            width: 1/2
+          work:
+            label: Work
+            type: text
+            width: 1/2
+      text:
+        label: News
+        type: textarea
+      link:
+        label: Url
+        type: url
+        width: 1/2
+      image:
+        label: Picture
+        type: files
+        width: 1/2
+        multiple: false

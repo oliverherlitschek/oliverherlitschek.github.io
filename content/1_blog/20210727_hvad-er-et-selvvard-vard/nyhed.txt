@@ -1,0 +1,61 @@
+Title: Hvad er et selvværd værd?
+
+----
+
+Date: 2021-07-27
+
+----
+
+Card: false
+
+----
+
+Theme: f0f1b4
+
+----
+
+Author: Rachad Koleilat
+
+----
+
+Authorlink:
+
+- team/rachad-koleilat
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- avilius-hvad-er-et-selvvaerd-vaerd.jpg
+
+----
+
+References:
+
+- 
+  name: 'Cover: Rudolf Polanszky - Reconstruction Dunkle Spiegel, 2017'
+  url: ""
+
+----
+
+Text: [{"content":{"text":"<p>\u201dJeg er doven\u201d, \u201dJeg kan ikke finde ud af noget\u201d, \u201dJeg er ikke lige s\u00e5 intelligent som andre\u201d, \u201dDer er ikke nogen, der nogensinde vil kunne elske mig\u201d.<\/p>"},"id":"92294b73-17e3-41a6-be88-a1c16199605c","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00e5r du denne her slags tanker en gang imellem? M\u00e5ske mere end en gang imellem? Hvis ja, er du i hvert fald ikke den eneste. Samtlige statistikker viser, at vores selvv\u00e6rd er dalende. I denne her artikel kommer vi kort til at kigge p\u00e5, hvad vi kan g\u00f8re ved det. F\u00f8rst er vi lige n\u00f8dt til at minde os selv om, hvad selvv\u00e6rd er.<\/p>"},"id":"77377f58-d8f7-4572-94d0-a4dbff944dfb","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Hvor meget er mit selvv\u00e6rd s\u00e5 v\u00e6rd?<\/strong>"},"id":"0e812e7d-68c2-48c1-b899-0a318d258d40","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det lyder m\u00e6rkeligt i vores \u00f8rer, n\u00e5r vi stiller sp\u00f8rgsm\u00e5let p\u00e5 den m\u00e5de. Men eftersom, der er s\u00e5 mange af os, der har d\u00e5rligt selvv\u00e6rd, er det tydeligvis et sp\u00f8rgsm\u00e5l, der optager os en del. Det f\u00f8rtse vi skal huske p\u00e5 er, at vi mennesker er sociale v\u00e6sner. Meget af det, der giver vores liv mening, er de f\u00e6llesskaber vi indg\u00e5r i. Skole, sport, bands, job, venner du g\u00e5r i byen med \u2013 det er lige f\u00f8r, vi kan tale om alt det, vi laver i l\u00f8bet af en dag ved at referere til de f\u00e6llesskaber, vi bev\u00e6ger os imellem.<\/p>"},"id":"8e3d66f7-2c1b-4a68-a192-067cb45e4630","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["selvvaerd-avilius-2-23.34.43.jpg"],"description":"**Lavt selvv\u00e6rd?**\nL\u00e6ser du med, fordi du er utilfreds med dit selvbillede? Vi har et gruppeforl\u00f8b til dig, der gerne vil blive klogere p\u00e5 dine negative tanker om dig selv.","link":"https:\/\/avilius.dk\/grupper\/selvvaerd","linktext":"Klik her for selvk\u00e6rlighed","linkcolor":"lpurple","linktextcolor":"purple"},"id":"ab2c1830-735b-4f35-889d-ab4b5c968cf3","isHidden":false,"type":"cta"},{"content":{"text":"<p><\/p><p>Det, at vi som v\u00e6sner er s\u00e5 sociale, som vi er, er noget der tilf\u00f8rer vores tilv\u00e6relse en utrolig rigdom, men der er ogs\u00e5 en slagside \u2013 at det er sv\u00e6rt for os at lade v\u00e6re med at sammenligne os med andre hele tiden. Det er sv\u00e6rt for os ikke at t\u00e6nke p\u00e5, hvor meget vi er \u201dv\u00e6rd\u201d i forhold til andre.<\/p><p><\/p><p><\/p>"},"id":"abb27cbc-67e9-4b40-871f-ba74acc71787","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Hierarkier<\/strong>"},"id":"7123f55d-412d-4e7d-ab5f-cbabaac1d0b4","isHidden":false,"type":"heading"},{"content":{"text":"<p>N\u00e5r vi t\u00e6nker over, hvor godt vi ser ud, eller hvor kloge vi er, bruger vi ofte vores indre l\u00e6kkerheds- og kloghedsranglister. I de f\u00e6llesskaber, vi indg\u00e5r i, har de fleste af os en rimelig god ide om, hvor vi rangerer p\u00e5 en r\u00e6kke omr\u00e5der. Det kan fx v\u00e6re, at du har en ide om, at du ser bedre ud end to af dine veninder, men at den ene af dem til geng\u00e6ld er i bedre fysisk form og er sundere end dig. Vi holder ogs\u00e5 hele tiden \u00f8je med \u201dtotalscoren\u201d. Hvis vi ligger i bund p\u00e5 mange af listerne, kan det v\u00e6re, vi bliver bekymrede for hvor meget, vi overordnet set \u201der v\u00e6rd\u201d; vi f\u00e5r d\u00e5rligt selvv\u00e6rd.<\/p>"},"id":"c5536d97-ceda-4fbc-b6b9-fb6d747e8646","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Hvor meget er min veninde v\u00e6rd?<\/strong>"},"id":"8c5167b2-09a5-4699-816f-4b338e6cd07b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Endnu et m\u00e6rkeligt sp\u00f8rgsm\u00e5l. Forskellen er, at det nok ikke er noget, du har spurgt dig selv om s\u00e5 tit. Hvorfor ikke? Fordi du v\u00e6rds\u00e6tter din veninde for det, hun er. Du kan v\u00e6re dig selv i hendes selskab, I griner sammen, og du er venner med hende, ikke fordi hun rangerer h\u00f8jt p\u00e5 en masse lister, men netop fordi listerne virker mindre vigtige, n\u00e5r du er sammen med hende. Den attitude vi har til dem, vi holder af, er den m\u00e5de, vi \u201dhacker\u201d vores selvkritiske stemme p\u00e5. Hvis vi kan huske os selv p\u00e5, at vi aldrig nogensinde ville d\u00f8mme dem, vi holder af, s\u00e5 h\u00e5rdt, som vi d\u00f8mmer os selv for de ubetydelige sm\u00e5fejl, vi laver, er vi godt p\u00e5 vej til at f\u00e5 et bedre selvv\u00e6rd.&nbsp;<\/p><p><\/p>"},"id":"ffdbc259-8fec-4694-998a-cdf39e17515e","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["selvvaerd-avilius-2-23.34.43.jpg"],"description":"**K\u00e6mper du med selvv\u00e6rdet?**\nRachad og Emilie er gruppeledere af Selvv\u00e6rd \u2013 et gruppeforl\u00f8b om egenomsorg. L\u00e6r mere her \u2935\ufe0f","link":"https:\/\/avilius.dk\/grupper\/selvvaerd","linktext":"Bedre selvv\u00e6rd, tak!","linkcolor":"lpurple","linktextcolor":"purple"},"id":"8943fa4a-4db5-477b-b405-994d7a8c7de7","isHidden":false,"type":"cta"}]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 

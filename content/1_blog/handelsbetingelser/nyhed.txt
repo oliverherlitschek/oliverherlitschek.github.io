@@ -1,0 +1,73 @@
+Title: Handelsbetingelser
+
+----
+
+Date: 2019-08-21
+
+----
+
+Card: false
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Avilius-teamet
+
+----
+
+Authorlink: 
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"level":"h2","text":"Tavshedspligt og underretningspligt"},"id":"75b8bb6b-5669-43f4-b353-71b9a4c7afd2","isHidden":false,"type":"heading"},{"content":{"text":"<p>Avilius har tavshedspligt vedr\u00f8rende alle personlige forhold erfaret i forbindelse med et terapiforl\u00f8b. S\u00e5ledes vil eksistensen af klient\/terapeutforholdet, diskussioner mellem terapeut og klient samt alle informationer og dokumenter vedr\u00f8rende klienten v\u00e6re fortrolige.<br><br>Det er kun underretningspligten, der kan oph\u00e6ve tavshedspligten. Underretningspligten er en personlig pligt, der g\u00e6lder b\u00e5de for fagpersoner og den almindelige borger, n\u00e5r man f\u00e5r kendskab til eller grund til at antage, at en klient under 18 \u00e5r har brug for s\u00e6rlig st\u00f8tte, eller giver udtryk for at blive udsat for vanr\u00f8gt, nedv\u00e6rdigende behandling eller livsforhold, der skader barnets sundhed eller udvikling. Hvis Avilius har grund til at v\u00e6re mere end almindeligt bekymret for din trivsel og udvikling, skal vi som udgangspunkt underrette din kommune om vores bekymring, kun s\u00e5fremt klienten er under 18 \u00e5r.<\/p>"},"id":"2491aeb0-3779-4f28-a8dc-a6673a6ba9e3","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Etiske principper for nordiske psykologer"},"id":"0643b759-04b4-42b0-956f-8a033bde5124","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vi arbejder under de etiske principper for psykologer i Norden, hvilket best\u00e5r af fire hovedprincipper:<br><br>1. Respekt for klientens rettigheder og v\u00e6rdighed<br>2. Kompetence<br>3. Ansvar<br>4. Integritet<br><br><strong>Respekt for klientens rettigheder og v\u00e6rdighed<br><\/strong>Samtalepartneren i Avilius viser respekt for ethvert menneskes rettigheder, v\u00e6rdighed og integritet og arbejder for at fremme udviklingen heraf. Samtalepartneren respekterer individets ret til privatliv, fortrolighed, selvbestemmelse og autonomi \u2013 i overensstemmelse med \u00f8vrige arbejdsm\u00e6ssige forpligtelser og i henhold til g\u00e6ldende lovgivning.<br><br><strong>Kompetence<br><\/strong>Samtalepartneren i Avilius bestr\u00e6ber sig p\u00e5 at udvikle og opretholde h\u00f8jt fagligt kvalifikationsniveau i sit arbejde. Samtalepartneren tilstr\u00e6ber bevidsthed om sine faglige og menneskelige st\u00e6rke og svage sider, s\u00e5ledes at samtalepartneren realistisk kan vurdere, med hvilken kompetence samtalepartneren kan p\u00e5tage sig opgaver. Samtalepartneren p\u00e5tager sig kun de opgaver, tilbyder kun de ydelser og bruger kun de metoder, der kan im\u00f8dekommes i kraft af kvalifikationer i uddannelse, tr\u00e6ning og erfaring.<br><br><strong>Ansvar<br><\/strong>Samtalepartneren er opm\u00e6rksom p\u00e5 det professionelle og videnskabelige ansvar, samtalepartneren har for sine klienter og den organisation og det samfund, som samtalepartneren lever og arbejder i. Samtalepartneren undg\u00e5r at forvolde skade og er ansvarlig for sine handlinger. Samtalepartneren sikrer sig, s\u00e5 vidt det er muligt, at deres ydelse ikke misbruges.<br><br><strong>Integritet<br><\/strong>Samtalepartneren tilstr\u00e6ber at fremme sin personlige faglige integritet inden for forskning, undervisning og anvendt psykologi. Dette indeb\u00e6rer, at samtalepartneren optr\u00e6der \u00e6rligt, upartisk og respektfuldt over for relevante involverede parter. samtalepartneren fors\u00f8ger at synligg\u00f8re og klarg\u00f8re sin egen rolle i de forskellige sammenh\u00e6nge, samtalepartneren arbejder i.<\/p>"},"id":"77876a7a-7ba8-4d9e-adbf-611301558c87","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Aflysningspolitik"},"id":"7906890d-afa4-4cbc-b2f9-448eab551f62","isHidden":false,"type":"heading"},{"content":{"text":"<p>N\u00e5r du starter i et individuelt forl\u00f8b hos Avilius accepterer du et aflysningsgebyr p\u00e5 299,- (f\u00f8rste samtale er undtaget), hvis aflysningen finder sted 24 timer inden den planlagte aftale. Du skal alts\u00e5 aflyse din aftale mere end et d\u00f8gn f\u00f8r aftalen finder sted.<br><br>I tilf\u00e6lde af force majeure, som for eksempel ved ulykker el.lign. frafalder aflysningsgebyret.<\/p>"},"id":"ee8a50df-b1ed-47c3-b800-b82a02b64160","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Gruppeforl\u00f8b<br><\/strong>Alle gruppeforl\u00f8b er underlagt en bindingsperiode p\u00e5 hele forl\u00f8bets l\u00e6ngde uanset valgt betalingsrate.<\/p>"},"id":"c8fd1a2d-953f-41ae-8f69-0884ca7f5afc","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Introduction: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 

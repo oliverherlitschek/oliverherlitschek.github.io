@@ -1,0 +1,32 @@
+title: Leksikon
+icon: 📚
+
+options:
+  status: false
+
+tabs:
+  content:
+    fields:
+      entry:
+          label: Entry
+          type: structure
+          sortBy: headline asc
+          fields:
+            headline:
+              label: Headline
+              type: text
+            image:
+              label: Image
+              type: files
+              multiple: false
+            text:
+              label: Content
+              type: blocks
+              fieldsets:
+                - text
+                - image
+                - video
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

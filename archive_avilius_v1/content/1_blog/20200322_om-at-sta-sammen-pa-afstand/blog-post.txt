@@ -1,0 +1,98 @@
+Title: Om at stå sammen – på afstand
+
+----
+
+Date: 2020-03-22
+
+----
+
+Author: Oliver Herlitschek
+
+----
+
+Cover:
+
+- avilius-at-staa-sammen.jpg
+
+----
+
+References: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<code>\ud83e\udda0 Opdateret 25/4/2020</code>",
+        "id": "_tz1berlm1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi k\u00f8rer nu igen fysiske forl\u00f8b i vores samtalerum. Er du interesseret i at starte et onlineforl\u00f8b, kan du notere det i besked-feltet p\u00e5 <a href=\"/form\">Book en tid</a>.",
+        "id": "_6mvue6qxk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Som mange andre rundt omkring i verden, er vi ogs\u00e5 i Avilius ramt af corona-virussens effekt p\u00e5 menneskerne omkring os \u2013 og den m\u00e5de, vi omg\u00e5s p\u00e5. Det er en paradoksal tid, hvor det at v\u00e6re alene er bedst for f\u00e6llesskabet. En tid, hvor n\u00e6stek\u00e6rlighed og omsorg helst skal ske med et par armsl\u00e6ngders afstand.",
+        "id": "_r2bufc8o8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Mange af os vil opleve isolation, hudsult, \u00e6ngstelighed og ensomhed. F\u00f8lelser, som er nye, ukendte og m\u00e5ske ekstra udfordrende, fordi vi st\u00e5r med dem alene.",
+        "id": "_ys4zrtjm5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Heldigvis kan vi i Avilius forts\u00e6tte n\u00e6sten som vi plejer:",
+        "id": "_19fybi16b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Hvis du er i gang med et forl\u00f8b<br></strong>I Avilius har vi valgt at f\u00f8lge <a href=\"https://www.sst.dk/da/corona\">Sundhedsstyrelsens anbefalinger</a> og oml\u00e6gge alle igangv\u00e6rende individuelle samtaleforl\u00f8b til at foreg\u00e5 online. Du vil, i samarbejde med os, forts\u00e6tte dit forl\u00f8b som normalt, blot over videochat i stedet for p\u00e5 Esromgade 15.",
+        "id": "_sdsixunk1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Hvis du overvejer at starte i et forl\u00f8b</strong><br>Overvejer du at starte i et forl\u00f8b hos Avilius, vil det p\u00e5 nuv\u00e6rende tidspunkt foreg\u00e5 via video. S\u00e5 snart COVID-19 ikke l\u00e6ngere udg\u00f8r en sundhedsm\u00e6ssig udfordring, kan du forts\u00e6tte over video eller i vores samtalerum.",
+        "id": "_98q1o1ote",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+om-at-sta-sammen-pa-afstand/files/avilius-karantaene-moede.jpg",
+            "src": "https://avilius.dk/media/pages/blog/om-at-sta-sammen-pa-afstand/3928525001-1584891495/avilius-karantaene-moede.jpg",
+            "id": "blog/om-at-sta-sammen-pa-afstand/avilius-karantaene-moede.jpg",
+            "ratio": 1.5810276679841896996236982886330224573612213134765625,
+            "caption": "<strong>New normal</strong> Ingenting er som det plejer, men det hj\u00e6lper lidt p\u00e5 hum\u00f8ret at lade som om. Vi bevarer lidt af hverdagens struktur ved at m\u00f8des over Skype i stedet for i en rundkreds."
+        },
+        "content": "",
+        "id": "_pyp9bxpi2",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Mens vi venter p\u00e5 hverdagen, opfordrer vi alle til at vaske deres h\u00e6nder, checke op p\u00e5 deres n\u00e6reste, l\u00e6re at bage den perfekte croissant og nyde den friske for\u00e5rsluft gennem \u00e5bne vinduer.",
+        "id": "_f3wp4avbw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_yl361usju",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De varmeste hilsner fra Oliver, Jonas, Sylvester, Anna, Elias, Tamara, Sedsel, Michelle, Esther, Ragnhild, Hannibal og Cecilie \u2728",
+        "id": "_4f9xja1d0",
+        "type": "paragraph"
+    }
+]

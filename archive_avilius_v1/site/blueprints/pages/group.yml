@@ -1,0 +1,40 @@
+title: Group
+icon: 👨‍👨‍👧‍👦
+sortable: true
+
+status:
+  draft: true
+  listed: true
+
+columns:
+  - width: 2/3
+    fields:
+      description:
+          label: Description
+          type: textarea
+  - width: 1/3
+    fields:
+      dates:
+          label: Dates
+          type: text
+          placeholder: "Mandage 10–12"
+      spots:
+          label: Spots
+          type: number
+          default: 8
+      excerpt:
+          label: Caption
+          type: text
+      length:
+          label: Length
+          type: text
+      start:
+          label: Next start
+          type: date
+      therapist:
+        label: Therapist
+        type: select
+        options: query
+        query: 
+          fetch: site.children.template("therapists").children.published
+          text: "{{ page.title}}"

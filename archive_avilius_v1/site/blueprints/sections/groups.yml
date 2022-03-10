@@ -1,0 +1,7 @@
+type: pages
+headline: Groups
+parent: kirby.page("groups")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: group
+empty: No posts yet
+sortBy: title

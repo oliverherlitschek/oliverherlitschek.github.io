@@ -1,0 +1,222 @@
+Title: Stenalderhjernen i et hightech-samfund: Sådan får du bedre digitale vaner
+
+----
+
+Date: 2020-04-08
+
+----
+
+Card: false
+
+----
+
+Theme: bbd663
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Authorlink:
+
+- team/jonas-schosler
+
+----
+
+Tags: Blog post
+
+----
+
+Cover:
+
+- avilius-imran-rashid-podcast-iphone.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: ”Vi kører konstant på en tunet knallert uden at være bevidst om det. Det kan føles som at holde for rødt, mens speederen er helt i bund. Vi er altså overladt til os selv og vores egne vaner. Det gælder om at komme ud og mærke, at vi kan have nogle oplevelser, der ikke kræver vores opmærksomhed."
+
+----
+
+Text: [{"content":{"text":"<p>Jeg tog i sidste uge en snak med <a href=\"https:\/\/drimranrashid.com\/da\/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Imran Rashid<\/a>. Imran er l\u00e6ge og forfatter til blandt andet bogen <em><a href=\"https:\/\/www.saxo.com\/dk\/sluk_imran-rashid_haeftet_9788711566633\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Sluk \u2013 kunsten at overleve i en digital verden<\/a><\/em>. Bogen besk\u00e6ftiger sig med de konsekvenser, et ubevidst, ukritisk og ureguleret digitalt forbrug har for vores mentale trivsel.<\/p>"},"id":"469d011f-00b8-45ed-a603-7f88a1bbe4d9","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg ringede til Imran, fordi jeg ved, at mange \u2013 specielt i de her dage \u2013 er udfordret p\u00e5 at opretholde en struktureret og motiveret hverdag, uden at det ender i <em>digital foie gras<\/em> af nyheder, Netflix, sociale medier og YouTube-videoer.<\/p>"},"id":"c036cd65-5e0d-4ca3-8f9f-193aaa5e54d8","isHidden":false,"type":"text"},{"content":{"text":"\u201dJeg tror efterh\u00e5nden, at de fleste har fundet ud af, at der ikke er en bund i deres Facebook-feed.\"","citation":"Imran Rashid"},"id":"a3debae9-1cfa-40db-843b-82a1af1f4d32","isHidden":false,"type":"quote"},{"content":{"text":"<p>Vi er mange, der sidder sidst p\u00e5 dagen med den samme f\u00f8lelse, som man sidder med efter middagen juleaften: <em>Det var m\u00e5ske lige en bid for meget<\/em>. Problemet er, at vi ikke bare kan l\u00f8sne et par bukseknapper \u2013 for her er det vores hjerne, det drejer sig om. Og hver gang vi tager en tur mere i den digitale rutschebane, s\u00e5 tr\u00e6ner vi vores hjerne til en bestemt type adf\u00e6rd, der p\u00e5 l\u00e6ngere sigt kan forhindre os i at opn\u00e5 de ting, vi gerne vil.<\/p>"},"id":"7099fdd1-a105-40b4-8202-6d2f47db7983","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201dVores stenalderhjerne har det ganske fint i et h\u00f8jteknologisk og digitalt samfund\", forklarer Imran. \"Den har adgang til ting, der er sjove, sp\u00e6ndende og interessante. Det, stenalderhjernen ikke bryder sig om, er n\u00e5r vi skal g\u00f8re noget, der er tungt, sv\u00e6rt og kr\u00e6vende og som ikke handler om os selv. Det er d\u00e9r, udfordringerne opst\u00e5r.\u201d<\/p>"},"id":"8d3c687d-3c0b-4fb4-a7e4-88939de0d2fa","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Hjernebenzin i en tunet knallert<br><\/strong>Imrans mange \u00e5rs erfaring som l\u00e6ge og iv\u00e6rks\u00e6tter har givet en forst\u00e5else af, hvordan vi kan benytte os af teknologi p\u00e5 en m\u00e5de, der ikke efterlader os helt dr\u00e6net for <em>hjernebenzin<\/em>. Mange tror fejlagtigt, at de lader op, n\u00e5r de slapper af med Facebook eller Netflix, men s\u00e5 l\u00e6nge aktiviteten er opm\u00e6rksomhedskr\u00e6vende, vil hjernen opbruge sine mentale ressourcer.<\/p>"},"id":"a144b0f6-029c-4e97-ba15-0ecef6a1a780","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201dVi k\u00f8rer konstant p\u00e5 en tunet knallert uden at v\u00e6re bevidst om det. Det kan f\u00f8les som at holde for r\u00f8dt, mens speederen er helt i bund. Vi er alts\u00e5 overladt til os selv og vores egne vaner. Det g\u00e6lder om at komme ud og m\u00e6rke, at vi kan have nogle oplevelser, der ikke kr\u00e6ver vores opm\u00e6rksomhed, som at g\u00e5 en tur i en park. At komme ud i naturen efter et digitalt overforbrug, kan v\u00e6re som at komme hjem fra en koncert; vores \u00f8rer og vores sanser skal indstille sig til et andet milj\u00f8.\u201d<\/p>"},"id":"676c6957-607f-4a02-9b42-fe500f741818","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg spurgte ind til, hvordan vi kan identificere, forst\u00e5 og med tiden \u00e6ndre vores digitale vaner.<\/p>"},"id":"da1f85fe-14d4-4ec8-923e-9b149706fbb0","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Identific\u00e9r dine vaner"},"id":"15590601-38fc-4212-a5f9-25be6755e561","isHidden":false,"type":"heading"},{"content":{"text":"<p>Du bliver n\u00f8dt til at sp\u00f8rge dig selv, hvorfor du har den her vane. Hvilket behov opfylder min vane? Opfylder den et af mine behov, eller en andens behov?<\/p>"},"id":"3543f1e7-05b5-4eb3-95a8-e56fb01421aa","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Forst\u00e5 dine vaner"},"id":"3a89a3e6-c0fe-45ef-ab72-db598ba62419","isHidden":false,"type":"heading"},{"content":{"text":"<p>G\u00f8r dig klart, hvorfor du gerne vil \u00e6ndre din vane. Hvor kommer motivationen fra? G\u00f8r du det for andre, for instagram eller for dig selv? Det er ikke vigtigt nok, hvis ikke \u00f8nsket kommer indefra.<\/p>"},"id":"f3845502-89ab-41ba-94c1-2c561b885232","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"G\u00f8r det lettere for dig selv"},"id":"0e57c952-7e13-431f-af2e-77f40ffd89a0","isHidden":false,"type":"heading"},{"content":{"text":"<p>N\u00e5r du s\u00e5 er motiveret, s\u00e5 skal du s\u00e6tte din hverdag op til \"can\u2019t fail\"-oplevelser, s\u00e5dan at du n\u00e6rmest snubler over vane\u00e6ndringen. Et eksempel kunne v\u00e6re, at du gerne vil drikke mere vand. S\u00e5 s\u00e6t dit vandglas oven p\u00e5 din telefon \u2013 s\u00e5 skal du drikke en t\u00e5r, hver gang du f\u00e5r lyst til at checke dine notifikationer.<br><\/p>"},"id":"fe9ce8d2-2009-4814-9ef3-96892a701b94","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"6 corona-r\u00e5d fra Imran"},"id":"ff0b57e0-262f-49e6-9d54-9b84b3c1fc32","isHidden":false,"type":"heading"},{"content":{"text":"<p>1. Husk, at der er ikke noget galt med dig. Du er fuldst\u00e6ndig normal. Vi er f\u00e6lles om den udfordring, at vi tyer til d\u00e9t, som er relevant eller f\u00f8les tilg\u00e6ngeligt, s\u00e6rligt n\u00e5r vi ikke kan komme ud og m\u00f8de vores venner. Derfor er det til geng\u00e6ld vigtigt, at du giver dig selv pauser.<\/p>"},"id":"e2aff418-1f78-4c52-b2b4-3dfa058181fe","isHidden":false,"type":"text"},{"content":{"text":"<p>2. S\u00e5 derfor skal du g\u00e5 nogle ture. G\u00f8r det til en vane at komme ud, ovenp\u00e5 f.eks. en samtale som denne her, for at skabe de her pauser, der er vigtige for din struktur. Kom ud og m\u00e6rk, at du kan have en oplevelse, der ikke kr\u00e6ver din opm\u00e6rksomhed.<\/p>"},"id":"6bd03aa7-c992-456e-b21f-782b57406285","isHidden":false,"type":"text"},{"content":{"text":"<p>3. V\u00e6lg videosamtaler og telefoniske samtaler over andre kommunikationsformer. Det d\u00e6kker i h\u00f8jere grad vores relationelle behov, som f.eks. at f\u00f8le os set.<\/p>"},"id":"c919c9c7-c51e-4a5f-91a6-a9e6d9f47d52","isHidden":false,"type":"text"},{"content":{"text":"<p>4. Begr\u00e6ns adgangen til nyheder. Du kan ikke g\u00f8re noget ved det. Magtesl\u00f8sheden indvirker enormt negativt p\u00e5 os \u2013 mere end virussen selv. Fokus\u00e9r derfor p\u00e5 de ting, du kan g\u00f8re noget ved, som for eksempel at tage skraldet ud, rydde op \u2013 alle mulige ting, hvor du kan se et resultat af dine handlinger.<\/p>"},"id":"8b5aa917-fe02-47a5-a8eb-6456f9fda1fa","isHidden":false,"type":"text"},{"content":{"text":"<p>5. Snak om hvordan du har det. Del dine tanker. Det er ordene, vi deler med hinanden, og i det sekund vi begynder at udveksle vores oplevelser i ord, begynder vi at rydde nogle af de sorte skyer, der h\u00e6nger over os.<\/p>"},"id":"78ad0320-3515-44a6-a08c-f0c6e7af09ac","isHidden":false,"type":"text"},{"content":{"text":"<p>6. Send \u201dSLUK\u201d til 1204, s\u00e5 f\u00e5r du et link til en digital n\u00f8dhj\u00e6lpspakke fra Imran.<\/p>"},"id":"de0fc0dc-35ed-4867-9bed-fa1063885b55","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Fremtiden<br><\/strong>Jeg spurgte Imran, hvordan fremtiden ser ud p\u00e5 den anden side af corona-krisen.<\/p>"},"id":"1bf1123c-8db8-40df-87b8-799500e8ee63","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201dDen her oplevelse af at have st\u00e5et i skoleg\u00e5rden og spillet bold op ad en mur uden nogen venner \u2013 det tror jeg kommer til at \u00e6ndre den m\u00e5de, vi agerer p\u00e5 fremadrettet; det h\u00e5ber jeg i hvert fald\", forklarer han og forts\u00e6tter. \"Svaret p\u00e5 den her krise er et velfungerende f\u00e6llesskab. Det, at vi simpelthen har f\u00e5et en uniform referenceramme, som fort\u00e6ller os, at vi er meget mere lige, meget mere f\u00e6lles og meget mere afh\u00e6ngige af hinanden end det modsatte.\"<\/p>"},"id":"3ca4deef-5af7-4b80-837d-94d551bd38dd","isHidden":false,"type":"text"},{"content":{"text":"<p>Min samtale med Imran er blevet til allerf\u00f8rste episode af <a href=\"https:\/\/open.spotify.com\/show\/1XIBT1EZRPdObDx3bQmnvZ?si=bibP4p1zSXaU3BHDC70bUQ\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Avilius Talks<\/a>, en podcast om at have det godt. Lyt med <a href=\"https:\/\/open.spotify.com\/episode\/24d6CzdSoafWSE3DsZ3M2t?si=h64cfhH5RFuSPpjq6QGn6A\" rel=\"noopener noreferrer nofollow\">her<\/a> eller p\u00e5 linket nedenfor.<\/p>"},"id":"96e31280-217d-4b36-ac0b-d20abd9e7fc2","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/24d6CzdSoafWSE3DsZ3M2t\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"6dc0f70c-d93e-4509-bca4-e42a8f1bdb6b","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Blog - Stenalderhjernen i et hightech-samfund: sådan får du bedre digitale vaner. Af Jonas Schøsler
+
+----
+
+Seodescription: Har du nogensinde oplevet at du er blevet mere træt efter bare at have siddet og slappet af med telefonen? Læge Imran Rashid forklarer hvorfor.
+
+----
+
+Seokeywords: sociale medier, trivsel, corona, digitalt forbrug
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 
+
+----
+
+Content:
+
+[
+    {
+        "attrs": [],
+        "content": "<code>\ud83d\udd08Lyt til podcasten p\u00e5 <a href=\"https://open.spotify.com/show/1XIBT1EZRPdObDx3bQmnvZ?si=e7OapWS-QDqKK0U0Alk9BA\">Spotify</a></code>",
+        "id": "_kaz4kjvly",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg tog i sidste uge en snak med <a href=\"https://drimranrashid.com/da/\">Imran Rashid</a>. Imran er l\u00e6ge og forfatter til blandt andet bogen <em><a href=\"https://www.saxo.com/dk/sluk_imran-rashid_haeftet_9788711566633\">Sluk \u2013 kunsten at overleve i en digital verden</a></em>. Bogen besk\u00e6ftiger sig med de konsekvenser, et ubevidst, ukritisk og ureguleret digitalt forbrug har for vores mentale trivsel.",
+        "id": "_ujl7d5kol",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg ringede til Imran, fordi jeg ved, at mange \u2013 specielt i de her dage \u2013 er udfordret p\u00e5 at opretholde en struktureret og motiveret hverdag, uden at det ender i <em>digital foie gras</em> af nyheder, Netflix, sociale medier og YouTube-videoer.",
+        "id": "_bpVKiXLCf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201dJeg tror efterh\u00e5nden, at de fleste har fundet ud af, at der ikke er en bund i deres Facebook-feed\"<br>-Imran Rashid",
+        "id": "_0pzlih2pz",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Vi er mange, der sidder sidst p\u00e5 dagen med den samme f\u00f8lelse, som man sidder med efter middagen juleaften: <em>Det var m\u00e5ske lige en bid for meget</em>. Problemet er, at vi ikke bare kan l\u00f8sne et par bukseknapper \u2013 for her er det vores hjerne, det drejer sig om. Og hver gang vi tager en tur mere i den digitale rutschebane, s\u00e5 tr\u00e6ner vi vores hjerne til en bestemt type adf\u00e6rd, der p\u00e5 l\u00e6ngere sigt kan forhindre os i at opn\u00e5 de ting, vi gerne vil.",
+        "id": "_wl7cd2qfc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201dVores stenalderhjerne har det ganske fint i et h\u00f8jteknologisk og digitalt samfund\", forklarer Imran. \"Den har adgang til ting, der er sjove, sp\u00e6ndende og interessante. Det, stenalderhjernen ikke bryder sig om, er n\u00e5r vi skal g\u00f8re noget, der er tungt, sv\u00e6rt og kr\u00e6vende og som ikke handler om os selv. Det er d\u00e9r, udfordringerne opst\u00e5r.\u201d",
+        "id": "_8coZynrO8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Hjernebenzin i en tunet knallert<br></strong>Imrans mange \u00e5rs erfaring som l\u00e6ge og iv\u00e6rks\u00e6tter har givet en forst\u00e5else af, hvordan vi kan benytte os af teknologi p\u00e5 en m\u00e5de, der ikke efterlader os helt dr\u00e6net for <em>hjernebenzin</em>. Mange tror fejlagtigt, at de lader op, n\u00e5r de slapper af med Facebook eller Netflix, men s\u00e5 l\u00e6nge aktiviteten er opm\u00e6rksomhedskr\u00e6vende, vil hjernen opbruge sine mentale ressourcer.",
+        "id": "_e94lvaeqe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201dVi k\u00f8rer konstant p\u00e5 en tunet knallert uden at v\u00e6re bevidst om det. Det kan f\u00f8les som at holde for r\u00f8dt, mens speederen er helt i bund. Vi er alts\u00e5 overladt til os selv og vores egne vaner. Det g\u00e6lder om at komme ud og m\u00e6rke, at vi kan have nogle oplevelser, der ikke kr\u00e6ver vores opm\u00e6rksomhed, som at g\u00e5 en tur i en park. At komme ud i naturen efter et digitalt overforbrug, kan v\u00e6re som at komme hjem fra en koncert; vores \u00f8rer og vores sanser skal indstille sig til et andet milj\u00f8.\u201d",
+        "id": "_ptibi06wm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg spurgte ind til, hvordan vi kan identificere, forst\u00e5 og med tiden \u00e6ndre vores digitale vaner.",
+        "id": "_o9bge6bmd",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Identific\u00e9r dine vaner<br></strong>Du bliver n\u00f8dt til at sp\u00f8rge dig selv, hvorfor du har den her vane. Hvilket behov opfylder min vane? Opfylder den et af mine behov, eller en andens behov?",
+        "id": "_r88wsxkti",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Forst\u00e5 dine vaner</strong><br>G\u00f8r dig klart, hvorfor du gerne vil \u00e6ndre din vane. Hvor kommer motivationen fra? G\u00f8r du det for andre, for instagram eller for dig selv? Det er ikke vigtigt nok, hvis ikke \u00f8nsket kommer indefra.",
+        "id": "_mh1f7t8nw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>G\u00f8r det lettere for dig selv<br></strong>N\u00e5r du s\u00e5 er motiveret, s\u00e5 skal du s\u00e6tte din hverdag op til \"can\u2019t fail\"-oplevelser, s\u00e5dan at du n\u00e6rmest snubler over vane\u00e6ndringen. Et eksempel kunne v\u00e6re, at du gerne vil drikke mere vand. S\u00e5 s\u00e6t dit vandglas oven p\u00e5 din telefon \u2013 s\u00e5 skal du drikke en t\u00e5r, hver gang du f\u00e5r lyst til at checke dine notifikationer.<br>",
+        "id": "_e2uv15ing",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "6 corona-r\u00e5d fra Imran",
+        "id": "_lqyzz6alk",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "1. Husk, at der er ikke noget galt med dig. Du er fuldst\u00e6ndig normal. Vi er f\u00e6lles om den udfordring, at vi tyer til d\u00e9t, som er relevant eller f\u00f8les tilg\u00e6ngeligt, s\u00e6rligt n\u00e5r vi ikke kan komme ud og m\u00f8de vores venner. Derfor er det til geng\u00e6ld vigtigt, at du giver dig selv pauser.",
+        "id": "_6kga23pbf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2. S\u00e5 derfor skal du g\u00e5 nogle ture. G\u00f8r det til en vane at komme ud, ovenp\u00e5 f.eks. en samtale som denne her, for at skabe de her pauser, der er vigtige for din struktur. Kom ud og m\u00e6rk, at du kan have en oplevelse, der ikke kr\u00e6ver din opm\u00e6rksomhed.",
+        "id": "_y6FkS5XnK",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3. V\u00e6lg videosamtaler og telefoniske samtaler over andre kommunikationsformer. Det d\u00e6kker i h\u00f8jere grad vores relationelle behov, som f.eks. at f\u00f8le os set.",
+        "id": "_CTdcjIyV1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4. Begr\u00e6ns adgangen til nyheder. Du kan ikke g\u00f8re noget ved det. Magtesl\u00f8sheden indvirker enormt negativt p\u00e5 os \u2013 mere end virussen selv. Fokus\u00e9r derfor p\u00e5 de ting, du kan g\u00f8re noget ved, som for eksempel at tage skraldet ud, rydde op \u2013 alle mulige ting, hvor du kan se et resultat af dine handlinger.",
+        "id": "_p4ueimejt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "5. Snak om hvordan du har det. Del dine tanker. Det er ordene, vi deler med hinanden, og i det sekund vi begynder at udveksle vores oplevelser i ord, begynder vi at rydde nogle af de sorte skyer, der h\u00e6nger over os.",
+        "id": "_TclaHDZgA",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "6. Send \u201dSLUK\u201d til 1204, s\u00e5 f\u00e5r du et link til en digital n\u00f8dhj\u00e6lpspakke fra Imran.",
+        "id": "_GeenEqidj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Fremtiden<br></strong>Jeg spurgte Imran, hvordan fremtiden ser ud p\u00e5 den anden side af corona-krisen.",
+        "id": "_cp2hk0kns",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201dDen her oplevelse af at have st\u00e5et i skoleg\u00e5rden og spillet bold op ad en mur uden nogen venner \u2013 det tror jeg kommer til at \u00e6ndre den m\u00e5de, vi agerer p\u00e5 fremadrettet; det h\u00e5ber jeg i hvert fald\", forklarer han og forts\u00e6tter. \"Svaret p\u00e5 den her krise er et velfungerende f\u00e6llesskab. Det, at vi simpelthen har f\u00e5et en uniform referenceramme, som fort\u00e6ller os, at vi er meget mere lige, meget mere f\u00e6lles og meget mere afh\u00e6ngige af hinanden end det modsatte.\"",
+        "id": "_112i1i8gg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Min samtale med Imran er blevet til allerf\u00f8rste episode af <a href=\"https://open.spotify.com/show/1XIBT1EZRPdObDx3bQmnvZ?si=bibP4p1zSXaU3BHDC70bUQ\">Avilius Talks</a>, en podcast om at have det godt. Lyt med <a href=\"https://open.spotify.com/episode/24d6CzdSoafWSE3DsZ3M2t?si=h64cfhH5RFuSPpjq6QGn6A\">her</a> eller p\u00e5 linket nedenfor.",
+        "id": "_sz7xvv1oq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<iframe src=\"https://open.spotify.com/embed-podcast/episode/24d6CzdSoafWSE3DsZ3M2t\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"></iframe>",
+        "id": "_66jks8oyj",
+        "type": "kirbytext"
+    }
+]

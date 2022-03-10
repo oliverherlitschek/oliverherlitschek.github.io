@@ -1,0 +1,94 @@
+Title: 5 tips til bedre søvn
+
+----
+
+Date: 2020-01-03
+
+----
+
+Card: false
+
+----
+
+Theme: f0f1b4
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Authorlink:
+
+- team/jonas-schosler
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- avilius-fem-tips-til-bedre-soevn.jpg
+
+----
+
+References:
+
+- 
+  name: >
+    Gratitude Influences Sleep, US National
+    Library of Medicine
+  url: >
+    https://www.ncbi.nlm.nih.gov/pubmed/19073292
+- 
+  name: >
+    The Mammalian Diving Response, US
+    National Library of Medicine
+  url: >
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768097/
+- 
+  name: Sluk af Imran Rashid
+  url: >
+    https://www.saxo.com/dk/sluk_imran-rashid_haeftet_9788711566633?gclid=CjwKCAjwzJjrBRBvEiwA867bylX33G0j_JSvk7n4Vx-Huv1LIGPtNXTfr6MWiiL6hdWuPQoeSdOISxoChGgQAvD_BwE
+
+----
+
+Introduction: Det der med at være ung og samtidig få nok søvn, er som at være på Roskilde Festival og holde en hvid t-shirt ren. Det er vildt svært. Derfor bringer vi fem tips til en bedre søvn, som er nemme at starte med.
+
+----
+
+Text: [{"content":{"text":"<p>Det der med at v\u00e6re ung og samtidig f\u00e5 nok s\u00f8vn, er som at v\u00e6re p\u00e5 Roskilde Festival og holde en hvid t-shirt ren; vildt sv\u00e6rt. Ikke desto mindre er s\u00f8vn kritisk for vores energiniveau, helbred og vigtige hjernefunktioner som for eksempel hukommelsen og koncentrationsevnen.<\/p>"},"id":"b6cbbcdb-c4cc-4530-ad9c-cc65d2115a4c","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis du g\u00e5r ind i en vilk\u00e5rlig boghandel, vil du finde et hav af b\u00f8ger, der handler om metoder til bedre s\u00f8vn. Det er imidlertid ikke s\u00e6rligt mange af dem, der g\u00e5r p\u00e5 kompromis med ungdomslivet, hvorfor r\u00e5dene oftest kunne v\u00e6re:<\/p>"},"id":"0e268419-c679-45a8-b892-721362a54b0a","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00b7 Ingen sk\u00e6rmtid 1-3 timer f\u00f8r sengetid<br>\u00b7 Ingen telefoner i sovev\u00e6relset<br>\u00b7 Ingen m\u00e5ltider 2 timer f\u00f8r sengetid<br>\u00b7 G\u00e5 i seng og st\u00e5 op p\u00e5 samme tid<\/p>"},"id":"58bfc8a7-c2cf-49cb-a999-f3ebb2a98c91","isHidden":false,"type":"text"},{"content":{"text":"<p>\u2014 og s\u00e5 videre.<\/p>"},"id":"8f7bc3db-ea49-49cb-82f7-66483f6e7a75","isHidden":false,"type":"text"},{"content":{"text":"<p>Det er gode r\u00e5d, s\u00e6rligt hvis nu alle dagene var ens, strukturerede og uden forstyrrelser. Det er de til geng\u00e6ld sj\u00e6ldent. Derfor bringer vi fem tips til en bedre s\u00f8vn, som er nemmere at starte med.<\/p>"},"id":"994e20a1-0952-4d2b-a6d6-e9aa75a6653b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>En god podcast kan tage tankemyldret<\/strong><br>En velkendt s\u00f8vndr\u00e6ber er det scenarie, at idet vi l\u00e6gger os i sengen, s\u00e5 er der en lille abe inde i hjernen, som begynder at fl\u00e5 alle mulige ting ned fra hylderne, som vi skal tage stilling til. Inden den er f\u00e6rdig med emner som \u201dfremtid\u201d og \u201dingen penge p\u00e5 kontoen\u201d, s\u00e5 kan der v\u00e6re g\u00e5et et par timer. En god podcast kan imidlertid v\u00e6re med til at aflede tankerne og g\u00f8re det lettere at d\u00f8se hen.<\/p>"},"id":"c1a3ffc4-594a-44f5-aa4c-62927da1cda9","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>K\u00f8l nervesystemet ned<\/strong><br>Alle pattedyr har den samme refleks, n\u00e5r kroppen kommer i kontakt med koldt vand, som er udviklet til at minimere energiforbruget. Hvis du tager et koldt bad, s\u00e5 vil din puls dykke og dine perifere blodkar vil sn\u00e6vre sammen, s\u00e5dan at blodtilf\u00f8rslen til dit hjerte og din hjerne \u00f8ges. Koldt vand s\u00e6tter kroppen i en slags afslappet dvaletilstand, som kan hj\u00e6lpe med at finde ro. Du kan ogs\u00e5 n\u00f8jes med at vaske dit ansigt med koldt vand i 30 sek.<\/p>"},"id":"27457382-e44e-4a53-b9c6-591671333538","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Hold igen med late-night munchies<\/strong><br>Vi kender det selv alt for godt; hvis man kommer sent hjem fra en lang dag, har tr\u00e6net om aftenen eller ikke fik nok til aftensmad, s\u00e5 er det sv\u00e6rt ikke at spise noget f\u00f8r sengetid. Problemet er, at det s\u00e6tter gang i ford\u00f8jelsesprocesser, som p\u00e5virker din s\u00f8vn \u2013 ogs\u00e5 selvom du godt kan falde i s\u00f8vn. Et godt r\u00e5d er at holde det til for eksempel en myslibar eller en banan med en smoothie. Det tager de v\u00e6rste cravings og giver kroppen lidt at styrke sig p\u00e5.<\/p>"},"id":"7ebec9f0-4c89-4215-83b9-e0aa5a2542b4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Aftenjournal<\/strong><br>Forskning viser, at folk som bruger et par minutter hver aften p\u00e5 at skrive om deres dag, b\u00e5de sover bedre og l\u00e6ngere. Der er nogle, som laver en liste over de ting, som de er taknemmelige for, hvilket \u00f8ger fokusset p\u00e5 de positive sider. Der kan imidlertid ogs\u00e5 v\u00e6re en positiv effekt af at skrive alle dagens udfordringer eller problemer ned. Det l\u00e6gger en d\u00e6mper p\u00e5 vores frygt og angst, n\u00e5r vi f\u00e5r dem eksternaliseret ud p\u00e5 et stykke papir.<\/p>"},"id":"5dddc086-d482-434f-a701-0bbbd647ceb8","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Surf p\u00e5 melatoninb\u00f8lgen<\/strong><br>Du har helt sikkert h\u00f8rt det f\u00f8r - vores telefoner og computere er de st\u00f8rste s\u00f8vntyve. Det er typisk om aftenen, at vi gerne vil ligge og slappe af med serier eller finde memes p\u00e5 reddit. Det er imidlertid s\u00e5dan, at det hvide lys fra sk\u00e6rmene h\u00e6mmer produktionen af melatonin, som er kroppens s\u00f8vnhormon. I stedet for at bremse melatoninb\u00f8lgen, som g\u00f8r dig s\u00f8vnig om aftenen, kan du surfe p\u00e5 den ved at have nattelys sl\u00e5et automatisk til p\u00e5 b\u00e5de computeren og telefonen, n\u00e5r solen g\u00e5r ned. Det varme og gule lys er langt bedre for dine \u00f8jne og din s\u00f8vn.<\/p>"},"id":"93e32205-3450-41ba-89e2-383b4c01587d","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis du oplever vedvarende problemer med at f\u00e5 nok s\u00f8vn om natten, kan det v\u00e6re godt at f\u00e5 snakket med nogen om det. I Avilius er vores dygtige <a href=\"\/team\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">samtalepartnere<\/a> klar til at hj\u00e6lpe dig.<\/p>"},"id":"95a532b3-177c-4668-9501-385a7fb8c2df","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - 5 tips til bedre søvn. Af Jonas Schøsler
+
+----
+
+Seodescription: Hvis vi havde al tid i verden, ville der ikke være noget lettere end at følge alle de råd om bedre søvn der findes derude. Men det har vi ikke.
+
+----
+
+Seokeywords: søvn, frygt, angst, helbred, energiniveau
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 

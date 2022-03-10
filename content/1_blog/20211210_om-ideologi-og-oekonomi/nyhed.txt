@@ -1,0 +1,55 @@
+Title: Om ideologi og økonomi
+
+----
+
+Date: 2021-12-10
+
+----
+
+Card: true
+
+----
+
+Theme: c377e5
+
+----
+
+Author: Oliver Herlitschek
+
+----
+
+Authorlink:
+
+- hvorfor/oliver-herlitschek
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>K\u00e6re fremtidige klient i Avilius,<\/p>"},"id":"89bbdbde-fed2-4177-a71f-6bad64ab6a6a","isHidden":false,"type":"text"},{"content":{"text":"<p>Fra 1. januar 2022 stiger prisen p\u00e5 individuelle samtaler. En drastisk beslutning, som vi rigtigt gerne vil forklare lidt mere om.<\/p>"},"id":"be8bd655-3400-4b66-91e8-edece534e70a","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi har nu gennem to \u00e5r arbejdet med den mission, der startede det hele \u2013 nemlig at forebygge mistrivsel og g\u00f8re psykologisk hj\u00e6lp mere tilg\u00e6ngeligt for s\u00e5&nbsp;mange unge som muligt.<\/p>"},"id":"d766e58d-a947-4791-978f-cbef0fc1ee61","isHidden":false,"type":"text"},{"content":{"text":"<p>Det er heldigvis stadig vores mission.<\/p>"},"id":"514566f5-696c-404b-bf84-5799b075aa0e","isHidden":false,"type":"text"},{"content":{"text":"<p>En mission, der har vokset og vokset i takt med at behovet ogs\u00e5 er det. Alene i \u00e5r har vi haft over 1800 samtaler med fortvivlede, ligesindede unge, der har rakt ud med \u00f8nsket om at tale med nogen om det, de g\u00e5r og f\u00f8ler.<\/p>"},"id":"82550a7b-f101-41ee-9196-0663c0832dab","isHidden":false,"type":"text"},{"content":{"text":"<p>Passionen for missionen bliver ved med at vokse her p\u00e5 Avilius \u2013 s\u00e5 n\u00e6ste \u00e5r vil vi gerne hj\u00e6lpe endnu flere unge.<\/p>"},"id":"4e177b0d-61a6-41f3-85a8-7f262f473579","isHidden":false,"type":"text"},{"content":{"text":"<p>Men for at g\u00f8re det, skal vi have et \u00f8konomisk b\u00e6redygtigt fundament.<br><\/p><p><\/p><p><\/p><p><\/p>"},"id":"1d7b0d42-5bdd-4e7a-84c5-790c1939a11b","isHidden":false,"type":"text"},{"content":{"text":"<p><br>Fra 1. januar 2022 vil individuelle samtaler alts\u00e5 koste 399,- i stedet for 299,-.<\/p><p><\/p>"},"id":"dd70e5ae-667f-434d-acd5-1231c577c5ec","isHidden":false,"type":"text"},{"content":{"text":"<p> Det er selvf\u00f8lgelig en ret drastisk prisstigning, og derfor synes vi det er naturligt at forklare, hvor de ekstra 100 kr. havner.<\/p>"},"id":"8d935a35-ada6-4bec-9a38-ae009ebef3f5","isHidden":false,"type":"text"},{"content":{"text":"<p>I korte tr\u00e6k vil pengene blive fordelt p\u00e5 to af de poster, vi altid arbejder p\u00e5 at forbedre:<\/p><p><\/p>"},"id":"77250e49-1254-41ac-bc39-cb092c88ac5f","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Til de ansatte"},"id":"71065325-7592-4ad8-838d-be55bf910c07","isHidden":false,"type":"heading"},{"content":{"text":"<p>En stor del vil g\u00e5 til at afl\u00f8nne din samtalepartner for den forberedelse, de g\u00f8r sig f\u00f8r og efter din samtale. Udover samtaler er der nemlig en masse frivilligt arbejde, vi indtil videre ikke havde r\u00e5d til at afl\u00f8nne. Det drejer sig fx. om journalf\u00f8ring, supervision med andre terapeuter og psykologisk research.<\/p>"},"id":"6179c645-db04-4037-998e-045e2e5b9c9e","isHidden":false,"type":"text"},{"content":{"text":"<p>Med prisstigningen kan vi tage et lille skridt og betale samtalepartnerne for den forberedelsestid, der er n\u00f8dvendig inden hver samtale.<\/p><p><\/p>"},"id":"f676e833-5c95-4dc3-a0d0-c698aeaf2a89","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"...og de udsatte"},"id":"df9f8ea1-7a6e-468d-a690-5dd39f1bd966","isHidden":false,"type":"heading"},{"content":{"text":"<p>Resten vil vi geninvestere i de organisationer og firmaer som tager over, hvor vi ikke kan v\u00e6re med. I Avilius v\u00e6gter vi faglighed meget h\u00f8jt og har derfor en meget lille <em>talent pool<\/em>. Psykologistudiet kr\u00e6ver et af landets h\u00f8jeste snit. Det resulterer p\u00e5 den ene side i nogle uhyre dygtige samtalepartnere, men g\u00f8r ogs\u00e5, at vi ender med at v\u00e6re en utroligt homogen flok med mange af de samme erfaringer, historier og perspektiver. Vi vil bruge tid, midler og energi p\u00e5 at skabe og pleje samarbejdsaftaler med fx. minoritetsorganisationer, patientforeninger og andre grupper, der kan alle de ting, vi ikke selv kan \u2013 for at skabe et st\u00e6rkere netv\u00e6rk og sikre, at alle f\u00e5r den rigtige hj\u00e6lp.<\/p>"},"id":"38d89d5a-1eb3-4095-9a1c-40439cb205bf","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi bygger lige nu p\u00e5 n\u00e6ste version af hjemmesiden, der vil inkludere et roadmap over de interne tiltag, vi arbejder p\u00e5 \u2013 og hvordan vi griber det an.<\/p>"},"id":"1d07184c-8b5f-4518-8902-5f79d611b34f","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi gl\u00e6der os til at kunne skabe en bedre arbejdsplads, bedre ydelser, hj\u00e6lpe endnu flere unge og samtidig s\u00f8rge for, at vi kan eksistere mange \u00e5r endnu.<\/p>"},"id":"922f6ce9-070d-4211-8788-cb5cb560439c","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis du har tanker om prisstigningen, som du gerne vil dele, s\u00e5 er du velkommen til at <a href=\"mailto:kontakt@avilius.dk\" title=\"Kontakt\" rel=\"noopener noreferrer nofollow\">henvende dig til os<\/a>.<\/p>"},"id":"888c47f3-ed4e-4a4e-beb0-66bfacfd0773","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00f8rste samtale er stadig gratis, og priserne p\u00e5 gruppeterapi og andre ydelser stiger ikke.<\/p><p><\/p>"},"id":"6e6e09c3-6964-495b-a532-387fbe609ecf","isHidden":false,"type":"text"},{"content":{"text":"<p>Tusind tak for din forst\u00e5else.<\/p><p><\/p><p><\/p>"},"id":"f93521d8-d9e7-4702-8d02-16d0024da25a","isHidden":false,"type":"text"},{"content":{"text":"<p>K\u00e6rlige hilsner,<\/p><p><a href=\"https:\/\/www.avilius.dk\/hvorfor\/jonas-schosler\" target=\"_blank\" title=\"Jonas Sch\u00f8sler\" rel=\"noopener noreferrer nofollow\">Jonas<\/a> og <a href=\"https:\/\/www.avilius.dk\/hvorfor\/oliver-herlitschek\" target=\"_blank\" title=\"Oliver Herlitschek\" rel=\"noopener noreferrer nofollow\">Oliver<\/a><br>Stiftere af Avilius<\/p><p><\/p>"},"id":"8089b255-d941-4095-bd31-3d6e5e233bfd","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Om ideologi og økonomi
+
+----
+
+Seodescription: Fra 1. januar 2022 stiger prisen på individuelle samtaler. En drastisk beslutning, som vi rigtigt gerne vil forklare lidt mere om.
+
+----
+
+Seokeywords: psykoterapi, pris psykoterapi, billig psykoterapi
+
+----
+
+Seoimage: 

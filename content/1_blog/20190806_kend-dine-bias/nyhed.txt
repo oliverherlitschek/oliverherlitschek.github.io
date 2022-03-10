@@ -1,0 +1,142 @@
+Title: Kend dine bias
+
+----
+
+Date: 2019-08-06
+
+----
+
+Card: false
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Authorlink:
+
+- team/jonas-schosler
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- giphy.gif
+
+----
+
+References:
+
+- 
+  name: '“At tænke - hurtigt og langsomt”, Daniel Kahneman'
+  url: https://g.co/kgs/tCAZ2U
+- 
+  name: 'Confirmation Bias: A Ubiquitous Phenomenon in Many Guises, SAGE'
+  url: >
+    https://journals.sagepub.com/doi/abs/10.1037/1089-2680.2.2.175
+- 
+  name: The Spotlight Effect, Psychology Today
+  url: >
+    https://www.psychologytoday.com/us/blog/the-big-questions/201111/the-spotlight-effect
+- 
+  name: >
+    Letting Go of Sunk Costs, Psychology
+    Today
+  url: >
+    https://www.psychologytoday.com/intl/blog/anxiety-files/201409/letting-go-sunk-costs
+- 
+  name: Fundamental Attribution Error, JISS
+  url: 'http://www.jiss.org/documents/volume_5/issue_1/JISS%202015%205(1)%2044-57%20FAE.pdf'
+
+----
+
+Introduction: Inden for psykologi snakker man om systematiske forvrængninger i menneskets måde at gå til verden på. Disse bliver kaldt for kognitive bias. I litteraturen findes der en hel del bias, men ikke dem alle er lige godt underbygget videnskabeligt. Vi kommer her med 5 bias, som er bredt anerkendt – og ikke mindst nogle, som vi kan genkende i os selv.
+
+----
+
+Text: [{"content":{"text":"<p>Inden for psykologi snakker man om systematiske forvr\u00e6ngninger i menneskets m\u00e5de at g\u00e5 til verden p\u00e5. Med andre ord, s\u00e5 kan den m\u00e5de vi t\u00e6nker om os selv og andre p\u00e5, v\u00e6re disproportional med, hvordan tingene egentlig forholder sig. Disse bliver kaldt for kognitive bias. I litteraturen findes der en hel del bias, men ikke dem alle er lige godt underbygget videnskabeligt. Vi kommer her med 5 bias, som er bredt anerkendt \u2013 og ikke mindst nogle, som vi kan genkende i os selv. Ved at blive opm\u00e6rksomme p\u00e5 nogle af de kognitive vaner vi har, kan vi blive bedre til at se tingene anderledes.<\/p>"},"id":"a180534b-7338-4a04-b879-7db7f6cb3d1b","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Tilg\u00e6ngeligheds-effekten"},"id":"6828c572-630e-4128-b2a4-39002f52af6c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Tilg\u00e6ngeligheds-effekten handler om, at vi har en tendens til at over- eller undervurdere, hvor sandsynligt noget er, fordi det er over- eller underrepr\u00e6senteret i vores hukommelse. Hertil spiller medierne en stor rolle. Det kunne fx v\u00e6re en id\u00e9 om, at det i dag er for nemt at f\u00e5 12 i gymnasiet, selvom landsgennemsnittet har ligget mellem 7-7.5 siden 2011. Den gennemsnitlige karakter er alts\u00e5 et stykke v\u00e6k fra 12. Det kunne ogs\u00e5 v\u00e6re en id\u00e9 om, at det vrimler med muslimer i Danmark, selvom de kun udg\u00f8r omkring 5,5% af befolkningen.<\/p>"},"id":"f39f4b37-1ccc-4f93-b521-ad4b41c91613","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvor sikker er du, p\u00e5 det du ved?<\/p>"},"id":"c7b68906-e917-4e48-bdcd-5bcb1108809b","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Bekr\u00e6ftelsesbias"},"id":"46fb3ebb-336e-4bd2-8f47-b6251dcbcae6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Bekr\u00e6ftelsesbiasen er vores tilb\u00f8jelighed til at ops\u00f8ge de ting, som underst\u00f8tter de overbevisninger eller hypoteser vi har i forvejen. De fleste af os, bryder os ikke om, n\u00e5r vi tager fejl, s\u00e6rligt hvis det er noget, som er en trussel mod vores selvbillede og\/eller verdensbillede. Derfor ops\u00f8ger vi de mennesker, de historier og de nyheder som bekr\u00e6fter vores fort\u00e6lling om tingenes sammenh\u00e6ng. Det kunne v\u00e6re inden for politik, kultur eller klima. Hvor tit ops\u00f8ger du nogen, som du er uenig med? Hvor tit erkender du, at du har taget fejl?<\/p>"},"id":"c61bb0d6-5d6c-42d7-9068-0bfb2c5e7307","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Spotlight-effekten"},"id":"6e1295a5-da60-4559-978d-f953c45fb2b7","isHidden":false,"type":"heading"},{"content":{"text":"<p>Spotlight-effekten drejer sig om, at de fleste af os overvurderer, hvor meget andre l\u00e6gger m\u00e6rke til os. Da vi naturligt nok er centrummet i vores egen indre verden, s\u00e5 glemmer vi af og til, at vi ikke er det i andres. Et eksempel kunne v\u00e6re, at man til en fest f\u00f8ler, at alle kan m\u00e6rke, hvor usikker man er p\u00e5 sig selv, n\u00e5r man st\u00e5r og danser eller taler med en fremmed. Det kan ogs\u00e5 v\u00e6re, at man har en skjorte p\u00e5 med delfiner, som man syntes s\u00e5 cool ud derhjemme, men som man nu er bange for, at alle vil synes er kikset.<\/p>"},"id":"54e023c2-48c5-492d-b792-82899a24d8ab","isHidden":false,"type":"text"},{"content":{"text":"<p>I langt de fleste tilf\u00e6lde, er folk meget mere optaget af deres egen fremtr\u00e6den, end de er af din. Desuden styrker vi vores eget ego, n\u00e5r vi oplever at komme godt ud af det med andre, hvorfor de fleste vil have fokus p\u00e5 de ting, vi har tilf\u00e6lles \u2013 og ikke s\u00e5 meget p\u00e5 delfinskjorten.<\/p>"},"id":"66d41464-83b3-4f61-8879-94a7821032af","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Omkostningseffekten"},"id":"8475a133-4e3b-4184-95e0-e9723ef08fe1","isHidden":false,"type":"heading"},{"content":{"text":"<p>Omkostningseffekten er det f\u00e6nomen, at vi ikke opgiver noget, selvom det ikke l\u00e6ngere tjener os, fordi vi fx har brugt meget energi og tid p\u00e5 det og\/eller lagt mange penge i det. Det kunne v\u00e6re gammelt t\u00f8j, der bliver ved med at ligge i bunden af kl\u00e6deskabet, selvom vi aldrig g\u00e5r med det. Det kan v\u00e6re et projekt, som vi har brugt hundredvis af timer p\u00e5, men som ikke fungerer. Det kan v\u00e6re et usundt forhold, som g\u00f8r mere skade end gavn. Det kan ogs\u00e5 v\u00e6re, at vi overspiser p\u00e5 en restaurant, fordi vi har betalt mange penge for maden; eller at vi k\u00f8ber det t\u00f8j, som vi har brugt 45 min. p\u00e5 at pr\u00f8ve.<\/p>"},"id":"75c72833-bc12-4df9-bf87-1913ea1704a9","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi har en naturlig tabsaversion, som betyder, at det f\u00f8les meget ubehageligt at miste noget vi ejer, selvom det m\u00e5ske i virkeligheden er blevet v\u00e6rdil\u00f8st.<\/p>"},"id":"98386781-48d8-407b-a606-bad5477fe9d6","isHidden":false,"type":"text"},{"content":{"text":"<p>Er der noget, som du b\u00f8r give slip p\u00e5?<\/p>"},"id":"7ee0249e-adcf-4de5-a207-926d7853301b","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Den fundamentale attributionsfejl"},"id":"d25dcf55-846f-4c32-99c0-e79ddabb3848","isHidden":false,"type":"heading"},{"content":{"text":"<p>Den sidste bias p\u00e5 listen er den tendens, at vi forklarer andres adf\u00e6rd med deres personlighed, men forklarer vores egen med ydre omst\u00e6ndigheder. N\u00e5r nogen g\u00f8r noget dumt, s\u00e5 er de ofte \u201didioter\u201d eller \u201ddovne\u201d, men hvis vi selv g\u00f8r det samme, s\u00e5 er det fordi, at vi har haft en d\u00e5rlig dag, er stressede, tr\u00e6tte eller ikke har f\u00e5et nok at spise\/drikke.<\/p>"},"id":"ea7164de-baa3-4b7c-88d9-db91e44dd064","isHidden":false,"type":"text"},{"content":{"text":"<p>Det kunne v\u00e6re en person i et gruppearbejde, som ikke knokler nok, hvorfor personen m\u00e5 v\u00e6re en doven karl. Hvis vi til geng\u00e6ld ikke selv leverer, s\u00e5 er det fordi, at vi er inde i en virkelig travl periode, eller har problemer med k\u00e6resten.<\/p>"},"id":"5c57a16d-9725-44d5-91d6-2f8ac47b32ed","isHidden":false,"type":"text"},{"content":{"text":"<p>Er der nogen, som du burde give en ekstra chance?<\/p>"},"id":"ad95235b-ba70-44d9-9e8e-88507d9fb889","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Kend dine bias. Af Jonas Schøsler
+
+----
+
+Seodescription: Har du nogensinde haft en debat med nogen der tilsluttede sig et absurd synspunkt? Når det kommer til bias er du dog sikkert lige så slem selv.
+
+----
+
+Seokeywords: politik, bias, selvbillede, klima, forhold
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 
+
+----
+
+Content:
+
+Inden for psykologi snakker man om systematiske forvrængninger i menneskets måde at gå til verden på. Med andre ord, så kan den måde vi tænker om os selv og andre på, være disproportional med, hvordan tingene egentlig forholder sig. Disse bliver kaldt for kognitive bias. I litteraturen findes der en hel del bias, men ikke dem alle er lige godt underbygget videnskabeligt. Vi kommer her med 5 bias, som er bredt anerkendt – og ikke mindst nogle, som vi kan genkende i os selv. Ved at blive opmærksomme på nogle af de kognitive vaner vi har, kan vi blive bedre til at se tingene anderledes.
+### Tilgængeligheds-effekten 
+Tilgængeligheds-effekten handler om, at vi har en tendens til at over- eller undervurdere, hvor sandsynligt noget er, fordi det er over- eller underrepræsenteret i vores hukommelse. Hertil spiller medierne en stor rolle. Det kunne fx være en idé om, at det i dag er for nemt at få 12 i gymnasiet, selvom landsgennemsnittet har ligget mellem 7-7.5 siden 2011. Den gennemsnitlige karakter er altså et stykke væk fra 12. Det kunne også være en idé om, at det vrimler med muslimer i Danmark, selvom de kun udgør omkring 5,5% af befolkningen. Hvor sikker er du, på det du ved? 
+### Bekræftelsesbias 
+Bekræftelsesbiasen er vores tilbøjelighed til at opsøge de ting, som understøtter de overbevisninger eller hypoteser vi har i forvejen. De fleste af os, bryder os ikke om, når vi tager fejl, særligt hvis det er noget, som er en trussel mod vores selvbillede og/eller verdensbillede. Derfor opsøger vi de mennesker, de historier og de nyheder som bekræfter vores fortælling om tingenes sammenhæng. Det kunne være inden for politik, kultur eller klima. Hvor tit opsøger du nogen, som du er uenig med? Hvor tit erkender du, at du har taget fejl? 
+### Spotlight-effekten
+Spotlight-effekten drejer sig om, at de fleste af os overvurderer, hvor meget andre lægger mærke til os. Da vi naturligt nok er centrummet i vores egen indre verden, så glemmer vi af og til, at vi ikke er det i andres. Et eksempel kunne være, at man til en fest føler, at alle kan mærke, hvor usikker man er på sig selv, når man står og danser eller taler med en fremmed. Det kan også være, at man har en skjorte på med delfiner, som man syntes så cool ud derhjemme, men som man nu er bange for, at alle vil synes er kikset. I langt de fleste tilfælde, er folk meget mere optaget af deres egen fremtræden, end de er af din. Desuden styrker vi vores eget ego, når vi oplever at komme godt ud af det med andre, hvorfor de fleste vil have fokus på de ting, vi har tilfælles – og ikke så meget på delfinskjorten. 
+### Omkostningseffekten
+Omkostningseffekten er det fænomen, at vi ikke opgiver noget, selvom det ikke længere tjener os, fordi vi fx har brugt meget energi og tid på det og/eller lagt mange penge i det. Det kunne være gammelt tøj, der bliver ved med at ligge i bunden af klædeskabet, selvom vi aldrig går med det. Det kan være et projekt, som vi har brugt hundredvis af timer på, men som ikke fungerer. Det kan være et usundt forhold, som gør mere skade end gavn. Det kan også være, at vi overspiser på en restaurant, fordi vi har betalt mange penge for maden; eller at vi køber det tøj, som vi har brugt 45 min. på at prøve. Vi har en naturlig tabsaversion, som betyder, at det føles meget ubehageligt at miste noget vi ejer, selvom det måske i virkeligheden er blevet værdiløst. Er der noget, som du bør give slip på? 
+### Den fundamentale attributionsfejl 
+Den sidste bias på listen er den tendens, at vi forklarer andres adfærd med deres personlighed, men forklarer vores egen med ydre omstændigheder. Når nogen gør noget dumt, så er de ofte ”idioter” eller ”dovne”, men hvis vi selv gør det samme, så er det fordi, at vi har haft en dårlig dag, er stressede, trætte eller ikke har fået nok at spise/drikke. Det kunne være en person i et gruppearbejde, som ikke knokler nok, hvorfor personen må være en doven karl. Hvis vi til gengæld ikke selv leverer, så er det fordi, at vi er inde i en virkelig travl periode, eller har problemer med kæresten.
+
+Er der nogen, som du burde give en ekstra chance?
+
+----
+
+Gallery: 
+
+----
+
+Forfatter:
+
+- 
+  icon:
+    type: user
+    ratio: 3/2
+    back: pattern
+    color: '#c5c9c6'
+    cover: false
+  id: NgwnjAif
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: false
+  email: oliver@avilius.dk
+  info: ""
+  link: /users/NgwnjAif
+  text: Avilius
+  username: Avilius

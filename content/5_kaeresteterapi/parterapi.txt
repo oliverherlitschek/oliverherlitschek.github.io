@@ -1,0 +1,71 @@
+Title: Kæresteterapi
+
+----
+
+Cover:
+
+- avilius-kaeresteterapi-test.jpg
+
+----
+
+Headline: Det handler om jer.
+
+----
+
+Tagline: Parterapi til jer, der har brug for nye batterier.
+
+----
+
+Methodheadline: Lyt til mig.
+
+----
+
+Methoddescription: Vi er rigtigt gode til at antage, hvad vores partnere vil. Men ofte glemmer vi at spørge!
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Vi fandt faktisk ud af, at vi havde
+    meget mere til fælles, end vi gik og
+    troede. Og måske var det dét, vi
+    mistede hen ad vejen. Det genfandt vi en
+    smule af i Avilius.
+
+----
+
+Foryou: Sex, Tillidsbrud, Utroskab, Fælles udvikling, Tryghed, Fremtidsplaner, Ensomhed, Usikkerhed
+
+----
+
+Price: 
+
+----
+
+Pricedetails: 
+
+----
+
+Length: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 
+
+----
+
+Howto: 

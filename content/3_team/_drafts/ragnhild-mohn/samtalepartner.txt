@@ -1,0 +1,91 @@
+Title: Ragnhild Mohn
+
+----
+
+Firstname: Ragnhild
+
+----
+
+Email: ragnhildmohn@avilius.dk
+
+----
+
+Lastbooked: 10
+
+----
+
+Capacity: 2
+
+----
+
+Video:
+
+- ragnhild-mohn.mp4
+
+----
+
+Portrait:
+
+- ragnhild-mohn-avilius-5.jpg
+
+----
+
+Secondportrait:
+
+- ragnhild-mohn-avilius-7.jpg
+
+----
+
+Thirdportrait:
+
+- ragnhild-mohn-avilius-1.jpg
+
+----
+
+Experience: 
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Det føltes faktisk lidt som at snakke
+    med en rigtig god veninde, som bare
+    havde mange flere kloge ting at sige.
+  author: Tidligere klient, 21 år
+- 
+  quote: >
+    Jeg føler, at jeg har fået nogle vildt
+    gode ressourcer med derfra. Så tusinde
+    tak! Jeg har allerede anbefalet jer
+    videre til nærmest alle, jeg kender :)
+  author: Tidligere klient, 21 år
+
+----
+
+Description:
+
+Nogle gange har vi så mange ting i hovedet på samme tid, at det er svært at sortere i, hvad der er hvad. Det er her, jeg kommer ind i billedet. Jeg kan hjælpe dig med at få sorteret, få ryddet op og skabe overblik i det, der kan opleves som et kaos. 
+
+Jeg tror, at det er dig, der har svarene på dine udfordringer – nogle gange skal man bare bruge lidt hjælp til at finde dem. I min tilgang til dine udfordringer, synes jeg det er afgørende ligeledes at fokusere på dine ressourcer og værdier. Jeg vil lytte, spørge ind til og udfordre dig.
+
+Jeg leder også gruppeforløbet (link: https://avilius.dk/grupper/karlighed text: Kærlighed og det gode parforhold) her i Avilius.
+
+----
+
+Seotitle: Sig hej til Ragnhild 👋
+
+----
+
+Seodescription: Nogle gange har vi så mange ting i hovedet på samme tid, at det er svært at sortere i, hvad der er hvad.
+
+----
+
+Seokeywords: kaos, udfordringer, værdier, overblik
+
+----
+
+Seoimage:
+
+- ragnhild-second.jpg

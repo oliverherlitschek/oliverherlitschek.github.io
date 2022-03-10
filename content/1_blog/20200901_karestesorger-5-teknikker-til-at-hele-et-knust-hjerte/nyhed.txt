@@ -1,0 +1,69 @@
+Title: Kærestesorger – sådan heler du et knust hjerte
+
+----
+
+Date: 2020-09-01
+
+----
+
+Card: false
+
+----
+
+Theme: febaa7
+
+----
+
+Author: Tamara Hveisel Hansen
+
+----
+
+Authorlink:
+
+- team/tamara-hansen
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- kaerestesorger-avilius.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Jeg ville have startet denne artikel med et catchy citat fra en popul\u00e6r sang, men en hurtig s\u00f8gning p\u00e5 sangtekster indeholdende linjen \u201dhow to mend a broken heart\u201d viste sig at have s\u00e5 mange hits, at jeg ikke kunne v\u00e6lge \u00e9n. Pointen g\u00e5r dog lige hjem: Der er skrevet lige s\u00e5 mange (hvis ikke flere) sange om k\u00e6restesorger, som der er om lykkelig k\u00e6rlighed. Og det er der en god grund til.<\/p>"},"id":"6e71d009-a94d-4815-bc2a-fb0de33fa31f","isHidden":false,"type":"text"},{"content":{"text":"<p>Det virker nemlig komplet umuligt at hele et hjerte, der bogstaveligt talt f\u00f8les som om, det er blevet sl\u00e5et i tusind stykker og nu flyder rundt som bittesm\u00e5 glassk\u00e5r i blod\u00e5rerne. Det er n\u00e6rmest ikke til at tro p\u00e5, at man nogensinde kommer sig over den ulykkelige k\u00e6rlighed. Faktisk har rigtig mange en oplevelse af at blive fastholdt i en endel\u00f8s sorg uden nogensinde at komme et skridt \u201dvidere\u201d trods l\u00f8ftet om, at tiden heler alle s\u00e5r.<\/p>"},"id":"c322aef1-71d1-4e0f-80e2-3133f682037f","isHidden":false,"type":"text"},{"content":{"text":"<p>M\u00e5ske er det ogs\u00e5 med et desperat h\u00e5b om hj\u00e6lp til netop denne uoverskuelige opgave, at du er endt her p\u00e5 siden? Jeg vil fors\u00f8ge at komme med et psykologisk perspektiv p\u00e5, hvorfor k\u00e6restesorger er s\u00e5 sv\u00e6r at komme over, og give dig nogle konkrete teknikker til at komme ovenp\u00e5 igen, s\u00e5 du kan f\u00e5 limet dit stakkels hjerte sammen!<\/p>"},"id":"069d38a1-42b8-4c66-869d-0eb35b31dd56","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Hvorfor pokker g\u00f8r k\u00e6restesorger s\u00e5 ondt?"},"id":"a33033e4-b0bf-4c85-9969-2617f444494b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vi er probleml\u00f8sende v\u00e6sner, og n\u00e5r der sker noget ubehageligt, er det vores naturlige reaktion at lede efter en l\u00f8sning \u2013 en vej ud af smerten, noget som kan f\u00e5 os til at have det godt igen. Men selv for den meste kompetente probleml\u00f8ser kan k\u00e6restesorger virke som den ultimative overmand. Her er et par mulige grunde til, at det g\u00f8r s\u00e5 ondt, og at du ikke kan komme videre.<\/p>"},"id":"8f5093cb-fee0-4d96-9128-aba796c27ddb","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Ulykkelig k\u00e6rlighed er et reelt tab"},"id":"ea710f33-5d51-48e7-8b4e-64e366a963a0","isHidden":false,"type":"heading"},{"content":{"text":"<p>N\u00e5r et forhold ender, er det ikke bare et sp\u00f8rgsm\u00e5l om, at der er en person, man var glad for, som nu ikke skal v\u00e6re s\u00e5 meget til stede i ens liv. Endt k\u00e6rlighed er nemlig et reelt tab, hvor man mister noget og gennemlever en sorg p\u00e5 samme m\u00e5de som ved et d\u00f8dsfald.<\/p>"},"id":"dbd18dde-6e6f-4455-8818-604f2f14b1ed","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["eskild-ragnhild-kaerlighed-terapi-avilius.jpg"],"description":"**Knas med k\u00e6rligheden?**\nEskild og Ragnhild har netop lanceret et gruppeforl\u00f8b om livets store mysterie. Til dig, der gerne vil v\u00e6re en bedre k\u00e6reste.","link":"https:\/\/avilius.dk\/grupper\/karlighed","linktext":"Genfind gnisten \u2728","linkcolor":"lpurple","linktextcolor":"purple"},"id":"1ab51bba-c8d2-4606-a94a-48b7d28cb389","isHidden":false,"type":"cta"},{"content":{"text":"<p>K\u00e6rlighedsforholdet kan sammenlignes med en h\u00f8jt elsket person: det havde nogle s\u00e6rlige og unikke kvaliteter og var m\u00e5ske noget af det mest dyrbare i ens liv. M\u00e5ske var forholdet endda b\u00e6rende for andre sociale relationer, v\u00e6rdier eller hverdagsaktiviteter, som ogs\u00e5 forsvinder med det.<\/p>"},"id":"9fc0339c-20b6-4bc0-bcf8-86d9f8895ee4","isHidden":false,"type":"text"},{"content":{"text":"<p>N\u00e5r forholdet ender, g\u00e5r alt dette tabt for evigt, og man oplever en \u00e6gte og dybf\u00f8lt sorg. Og faktisk har k\u00e6restesorger mange ting til f\u00e6lles med den sorg, der typisk ses efter et d\u00f8dsfald; herunder s\u00f8vnmangel, tankemylder, forringet koncentrationsevne, d\u00e5rligere immunsystem og i nogle tilf\u00e6lde symptomer p\u00e5 depression. Derfor er det alts\u00e5 forst\u00e5eligt, at det g\u00f8r ondt, og at det tager tid at komme sig.<\/p>"},"id":"a281e3d0-c934-4a0b-ab6d-1878f71c4acf","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Vi n\u00e6gter at acceptere forklaringen"},"id":"18f5b0b6-a463-44d1-acde-cd454d828ded","isHidden":false,"type":"heading"},{"content":{"text":"<p>Man skulle m\u00e5ske tro, at vi kunne komme videre, hvis vi forstod pr\u00e6cis hvorfor forholdet sluttede. En meningsfuld forklaring p\u00e5 ubehagelige h\u00e6ndelser plejer da at hj\u00e6lpe os til at acceptere og forst\u00e5 dem, ikke? Problemet er, at selv n\u00e5r vi f\u00e5r et direkte og klokkeklart svar p\u00e5 sp\u00f8rgsm\u00e5let (for eksempel den klassiske \u201djeg er ikke forelsket i dig mere\u201d), kan vi ikke godtage det.<\/p>"},"id":"96e80261-f9ba-45f0-bac1-9dfeb7abf1ec","isHidden":false,"type":"text"},{"content":{"text":"<p>Det er simpelthen umuligt for vores hjerner at acceptere en simpel forklaring p\u00e5 noget, der virker s\u00e5 uretf\u00e6rdigt, smertefuldt og afg\u00f8rende for os og vores liv. I stedet t\u00e6nker vi i konspirationsteorier og kringlede forklaringer, der kan retf\u00e6rdigg\u00f8re eller begrunde breakup\u2019et. Vi ender med at obsesse over, hvad vi mon gjorde forkert, og hvad vi skulle have gjort anderledes i en slags endel\u00f8s hunden-efter-katten, hvor der bare slet ikke er nogen kat.<\/p>"},"id":"89f4c145-3436-4461-aee4-63cede6c8f18","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Vi er k\u00e6rligheds-junkies"},"id":"a338c45a-cbef-43ab-8acc-fd24a4ac6589","isHidden":false,"type":"heading"},{"content":{"text":"<p>Hjerneforskning har vist, at det er de samme hjerneomr\u00e5der, der aktiveres, n\u00e5r vi frar\u00f8ves k\u00e6rlighed, som n\u00e5r misbrugere fratages den substans, de er afh\u00e6ngige af. Vi f\u00e5r simpelthen k\u00e6rlighedsabstinenser! Og ligesom en misbruger, der desperat leder efter det n\u00e6ste fix til at dulme de uudholdelige abstinenssymptomer, s\u00f8ger vi ogs\u00e5 efter en dosis af vores rusmiddel, s\u00e5 vi kan udholde smerten.<\/p>"},"id":"dd4b8dda-6bf6-4908-9d65-099fe058a4a8","isHidden":false,"type":"text"},{"content":{"text":"<p>I tilf\u00e6lde af k\u00e6restesorger bliver rusmidlet minder om det forhold, der er g\u00e5et tabt. Vi fors\u00f8ger at holde smerten p\u00e5 afstand ved at gennemleve alle de gode \u00f8jeblikke igen og igen. Problemet er selvf\u00f8lgelig, at det ikke kun fastholder os i sorgen over den tabte k\u00e6rlighed, men oveni hatten f\u00e5r hele forholdet til at fremst\u00e5 i et lyser\u00f8dt lys i bakspejlet \u2013 ogs\u00e5 selvom det hele m\u00e5ske ikke altid var lutter lagkage.<\/p>"},"id":"94788135-84f9-4b5c-b223-7af7e2d690e6","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hvordan kommer man over k\u00e6restesorger?"},"id":"b57f604d-5bf1-42d9-abf6-afec00bae4a2","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"Brug fornuften i kampen mod k\u00e6restesorg"},"id":"1dc57f77-1b0e-47aa-be65-7eae35ec3b35","isHidden":false,"type":"heading"},{"content":{"text":"<p>Man siger, at tiden heler alle s\u00e5r, og at det er en proces at hele et knust hjerte. Men k\u00e6restesorger g\u00e5r sj\u00e6ldent over (i hvert fald ikke i meget, meget lang tid), hvis du ikke tager kampen i egen h\u00e5nd. Du skal blive bevidst om dine uhensigtsm\u00e6ssige tankem\u00f8nstre og k\u00e6mpe mod dine tankef\u00e6lder.<\/p>"},"id":"ad63cb18-3449-4331-91da-83bea570f15c","isHidden":false,"type":"text"},{"content":{"text":"<p>Indse, at der ikke findes nogen forklaring, der kommer til at give mening for dig og f\u00e5 smerten til at forsvinde \u2013 s\u00e5 hold op med at s\u00f8ge efter den eller vente p\u00e5 den. Accept\u00e9r, at der ikke er nogen bedre forklaring end den, du allerede har f\u00e5et.<\/p>"},"id":"a7bf5768-a488-40a7-9164-d367c4869380","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Forst\u00e5 din afh\u00e6ngighed"},"id":"82b25dcd-6d32-4483-8b4c-df1eff3de1de","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det er helt afg\u00f8rende, at du indser, at n\u00e5r du dagdr\u00f8mmer om de gode tider, n\u00e5r du fors\u00f8ger at l\u00f8se \u201dmysteriet om, hvorfor det sluttede\u201d, n\u00e5r du stalker din eks p\u00e5 sociale medier, og n\u00e5r du skriver eller ringer til eks\u2019en\u2026 s\u00e5 opretholder og fodrer du din afh\u00e6ngighed.<\/p>"},"id":"65f83fe0-ab8f-4154-ae1c-9d1386569971","isHidden":false,"type":"text"},{"content":{"text":"<p>Du g\u00f8r det v\u00e6rre og v\u00e6rre, og du fastholder din hjerne i afh\u00e6ngigheden af den person, du ikke l\u00e6ngere kan v\u00e6re sammen med. Samtidig kommer du i denne proces til at fremstille personen i et idealiseret lys, hvorved det bliver endnu sv\u00e6rere at komme videre. Stop dig selv!<\/p>"},"id":"3ce46d2d-7dbc-4977-aaf3-550e750c0b82","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Accept\u00e9r, og find viljen til at give slip"},"id":"509e9f5f-c035-4fc6-a78e-f7b68a002e50","isHidden":false,"type":"heading"},{"content":{"text":"<p>Trangen til at holde fast kan virke umulig at modst\u00e5. Men selvom det f\u00f8les godt, nytter det ikke at fodre dig selv med spinkle h\u00e5b. Accept\u00e9r, at det er slut. Hav tillid til, at ved at give slip og lade tankerne v\u00e6re, bliver de mindre og mindre p\u00e5tr\u00e6ngende med tiden, og din sorg og afh\u00e6ngighed vil fortage sig. Mind dig selv om misbrugs-metaforen.<\/p>"},"id":"17ac62e4-9fc8-4c65-bd95-ac73040d275f","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Balanc\u00e9r dine tanker"},"id":"32de5ebe-b464-4e63-9d28-c3ac9eb89ec7","isHidden":false,"type":"heading"},{"content":{"text":"<p>N\u00e5r din hjerne ih\u00e6rdigt fors\u00f8ger at f\u00e5 et k\u00e6rlighedsfix i form af gode minder, er det en god teknik at pr\u00f8ve at afbalancere dem. Pr\u00f8v at huske p\u00e5 de sure miner, hver gang du bliver mindet om det s\u00f8de smil.<\/p>"},"id":"d70c9c8c-6bb8-4e56-bc73-ad04a788eb51","isHidden":false,"type":"text"},{"content":{"text":"<p>T\u00e6nk p\u00e5 de d\u00e5rlige dage og ikke kun de gode. Faktisk vil jeg g\u00e5 s\u00e5 vidt som at bede dig tage et stykke papir frem og skrive en liste over alle de d\u00e5rlige kvaliteter og irriterende s\u00e6rheder ved din eks. P\u00e5 den m\u00e5de reducerer du mindernes magt over dig, s\u00e5 du kan f\u00e5 lov at komme videre. Kig p\u00e5 listen, hver gang du bliver fanget i nostalgi eller kommer til at idealisere forholdet.<\/p>"},"id":"f71a093e-8c22-4641-b8ab-07dae0bb2027","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Fyld hullerne"},"id":"7c2341f1-50ff-40c6-8e1d-082ec0051f9e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Jeg n\u00e6vnte tidligere, at man ved tabet af et k\u00e6rlighedsforhold ogs\u00e5 potentielt taber nogle af de ting, forholdet bar med sig: eksempelvis aktiviteter, man holdt af, eller relationer til f\u00e6lles venner og bekendte. Derfor er det vigtigt at identificere de tomrum, den tabte relation har efterladt i dit liv og pr\u00f8ve at fylde dem med noget nyt.<\/p>"},"id":"0c5e854a-2d4f-4b21-a866-ad2cd51b8572","isHidden":false,"type":"text"},{"content":{"text":"<p>Gik dig og din eksk\u00e6reste for eksempel i biografen hver fredag? S\u00e5 find p\u00e5 en anden hyggelig fredagsaktivitet, du kan gentage hver uge. Savner du jeres byture sammen? Hiv en ven eller veninde med i byen l\u00f8rdag aften. Eller var det bare det bedste at se serier p\u00e5 Netflix med en pose popcorn? Begynd p\u00e5 en ny serie, som du ser sammen med en ven eller et familiemedlem.<\/p>"},"id":"fae3e4ce-052b-46d0-b81c-8d393969c3eb","isHidden":false,"type":"text"},{"content":{"text":"<p>Og helt konkret: Fyld nye billeder i de tomme billederammer, hvor din eks f\u00f8rhen figurerede.<\/p>"},"id":"8f9070bc-5240-4b3d-9479-73204b04f7df","isHidden":false,"type":"text"},{"content":{"text":"<p>I Avilius har vi et <a href=\"https:\/\/www.avilius.dk\/grupper\/karlighed\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">gruppeforl\u00f8b om k\u00e6rlighed<\/a>, hvor vi blandt andet arbejder med at forst\u00e5 hjertesorg og hvordan man kan komme videre.<\/p>"},"id":"06de5384-50b0-44ff-86ae-fb078f7f6f64","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Kærestesorger - sådan heler du et knust hjerte. Af Tamara Hveisel
+
+----
+
+Seodescription: Alt hvad der føles godt kan man blive afhængig af. Og hvad føles bedre end kærlighed? Lider du også af kærlighedsabstinenser?
+
+----
+
+Seokeywords: kærlighed, kærestesorger, afhængighed, sociale medier, gruppeforløb
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: Kærestesorger – 5 teknikker til at hele et knust hjerte
+
+----
+
+Category: Blog
+
+----
+
+Link: 

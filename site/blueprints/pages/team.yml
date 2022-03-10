@@ -1,0 +1,25 @@
+title: Team
+
+status:
+  draft: true
+  listed: true
+
+options:
+  url: false
+  delete: false
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        fields:
+          description:
+            label: Description
+            type: textarea
+      - width: 1/2
+        sections:
+          team: sections/team
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

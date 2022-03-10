@@ -1,0 +1,92 @@
+title: Samtalepartner
+icon: 🙋‍♀️
+
+status:
+  draft: true
+  listed: true
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        fields:
+          firstname:
+              label: First name
+              type: text
+              width: 1/4
+          email:
+              label: Email
+              type: email
+              width: 1/4
+          capacity:
+              label: Vacant spots?
+              type: toggle
+              width: 1/2
+          price:
+              label: Price
+              type: text
+              width: 1/3
+          pricedetails:
+              label: Price details
+              type: textarea
+              width: 1/3
+          length:
+              label: Length
+              type: text
+              width: 1/3
+          course:
+              label: Course
+              type: text
+              width: 1/2
+          coursedetails:
+              label: Course details
+              type: textarea
+              width: 1/2
+          video:
+              label: Video
+              type: files
+              query: videos
+              width: 1/2
+              multiple: false
+          portrait:
+              label: Main portrait
+              type: files
+              width: 1/2
+              multiple: false
+          secondportrait:
+              label: Second portrait
+              type: files
+              width: 1/2
+              multiple: false
+          thirdportrait:
+              label: Third portrait
+              type: files
+              width: 1/2
+              multiple: false
+          experience:
+              label: Experience
+              type: tags
+          testimonials:
+              label: Testimonials
+              type: structure
+              fields:
+                quote:
+                  label: Quote
+                  type: text
+                  before: '"'
+                  after: '"'
+                author:
+                  label: Author
+                  type: text
+                  before: '— '
+
+      - width: 1/2
+          fields:
+            description:
+              label: Description
+              type: textarea
+              width: 1/1
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

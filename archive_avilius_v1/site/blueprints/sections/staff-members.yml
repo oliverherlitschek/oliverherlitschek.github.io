@@ -1,0 +1,7 @@
+type: pages
+headline: Staff members
+parent: kirby.page("about")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: staff-member
+empty: No posts yet
+sortBy: date desc

@@ -1,0 +1,57 @@
+Title: Avilius præsenterer: SOMMERUDSTILLING
+
+----
+
+Date: 2021-07-24
+
+----
+
+Card: true
+
+----
+
+Theme: bbd663
+
+----
+
+Author: Oliver Herlitschek
+
+----
+
+Authorlink:
+
+- hvorfor/oliver-herlitschek
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- avilius-blog-sommerudstilling.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Vi er stolte af at kunne pr\u00e6sentere vores anden halv\u00e5rlige udstilling. Denne gang g\u00e5r den under det mundrette navn SOMMERUDSTILLING og har som altid til form\u00e5l at bringe ung, moderne kunst ud i verden via vores v\u00e6gge.<\/p>"},"id":"058dda23-1f9b-4ec6-843c-1283e1885506","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["avilius-blog-sommerudstilling-bg-1-1.jpg"],"src":"","alt":"Avilius Sommerudstilling Plakat 2021","caption":"Design: Oliver Herlitschek, baseret p\u00e5 v\u00e6rket \"Inflammation (Selvportr\u00e6t)\" af Noa Lachmi","link":"","ratio":"1\/1","crop":"true"},"id":"f06f7163-d6bc-47cd-913b-5deb39fd900c","isHidden":false,"type":"image"},{"content":{"text":"<p>Blandt de udstillende kunstnere er Freja Lauth, Vigga Wavner, Noa Lachmi, Emil Kock og Lou Lange. Udstillingen er kurateret af Avilius' egen kurator Ida Glitre.<\/p>"},"id":"690dcfbd-7627-4998-92a1-d95075a04d5d","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi holder fernisering p\u00e5&nbsp;udstillingen fredag d. 6. august \u2013 <a href=\"https:\/\/www.facebook.com\/events\/2990814194565679\" target=\"_blank\" title=\"Fernisering p\u00e5 SOMMERUDSTILLING\" rel=\"noopener noreferrer nofollow\">linket til begivenheden finder du her<\/a>. Vi ses!<\/p>"},"id":"c4f18e99-97e7-4fe1-8b22-7b37ea1e41e0","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 

@@ -1,0 +1,15 @@
+title: Site
+
+columns:
+  - width: 1/2
+    sections:
+      blog-posts: sections/blog-posts
+      therapists: sections/therapists
+      staff-members: sections/staff-members
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        sortable: false
+        delete: false
+      groups: sections/groups

@@ -1,0 +1,73 @@
+title: Grupper
+
+status:
+  draft: true
+  listed: true
+
+sortable: true
+
+options:
+  url: true
+  delete: false
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        fields:
+          maininfolabel:
+            label: Main info
+            type: headline
+          headline:
+            label: Headline
+            type: text
+          tagline:
+            label: Tagline
+            type: text
+            width: 1/3
+          cover:
+            label: Cover
+            type: files
+            multiple: false
+            width: 1/3
+          sessionheadline:
+            label: Sessions headline
+            type: text
+          sessiontext:
+            label: Sessions text
+            type: textarea
+          comparisonlabel:
+            label: Comparison element
+            type: headline
+          comparisonheadline:
+            label: Comparisons headline
+            type: text
+          comparisontext:
+            label: Comparisons text
+            type: textarea
+          comparisons:
+            label: Comparisons
+            type: structure
+            fields:
+              individual:
+                type: text
+                label: Individuel terapi
+                width: 1/2
+              group:
+                type: text
+                label: Gruppeterapi
+                width: 1/2
+      - width: 1/2
+        sections:
+          groups: sections/grupper
+            type: pages
+            layout: cards
+            image:
+              cover: true
+              ratio: 16/9
+            info: " {{ page.therapist }}"
+        
+
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

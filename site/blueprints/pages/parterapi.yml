@@ -1,0 +1,60 @@
+title: Parterapi
+icon: 🏠
+
+options:
+  status: true
+
+tabs:
+  content:
+    fields:
+      cover:
+          label: Cover
+          type: files
+          multiple: false
+          width: 1/2
+      headline:
+          label: Headline
+          type: text
+          width: 1/2
+      tagline:
+          label: Tagline
+          type: text
+      methodheadline:
+          label: Method headline
+          type: text
+      methoddescription:
+          label: Method description
+          type: textarea
+      testimonials:
+        type: structure
+        fields:
+          quote:
+            label: Quote
+            type: text
+      foryou:
+        label: Reasons to start couples therapy
+        type: tags
+      price:
+        label: Price
+        type: text
+        width: 1/3
+      pricedetails:
+        label: Price details
+        type: textarea
+        width: 1/3
+      length:
+        label: Length
+        type: text
+        width: 1/3
+    course:
+        label: Course
+        type: text
+        width: 1/2
+    coursedetails:
+        label: Course details
+        type: textarea
+        width: 1/2
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

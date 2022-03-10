@@ -1,0 +1,78 @@
+Title: 5 tips til at blive en gladere studerende
+
+----
+
+Date: 2019-09-15
+
+----
+
+Card: false
+
+----
+
+Theme: febaa7
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Authorlink:
+
+- team/jonas-schosler
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  large_935294640ed1f3f52c571cc87db4dbe1.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: At starte på en uddannelse er en helt speciel periode i livet. Mange af os oplever en frihed, der både kan være frigørende, men også krævende. Vi kommer her med en række råd til studielivet, som både tager udgangspunkt i faglig viden og vores egne erfaringer som studerende.
+
+----
+
+Text: [{"content":{"text":"<p>Det at starte p\u00e5 en uddannelse som ung, er en helt speciel periode i ens liv. Det er for de fleste en sk\u00f8n tid med nye venskaber, mindev\u00e6rdige oplevelser og personlig udvikling. Det er en rejse, hvor vi bliver klogere p\u00e5 vores talenter, faglighed og interesser.<\/p>"},"id":"b9cff1fc-266f-47b7-b88e-f108b7b97b58","isHidden":false,"type":"text"},{"content":{"text":"<p>At g\u00e5 p\u00e5 universitetet indeb\u00e6rer en masse selvst\u00e6ndighed, planl\u00e6gning og frihed under ansvar, som b\u00e5de kan v\u00e6re frig\u00f8rende, men ogs\u00e5 kr\u00e6vende. Der kan i ens studietid dukke tvivlssp\u00f8rgsm\u00e5l op og motivationen kan falde. Der kan v\u00e6re perioder, hvor man er trist eller sover d\u00e5rligt. Generelt er det at v\u00e6re ung og finde sit sted i livet ikke nogen nem opgave.<\/p>"},"id":"d8959aa6-641a-4c46-92b3-3e896d2e215a","isHidden":false,"type":"text"},{"content":{"text":"<p>Studietiden er for mange unge ogs\u00e5 forbundet med travle perioder, hvor der skal l\u00e6ses til eksamener, der skal arbejdes for huslejen, venner og familie skal plejes, og s\u00e5 vil vi i \u00f8vrigt gerne holde os sunde med motion og fritidsinteresser. De mange forskellige opgaver kan hurtigt overstige vores ressourcer og tid i hverdagen, hvilket p\u00e5 sigt kan f\u00f8re til mistrivsel og stress.<\/p>"},"id":"a063c96f-c9b8-4471-99c4-3bde84457a71","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi kommer her med en r\u00e6kke r\u00e5d, som b\u00e5de tager udgangspunkt i faglig viden og egne erfaringer som studerende.<\/p>"},"id":"ec09a700-a276-4f91-87c1-a933cae08bab","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"L\u00e6g karakterr\u00e6set bag dig"},"id":"df67be1c-1938-49ba-baff-eeb30265409e","isHidden":false,"type":"heading"},{"content":{"text":"<p>I gymnasiet kan vi ikke komme udenom, at karakterer desv\u00e6rre betyder en hel del, hvis man \u00f8nsker at tage en videreg\u00e5ende uddannelse. Vi udvikler et mindset, der er symptomatisk for pr\u00e6stationskulturen, hvor vi vurderer vores evner og v\u00e6rdi ud fra et s\u00e6t af eksterne kriterier. Vores r\u00e5d er, at du p\u00e5 universitetet st\u00e5r af karakterr\u00e6set og fokuserer p\u00e5 at blive dygtig til det, som er vigtigt for dig. Udforsk de emner, som interesserer dig. Vi kan ikke v\u00e6re gode til det hele. Unders\u00f8g hvad der kunne v\u00e6re interessant at arbejde med og g\u00e5 efter de relaterede kompetencer.<\/p>"},"id":"5a8fdfbe-a8b5-4f07-bc72-ef4457deefa0","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Hold fast i det, der giver gl\u00e6de og energi"},"id":"382b3d21-3c5c-4974-ace9-a7b9ff92c53b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Du kender sikkert \u00e9n, som b\u00e5de motionerer, dyrker sine fritidsinteresser, arbejder og passer sit studie \u2013 og man t\u00e6nker, hvordan fanden har de tid til det!? Det er ofte s\u00e5dan, at det sunde og gl\u00e6desfulde liv tager arbejdstimer fra studiet, men til geng\u00e6ld \u00f8ger det vores effektivitet og kreativitet. Det bliver nemmere at sidde sent p\u00e5 aftenen og l\u00e6se, hvis vi har haft en dag med aktiviteter, der giver os gl\u00e6de og energi. Noget som vi ofte ser, n\u00e5r folk starter p\u00e5 en uddannelse er, at de l\u00e6gger de ting p\u00e5 hylden, som egentlig er det, der er lyspunkterne i hverdagen. Vores r\u00e5d er, at du skal finde \u00e9n eller to ting, som g\u00f8r dig glad og prioritere dem lige s\u00e5 meget som alt andet.<\/p>"},"id":"b9426ed6-a528-42e8-a760-804d28329e6f","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Et socialt netv\u00e6rk giver robusthed"},"id":"9509702a-e8b7-4bb1-8e1c-47b66fb54bb6","isHidden":false,"type":"heading"},{"content":{"text":"<p>I psykologisk forskning er det evident, at vores sociale netv\u00e6rk er en vigtig faktor for vores robusthed, trivsel og succes i livet. De fleste af os har pr\u00f8vet at v\u00e6re et sted, hvor vi ikke klikker med de folk, som er der. Det er vildt ubehageligt og ensomt. Det er ikke unormalt, at folk siger: \u201dJeg skal ikke p\u00e5 universitetet for at f\u00e5 venner, dem har jeg i forvejen.\u201d Et st\u00e6rkt socialt f\u00e6llesskab p\u00e5 studiet er imidlertid afg\u00f8rende for, hvor sjovt og nemt studiet bliver. Det er godt givet ud at bruge noget tid p\u00e5 at finde nogle s\u00f8de studiekammerater, som du kan sparre og dele dine frustrationer og gl\u00e6der med.<\/p>"},"id":"e1079600-32f6-4a99-84e7-8f51354840f2","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"V\u00e6r opm\u00e6rksom p\u00e5 dine personlige gr\u00e6nser"},"id":"d4ded6d3-8535-479b-b876-19df5b4a63ad","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det at starte p\u00e5 en ungdomsuddannelse eller et universitet kan v\u00e6re en stor omv\u00e6ltning, hvor vi skal finde vores rolle i et nyt f\u00e6llesskab. Det kan til tider v\u00e6re sv\u00e6rt at gennemskue, hvad der forventes af \u00e9n. Vi g\u00f8r meget for at passe ind, fordi det fra naturens side f\u00f8les ubehageligt, n\u00e5r vi er uden for, hvorfor vi af og til overskrider vores egne gr\u00e6nser. Det er heller ikke altid nemt at vide, hvor vores gr\u00e6nser g\u00e5r. Sommetider bliver vi n\u00f8dt til at overskride dem, for at finde ud af, hvor de g\u00e5r. Det er meget menneskeligt. Til geng\u00e6ld er der en befrielse i at sige \u201dnej\u201d til noget, som vi har ikke lyst eller tid til. Dine venner holder stadig af dig, selvom du i en periode ikke har tid til caf\u00e9er og fester.<\/p>"},"id":"21ecc5e7-79de-4003-a215-c51e02d13a73","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Snak med nogen i god tid"},"id":"f10c7840-7f1b-44c5-b040-a5bbc2830393","isHidden":false,"type":"heading"},{"content":{"text":"<p>Livet er en blandet pose med sejre og nederlag, lykkelige og ulykkelige perioder. Det g\u00e6lder for os alle \u2013 det er et vilk\u00e5r for det at v\u00e6re menneske. Det betyder til geng\u00e6ld ikke, at vi skal g\u00e5 med det selv. Vi anbefaler, at hvis du begynder at opleve tristhed, fortvivlelse, tab af motivation, s\u00f8vnproblemer eller andet som g\u00e5r dig p\u00e5, at du snakker med nogen om det i god tid. Det er blandt andet grunden til, at vi i Avilius tilbyder den f\u00f8rste samtale gratis og helt uforpligtende.<\/p>"},"id":"ff0f8238-4be5-4684-aeed-37e7b65018c6","isHidden":false,"type":"text"},{"content":{"text":"<p>Artiklen er blevet til i samarbejde med <a href=\"https:\/\/www.studentum.dk\/\">Studentum<\/a>, hvor du kan blive klogere p\u00e5 muligheder inden for uddannelse.<\/p>"},"id":"f3ba5a24-da6a-4f4d-89b1-667208aae89f","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - 5 tips til at blive en gladere studerende. Af Jonas Schøsler
+
+----
+
+Seodescription: På universitetet er det dig der lægger skemaet. Hvordan ender man med hverken at kører sur i læsningen eller skamme sig over at holde for meget fri?
+
+----
+
+Seokeywords: venner, karakterer, trivsel, sociale netværk, uddannelse, universitet, motivation, ungdomsuddannelse
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 

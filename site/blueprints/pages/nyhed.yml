@@ -1,0 +1,147 @@
+title: Nyhed
+num: date
+icon: 📖
+
+status:
+  draft:
+    label: Draft
+    text: The note is still in draft mode. It can only be seen by editors with panel access.
+  unlisted:
+    label: In Review
+    text: The note is online and can be visited with the direct URL. The team must still give the final go to publish it.
+  listed:
+    label: Published
+    text: The note is online and listed in the blog
+
+tabs:
+  content:
+    columns:
+      - width: 1/3
+        sections:
+          meta:
+            type: fields
+            fields:
+              date:
+                type: date
+                time: false
+                default: now
+              card:
+                label: Show as card
+                type: toggle
+              theme:
+                type: radio
+                options:
+                  baddfc: Blue
+                  bbd663: Green
+                  c377e5: Purple
+                  f0f1b4: Yellow
+                  febaa7: Pink
+              author:
+                type: text
+              authorlink:
+                label: Author link
+                type: pages
+                multiple: false
+              tags:
+                type: tags
+              cover:
+                label: Cover
+                type: files
+                upload: true
+                multiple: false
+                help: Remember to <a href="https://tinypng.com/" target="_blank">optimize</a> the picture before uploading.
+              references:
+                label: References
+                type: structure
+                fields:
+                  name:
+                    label: Name
+                    type: text
+                    width: 1/2
+                  url:
+                    label: URL
+                    type: url
+                    width: 1/2
+      - width: 2/3
+        fields:
+          text:
+            label: Content
+            type: blocks
+            fieldsets:
+              texts:
+                label: Texts
+                type: group
+                fieldsets:
+                  - heading
+                  - text
+                  - list
+                  - quote
+              calltoaction:
+                label: Call to action
+                type: group
+                fieldsets:
+                  cta:
+                    name: CTA
+                    icon: road-sign
+                    fields:
+                      category:
+                        label: Book, call or custom CTA?
+                        type: radio
+                        options:
+                          book: Book en tid
+                          call: Få et opkald
+                          cta: Custom CTA
+                      image:
+                        type: files
+                        upload: true
+                        multiple: false
+                        when:
+                          category: cta
+                      description:
+                        type: textarea
+                      link:
+                        type: text
+                        width: 1/2
+                        when:
+                          category: cta
+                      linktext:
+                        label: Text on button
+                        type: text
+                        width: 1/2
+                        when:
+                          category: cta
+                      linkcolor:
+                        type: radio
+                        label: Button color
+                        width: 1/2
+                        options:
+                          lpurple: Light purple
+                          purple: Purple
+                          lgreen: Light green
+                          green: Green
+                          brown: Brown
+                      linktextcolor:
+                        type: radio
+                        label: Button text color
+                        width: 1/2
+                        options:
+                          white: White
+                          purple: Purple
+                          black: Black
+              media:
+                label: Media
+                type: group
+                fieldsets:
+                  - image
+                  - video
+              code:
+                label: Code
+                type: group
+                open: false
+                fieldsets:
+                  - code
+                  - markdown
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

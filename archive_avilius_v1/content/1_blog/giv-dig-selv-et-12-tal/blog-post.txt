@@ -1,0 +1,592 @@
+Title: Er du også pisse træt af præstationskulturen? Giv dig selv et 12-tal!
+
+----
+
+Date: 2020-02-10
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Cover:
+
+- avilius-12-tal.gif
+
+----
+
+References: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<code>\ud83d\udd12Kun tilg\u00e6ngelig via link</code>",
+        "id": "_mfb5boq9z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hej ven,",
+        "id": "_OVqlwGQDO",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det kan v\u00e6re du sidder og t\u00e6nker, hvem er Avilius og hvorfor har de skrevet om pr\u00e6stationskulturen? Lad os tage det sidste f\u00f8rst.",
+        "id": "_Hlhl7zKRf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kan du nikke genkendende til noget af det her?",
+        "id": "_j9JkRfJ6k",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u00b7 Du er ikke tilfreds, hvis ikke du f\u00e5r gode karakterer<br>\u00b7 Du har sv\u00e6rt ved at hvile i dine valg<br>\u00b7 Du er i tvivl, om du er god nok<br>\u00b7 Du f\u00f8ler, at du bruger tiden forkert<br>\u00b7 Du bekymrer dig om andres meninger og holdninger",
+        "id": "_3hej4dbbt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nej? S\u00e5 f\u00e5r du nok mere ud af at se en grineren video p\u00e5 YouTube. Hvis du til geng\u00e6ld kan genkende dig selv i en af ovenst\u00e5ende punkter, s\u00e5 kan den her lille guide v\u00e6re starten p\u00e5 et nyt liv i et nyt perspektiv.",
+        "id": "_LECOSqJ9v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>pr\u00e6st\u00e9rdigselvihjel.exe<br></strong>Tids\u00e5nden er h\u00e5rdt ramt af en virus, der har spredt sig til stort set alle omr\u00e5der. K\u00e6rlighedslivet, familielivet, uddannelse og arbejde \ud83e\udda0<br><br>Den forplumrer vores f\u00e6llesbevidsthed ved at plante usunde leveregler, vi ikke kan leve op til, ved at sige ting som \u201dAlt er muligt\u201d, \u201dHvis ikke du f\u00e5r succes, s\u00e5 er det din egen skyld\u201d og \u201dDet perfekte er opn\u00e5eligt, hvis du bare optimerer dig selv\u201d.",
+        "id": "_dxh8fqudu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Langsomt siver de her leveregler ned i samfundslivets organer, hvor de blander sig med logik, f\u00f8lelser, tanker og adf\u00e6rd.",
+        "id": "_0c9bnkngf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Konsekvensen er en ulykkelig ungdomsgeneration, der sl\u00e5r ud p\u00e5 stress, ensomhed, angst, depression og s\u00f8vnbesv\u00e6r. Derfor har vi i Avilius lavet vores egen antivirus!",
+        "id": "_wy815uude",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vores antivirusprogram best\u00e5r af fem trin, som ikke kr\u00e6ver andet end din forestillingsevne og din vilje. Det er ikke et quick fix, men \u00f8velser som kr\u00e6ver kontinuerlig tr\u00e6ning. Du vil blive i stand til over tid at \u00f8ge din refleksive bevidsthed og \u00e5bne op for en verden af muligheder.",
+        "id": "_qkfolidhg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lad os starte med at rive det hele fra hinanden.",
+        "id": "_gsodfiv85",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "1. Identific\u00e9r de nuv\u00e6rende spilleregler -&gt; s\u00e6t ild til dem -&gt; skab dine egne",
+        "id": "_xmu9fvr4e",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Overvej i et \u00f8jeblik, hvor stor en del af dit liv, du lever med fuld bevidsthed om dine egne antagelser? Giv dig selv to minutter. Jeg venter p\u00e5 dig.",
+        "id": "_y805j156x",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_mw3usjxu0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_b3pf0aum2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_gjpja9nj4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_sypkyabm6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_ozpw5i66z",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_x3l2w4nb3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_9ihafl00e",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_eg082hhbe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_xw28ytcxt",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_5y332ybv2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_vlkjv50nb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_b7bhnaucu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ":)",
+        "id": "_r9t888sov",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_oigw5lel8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_r1zl5g5ef",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_53sg1jjge",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_wfmok5ruq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_1mvxfmczi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_cn6p3l7j7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_w0kxasfko",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_xzql1697b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_vihdalh41",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_po6nu6955",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_9mn8il4qp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": ".",
+        "id": "_evrd9995o",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Godt.",
+        "id": "_r8fsp2afo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nu vil jeg gerne have, at du fors\u00f8ger at l\u00f8se denne udfordring. Udfordringen er, at du skal tegne fire lige og kontinuerlige linjer, som g\u00e5r igennem hver og en af prikkerne p\u00e5 papiret nedenfor \u2014 uden at slippe papiret, eller i det her tilf\u00e6lde din sk\u00e6rm.",
+        "id": "_mrv4kwhgs",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Giv det et skud:",
+        "id": "_owmrtggkn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+giv-dig-selv-et-12-tal/files/avilius-giv-dig-selv-et-12-tal-challenge.jpg",
+            "src": "https://avilius.dk/media/pages/blog/giv-dig-selv-et-12-tal/2371841244-1581408606/avilius-giv-dig-selv-et-12-tal-challenge.jpg",
+            "id": "blog/giv-dig-selv-et-12-tal/avilius-giv-dig-selv-et-12-tal-challenge.jpg",
+            "ratio": 1.5003750937734434689474483093363232910633087158203125,
+            "caption": "",
+            "css": ""
+        },
+        "content": "",
+        "id": "_2bqn7ls10",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Hvordan gik det? Pr\u00f8v lige igen!",
+        "id": "_oiifnz4m5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+giv-dig-selv-et-12-tal/files/avilius-giv-dig-selv-et-12-tal-challenge.jpg",
+            "src": "https://avilius.dk/media/pages/blog/giv-dig-selv-et-12-tal/2371841244-1581408606/avilius-giv-dig-selv-et-12-tal-challenge.jpg",
+            "id": "blog/giv-dig-selv-et-12-tal/avilius-giv-dig-selv-et-12-tal-challenge.jpg",
+            "ratio": 1.5003750937734434689474483093363232910633087158203125,
+            "caption": "",
+            "css": ""
+        },
+        "content": "",
+        "id": "_k6onsxlh9",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "M\u00e5ske fors\u00f8gte du s\u00e5dan her:",
+        "id": "_pkzptkngm",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+giv-dig-selv-et-12-tal/files/avilius-giv-dig-selv-et-12-tal-forkert.jpg",
+            "src": "https://avilius.dk/media/pages/blog/giv-dig-selv-et-12-tal/1991138243-1581408669/avilius-giv-dig-selv-et-12-tal-forkert.jpg",
+            "id": "blog/giv-dig-selv-et-12-tal/avilius-giv-dig-selv-et-12-tal-forkert.jpg",
+            "ratio": 1.5003750937734434689474483093363232910633087158203125,
+            "caption": "",
+            "css": ""
+        },
+        "content": "",
+        "id": "_ag8l6o0d6",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Her er l\u00f8sningen:",
+        "id": "_p4xa16d0m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+giv-dig-selv-et-12-tal/files/avilius-giv-dig-selv-et-12-tal-rigtig.jpg",
+            "src": "https://avilius.dk/media/pages/blog/giv-dig-selv-et-12-tal/3137193278-1581408688/avilius-giv-dig-selv-et-12-tal-rigtig.jpg",
+            "id": "blog/giv-dig-selv-et-12-tal/avilius-giv-dig-selv-et-12-tal-rigtig.jpg",
+            "ratio": 1.5003750937734434689474483093363232910633087158203125,
+            "caption": "",
+            "css": ""
+        },
+        "content": "",
+        "id": "_9qb5o8w64",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Hov! Linjerne g\u00e5r uden for firkanten? Hvilken firkant? N\u00e5 ja, den firkant vi automatisk antager at de ni prikker danner tilsammen. Du antog sandsynligvis, at linjerne skulle tegnes inden for den usynlige firkant.",
+        "id": "_8SbxHDTLM",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Nu vil jeg gerne have dig til at overveje endnu en gang, hvor stor en del af dit liv, du lever med fuld bevidsthed om dine egne antagelser? Det er ikke sikkert, at det er dine antagelser. Det kan v\u00e6re antagelser, der kommer fra dine for\u00e6ldre eller fra den omgivende kultur, men uanset oprindelsen er de blevet en del af dit system \u2013 din m\u00e5de at opleve verden p\u00e5.",
+        "id": "_zotp2n2mv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Pr\u00e6stationskulturen har for eksempel en r\u00e6kke antagelser:",
+        "id": "_Gsrvog587",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u00b7 Hvis andre er bedre til noget, er der ingen grund til du g\u00f8r det<br>\u00b7 Du er altid i konkurrence om knappe ressourcer<br>\u00b7 Hver gang du fejler, s\u00e5 er der nogen, der overhaler dig<br>\u00b7 Hvis ikke du kan synligg\u00f8re dine bedrifter, s\u00e5 findes de ikke<br>\u00b7 Det er kun din egen skyld, hvis ikke du klarer det godt<br><br>Er der en regel, som du synes mangler?",
+        "id": "_meme2d9ll",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der gemmer sig ofte et s\u00e6t spilleregler, der er implicitte i vores m\u00e5de at handle p\u00e5. Hvordan kan vi s\u00e5 tage kontrol og definere vores egne spilleregler? Det f\u00f8rste skridt er at erkende f\u00f8lgende: it\u2019s all invented.",
+        "id": "_03tt8d2jl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Der er ingen af os, der ser verden i sin absolutte form; s\u00e5dan som den egentligt er. Det lyder m\u00e5ske underligt, at vi ikke ser verden som den er, men vi ville aldrig kunne rumme verden i sin renhed. Det ville v\u00e6re uendeligt mange indtryk p\u00e5 \u00e9n gang. Din hjerne filtrerer d\u00e9t fra, som ikke er vigtigt for din overlevelse.",
+        "id": "_zki96ww1y",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201cThe senses do not give us a picture of the world directly; rather they provide evidence for the checking of hypotheses about what lies before us.\u201d",
+        "id": "_py826ap3d",
+        "type": "blockquote"
+    },
+    {
+        "attrs": [],
+        "content": "\u2014 Richard Gregory, neuropsykolog",
+        "id": "_p6euzommv",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Du har sikkert pr\u00f8vet at have en samtale p\u00e5 en proppet restaurant, hvor du meget nemt filtrerer de \u00f8vrige g\u00e6sters samtaler fra. Du har sikkert ogs\u00e5 pr\u00f8vet, at du lige pludselig h\u00f8rer dit navn i et ellers uforst\u00e5eligt lydbillede. Det kalder vi selektiv opm\u00e6rksomhed. Vi oplever verden igennem en linse, der har sin helt egen optik. Einstein sagde om teorier, der bygger p\u00e5 observerbare fakta: \u201cIn reality the very opposite happens. It is theory which decides what we can observe.\u201d",
+        "id": "_g7d3itu8r",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "It\u2019s all invented. Nu hvor du er bevidst om, at den verden du lever i, forandrer sig alt efter dine hypoteser og spilleregler, s\u00e5 kan du begynde at unders\u00f8ge, hvilke regler der g\u00f8r sig g\u00e6ldende i dit eget liv. Sp\u00f8rg dig selv, n\u00e5r du st\u00e5r i en situation \u201chvilke antagelser g\u00f8r jeg mig, som jeg ikke er klar over, at jeg g\u00f8r mig, som giver mig det jeg ser?\u201d",
+        "id": "_xmxhdwjun",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "N\u00e5r du har svaret p\u00e5 sp\u00f8rgsm\u00e5let, kunne n\u00e6ste sp\u00f8rgsm\u00e5l v\u00e6re \u201chvad kan jeg nu skabe, som jeg endnu ikke har skabt, der kan give mig andre muligheder?\u201d",
+        "id": "_q5kzi0lm8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Et sted at starte kunne v\u00e6re dit studieliv, dit k\u00e6rlighedsliv eller dit familieliv. Overvej hvilke antagelser, som giver dig det du oplever.",
+        "id": "_wuW1A3JNg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u265f\u265f\u265f\u265f\u265f<br>Livet er et br\u00e6tspil \u2013 et spil skak, hvor vi rykker rundt p\u00e5 brikkerne efter de regler, der er blevet givet til os eller som vi selv har skabt. Det er en begr\u00e6nset verden at leve i. Vi glemmer alt for ofte, at vi ikke kun er brikkerne, men ogs\u00e5 selve br\u00e6ttet.",
+        "id": "_w0sju4lc2",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Overvej hvilket spil, du spiller. Hvis ikke du bryder dig om det, s\u00e5 s\u00e6t ild til lortet. Skab dit eget spil med dine egne regler. Karaktersystemet er for eksempel nogle regler vi har fundet p\u00e5, s\u00e5 vi kan m\u00e5le den ene elev op imod den anden og finde ud af, hvem der er bedst.",
+        "id": "_72v78wyf6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvad er det for et lortesystem? Hvorfor skal vi sammenligne? Kan vi ikke f\u00e5 en god feedback p\u00e5 vores arbejde uden at skulle vide, hvordan vi har klaret det i forhold til Anna eller Magnus. Det kan ogs\u00e5 v\u00e6re, at du synes karaktersystemet er glimrende. Det er helt fint, s\u00e5 virker reglerne for dig. Pointen er, hvis ikke de g\u00f8r, s\u00e5 skal du skabe dine egne. Et helt konkret r\u00e5d er:",
+        "id": "_gj16kjjdj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Giv dig selv et 12-tal.",
+        "id": "_XdcARXxnq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg mener det dybt alvorligt. Giv dig selv og dine venner et 12-tal. I har alle gjort det bedste I kunne med de ressourcer I havde. Hvis du fejler i det ene eller andet, hvad skal reglen s\u00e5 v\u00e6re? Skal reglen v\u00e6re, at du nok skal finde p\u00e5 noget andet at besk\u00e6ftige dig med, fordi du sikkert er pissed\u00e5rlig til det? Eller skal det v\u00e6re, at du r\u00e6kker armene i vejret og r\u00e5ber: \u201dk\u00e6ft hvor sp\u00e6ndende!\u201d \u2013 fordi du ved, at du ikke skal forelske dig i din l\u00f8sning, men i dit problem?",
+        "id": "_hj6785nnr",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "S\u00e6t dig selv fri fra det regel-tyranni, som du aldrig har bedt om at v\u00e6re en del af \ud83d\udd17",
+        "id": "_HgrYWzDvN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "2. Den m\u00e5lbare verden vs. et univers af muligheder",
+        "id": "_pxdc7wggy",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Den verden, som vi lever i til daglig, kunne vi kalde <em>den m\u00e5lbare verden</em>. I denne verden er de centrale elementer tests, skalaer, karakterer og sammenligninger. Det er en hverdag, hvor vi hver is\u00e6r str\u00e6ber efter succes i h\u00e5bet om, at vi kommer til et bedre sted, end hvor vi startede. Det er en verden, hvor vi p\u00e5 vejen mod vores m\u00e5l m\u00f8der udfordringer. Det kan v\u00e6re konkurrenter, men det kan ogs\u00e5 knapheden af tid, penge, magt, k\u00e6rlighed, ressourcer og indre styrke.",
+        "id": "_trxxbtmry",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De knappe ressourcer og konkurrencen betyder, at der vil v\u00e6re vindere og tabere. Nogen vil f\u00e5 accept, andre vil f\u00e5 et faretruende afslag. Der vil v\u00e6re h\u00e5b og form\u00f8rkelse.",
+        "id": "_vqasSo3cC",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Antagelsen er, at livet handler om at overleve i en verden af knaphed og risiko. Selv n\u00e5r det er bedst i <em>den m\u00e5lbare verden</em>, er denne antagelse stadig en underliggende energi.",
+        "id": "_jVXDERa6m",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det er en antagelse, som frar\u00f8ver os <em>et univers af muligheder</em>. Livet i <em>den m\u00e5lbare verden</em> er arrangeret i hierarkier: nogle grupper, kroppe, steder og id\u00e9er virker til at v\u00e6re bedre end andre. Linjer optr\u00e6kkes og et inde skilles fra et ude.",
+        "id": "_s1hlc0p4q",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det er et liv, hvor der ikke er kage nok. Derfor bliver konkurrence vejen til succes.",
+        "id": "_06CurO0dE",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "For et par \u00e5r siden sagde Lars L\u00f8kke tre gange i sin nyt\u00e5rstale, at han ville \u201dg\u00f8re alle til fremtidens vindere\u201d, og senest fort\u00e6ller Mette Frederiksen, at hun vil hj\u00e6lpe alle b\u00f8rn med \u201dat f\u00e5 bolden helt i m\u00e5l\u201d. Ligesom alle danner en firkant rundt om de ni prikker, s\u00e5 v\u00e5gner stort set alle \u2013 uanset om de bader i luksus eller er dybt forarmede \u2013 med den antagelse om morgenen, at livet er en kamp om overlevelse i en verden med begr\u00e6nsede ressourcer.",
+        "id": "_xqtmnz67t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg kalder denne verden for <em>den m\u00e5lbare verden</em>. Men lyder det helt forkert, hvis vi kalder den pr\u00e6stationssamfundet? Et samfund, hvor du taber \u2013 hvor du ikke n\u00e5r helt i m\u00e5l \u2013 hvis ikke du pr\u00e6sterer og lykkes.",
+        "id": "_njBdg6n3A",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Pr\u00e6st\u00e9r eller udd\u00f8</strong><br>Lyder det som et spil, du har lyst til at spille? Hvis ikke, s\u00e5 lad os s\u00e6tte ild til lortet. Ud af asken fra den gamle verden opst\u00e5r et alternativ; et univers af muligheder. Til at tr\u00e6de ind i det, s\u00e5 skal vi huske det vi l\u00e6rte tidligere.",
+        "id": "_b8hmgdllq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>It\u2019s all invented.</em>",
+        "id": "_k0IYeWwQp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I et univers af muligheder ved vi, at sproget skaber de kategorier, som vi forst\u00e5r verden med. Derfor afh\u00e6nger vores muligheder, af den m\u00e5de vi t\u00e6nker og taler om tingene p\u00e5. Det er ikke et univers, vi kan n\u00e5 hen til. Det er ikke en rute fra A til B. Det er et univers, som vi tr\u00e6der ind og ud af.",
+        "id": "_eu9la3e9h",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Du tr\u00e6der ind i det, n\u00e5r solen maler himlen flammer\u00f8d p\u00e5 vej ned i horisonten. Du tr\u00e6der ind i det, n\u00e5r du ser et satellitbillede af jorden. Du tr\u00e6der ind i det, n\u00e5r et kor synger, s\u00e5 h\u00e5rene rejser sig p\u00e5 kroppen.",
+        "id": "_XandzwTE7",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+giv-dig-selv-et-12-tal/files/avilius_eksistens.jpg",
+            "src": "https://avilius.dk/media/pages/blog/giv-dig-selv-et-12-tal/610630384-1581412294/avilius_eksistens.jpg",
+            "id": "blog/giv-dig-selv-et-12-tal/avilius_eksistens.jpg",
+            "ratio": 1.61697827185447184916711194091476500034332275390625,
+            "caption": "<strong>Overview-effekten</strong> N\u00e5r vi ser satellitbilleder af jorden indser vi, hvor lidt de sociale spilleregler egentlig betyder for livet."
+        },
+        "content": "",
+        "id": "_6lzhv7tfm",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Hvorfor?",
+        "id": "_EYw6WX7ra",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I d\u00e9t \u00e6refrygtige \u00f8jeblik g\u00e5r det op for \u00e9n, at verden har en uendelighed af gl\u00e6de, n\u00e5de, lidenskab, medf\u00f8lelse og forbundethed. I de \u00f8jeblikke transcenderer vi vores tilstand af overlevelse og tr\u00e6der ind i et univers, hvor der er en overflod af ressourcer og muligheder.",
+        "id": "_HUc0nw01N",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi opdager, at der altid er mere kage, uanset hvor mange stykker vi tager.",
+        "id": "_w0h2tff6w",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "I pr\u00e6stationssamfundet s\u00e6tter vi os et m\u00e5l og str\u00e6ber efter det. I et univers af muligheder s\u00e6tter vi konteksten og lader livet udfolde sig.",
+        "id": "_kJUNquSMV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det betyder ikke, at vi ikke skal have ambitioner i livet og s\u00e6tte os nogle m\u00e5l.",
+        "id": "_xMIwSky9t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Pointen er mere, at der er st\u00f8rre sandsynlighed for, at du samlet set f\u00e5r succes, hvis du g\u00e5r ind i projekter uden \u200b\u200bat dit liv afh\u00e6nger af at n\u00e5 m\u00e5let, for s\u00e5 vil du v\u00e6re bedre i stand til at lade andres energi inspirere dig.",
+        "id": "_AHL97KbD6",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Overvej i et \u00f8jeblik, hvordan du har defineret succes i dit liv. Hvilke pr\u00e6misser er g\u00e6ldende? Er \u00e9n af pr\u00e6misserne, at du bliver n\u00f8dt til at klare dig bedre end andre? Hvis ja, hvorfor?",
+        "id": "_j07jdjIcH",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvordan er dine tanker og handlinger, i det her \u00f8jeblik, et produkt af <em>den m\u00e5lbare verden</em>?",
+        "id": "_9b0SJMrz5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "I n\u00e6ste kapitel: <a href=\"https://avilius.dk/blog/giv-dig-selv-et-12-tal-del-2\">Instagram, regel nummer seks og fem v\u00e6rdier, der g\u00f8r dig uovervindelig</a> \u2192",
+        "id": "_ukh181952",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Image: - aavilius-mistrivsel-nej-tak.png

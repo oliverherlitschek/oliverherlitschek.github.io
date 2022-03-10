@@ -1,0 +1,246 @@
+Title: Travl eller stresset?
+
+----
+
+Date: 2019-08-12
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Cover:
+
+- avilius-travl.jpg
+
+----
+
+References:
+
+- 
+  name: >
+    Grundbog i Psykiatri, Bo Møhl og Erik
+    Simonsen
+  url: >
+    https://hansreitzel.dk/products/grundbog-i-psykiatri-bog-17048-9788741262192
+- 
+  name: Psykiatrifonden
+  url: https://www.psykiatrifonden.dk/
+- 
+  name: Frihedens Pris, Peter Lund Madsen
+  url: >
+    https://www.lindhardtogringhof.dk/frihedens-pris-en-kort-historie-om-menneskehjernen
+- 
+  name: Den nationale sundhedsprofil, 2010/2013
+  url: http://www.danskernessundhed.dk/
+- 
+  name: Sundhedsstyrelsen
+  url: https://www.sst.dk/
+- 
+  name: StressAlliancen
+  url: https://stressalliancen.dk
+- 
+  name: >
+    Det Nationale Forskningscenter for
+    Arbejdsmiljø
+  url: http://nfa.dk/
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "I Avilius arbejder vi for at give unge muligheden for at f\u00e5 hj\u00e6lp, inden det g\u00e5r galt. Derfor s\u00e6tter vi i denne artikel fokus p\u00e5 f\u00e6nomenet stress, der hver eneste dag er \u00e5rsagen til, at ca. 35.000 danskere er sygemeldte.",
+        "id": "_bC8D3ZsUn",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ordet stress er blevet en del af hverdagssproget, hvor det er blevet synonymt med det at v\u00e6re presset p\u00e5 den ene eller anden m\u00e5de. Det kan derfor v\u00e6re vanskeligt at vide, hvorn\u00e5r man er stresset eller bare er travl.",
+        "id": "_G5iYwYv3l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Definition",
+        "id": "_HwrJrdUFl",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Stress er ikke en diagnose p\u00e5 linje med en depressiv lidelse. Stress betegnes som en belastningstilstand, hvor ydre krav (skole, arbejde, for\u00e6ldre) og/eller indre krav (perfektionisme, selvbebrejdelse) overstiger (vores oplevelse af) de ressourcer, vi har tilg\u00e6ngelige. Sat p\u00e5 spidsen, kan man stille det op s\u00e5dan her:",
+        "id": "_CFd3OAbEy",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_BjIO0PlWS",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Krav &gt; Ressourcer = Stress",
+        "id": "_PYszUxKHb",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kort- og langvarig stress",
+        "id": "_ANPMsmc29",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Er det alle former for stress, der er skadelige? Stress er en ganske normal og sund reaktion p\u00e5 en situation, der kr\u00e6ver vores fulde koncentration og opm\u00e6rksomhed. I menneskets f\u00f8rste dage kunne det v\u00e6re situationer, hvor man skulle nakke en mammut med klanen eller undslippe en tiger. I dag kan det v\u00e6re en eksamensperiode, deadlines p\u00e5 arbejdet, konflikter i privatlivet m.m.",
+        "id": "_Sed6uCpMz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_SuWO4DzhS",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Stress koster hvert \u00e5r samfundet ca. 14 mia. DKK.",
+        "id": "_K2lk0uxAu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Alle eksemplerne ovenfor er karakteriseret ved, at stressen oph\u00f8rer, n\u00e5r vi er i m\u00e5l med vores opgave. Der er alts\u00e5 tale om en kortvarig stress, der kulminerer i en forl\u00f8sning. Denne form for stress er ikke skadelig, men hj\u00e6lper os med at h\u00e5ndtere kr\u00e6vende situationer.<br>Den langvarige stress er til geng\u00e6ld en alvorlig trussel mod vores helbred. Den kan se ud p\u00e5 rigtig mange m\u00e5der, hvorfor der her f\u00f8lger en oversigt over de typiske fysiske, psykiske og adf\u00e6rdsm\u00e6ssige symptomer:",
+        "id": "_1ctiaW7fF",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Fysiske tegn</strong> <em>Hjertebanken, hovedpine, svedeture, indre uro, mavesmerter, appetitl\u00f8shed og hyppige infektioner.</em>",
+        "id": "_2DCDLxvLV",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Psykiske tegn</strong> <em>Ulyst, tr\u00e6thed, hukommelsesbesv\u00e6r, koncentrationsbesv\u00e6r, rastl\u00f8shed og nedsat hum\u00f8r.</em>",
+        "id": "_DhsopdaKU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Adf\u00e6rdsm\u00e6ssige tegn</strong> <em>S\u00f8vnproblemer, mangel p\u00e5 engagement, aggressivitet, irritabilitet, ubeslutsomhed, \u00f8get brug af stimulanser som fx kaffe, cigaretter og alkohol, og \u00f8get frav\u00e6r.</em>",
+        "id": "_UxGHPMX9B",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Ved den langvarige stress er der sj\u00e6ldent gl\u00e6de og nyvunden energi forbundet med at f\u00e5 klaret opgaverne, som vi normalt ser det med den kortvarige stress. I stedet forbliver fokus p\u00e5 alle ting, der endnu ikke er klaret; alle de ting, der ikke er i orden.",
+        "id": "_cFcARz0N1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_uW3TqOwfo",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Antallet af stressede er steget med 20% de sidste 20 \u00e5r.",
+        "id": "_SshIRTVHS",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvad sker der i hjernen, n\u00e5r vi er stressede?",
+        "id": "_FasoYMhAo",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Der findes \u2013 som med de fleste psykiske lidelser \u2013 ikke en fyldestg\u00f8rende videnskabelig forklaring p\u00e5, hvilke \u00e6ndringer der sker i hjernen. I de fleste tilf\u00e6lde med stress, er der tale om en l\u00e6ngerevarende overbelastning af de arbejdstunge omr\u00e5der, s\u00e5som frontallapperne. Hjernens aktivitet i v\u00e5gen tilstand er stort set konstant, uanset om vi arbejder eller dagdr\u00f8mmer. Forskellen er, at n\u00e5r vi arbejder fokuseret i mange timer, s\u00e5 k\u00f8rer vi p\u00e5 nogle f\u00e5 hjernemoduler, der langsomt udtr\u00e6ttes. Det havde v\u00e6ret fint nok, hvis hjernen fik ro efter en lang dag i skolen eller p\u00e5 arbejdet, men i dag er de kedelige og rolige \u00f8jeblikke under beskydning af smartphonens uendelige stimulanser \u2013 netflix, sociale medier, spil m.m.",
+        "id": "_6DV0bChL0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_VOdIfc1mK",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "For 52% er arbejdet den st\u00f8rste kilde til stress.",
+        "id": "_snc7SBtuu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "N\u00e5r vi ikke foretager os noget, s\u00e5 styrer hjernen selv, hvad den bruger energi p\u00e5. I det ene \u00f8jeblik t\u00e6nker vi p\u00e5 den kommende weekend, lektier eller flirten p\u00e5 studiet, og i det n\u00e6ste kan det v\u00e6re en kl\u00f8en p\u00e5 armen, der fanger vores opm\u00e6rksomhed. Pointen er at hjernen f\u00e5r lov at slappe af og styre tempoet.",
+        "id": "_4w8YiIjYe",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201dSmartphonen er den forel\u00f8bige kulmination i en meget hurtig udvikling, hvor udefrakommende faktorer i mange tilf\u00e6lde har taget magten over hjernens opm\u00e6rksomhedsfunktioner. Det er en revolution i gadebilledet. Ved busstoppesteder, i bussen, i toget, s\u00e5 snart muligheden byder sig \u2013 s\u00e5 snart hjernen har en ledig stund, sidder vi med hovedet nede i vores smartphone.\u201d",
+        "id": "_Q5FOb0oFf",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "\u2014 Psykiater Peter Lund Madsen",
+        "id": "_RyRk6hBgw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Konsekvensen bliver, at vores hjerne ikke f\u00e5r de n\u00f8dvendige pauser. S\u00e5 husk at give din hjerne et frirum til at vandre form\u00e5lsl\u00f8st en gang imellem.",
+        "id": "_appmAzH45",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_rrSv1NRUo",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "33% flere kvinder end m\u00e6nd f\u00f8ler sig stressede.",
+        "id": "_RBifhn9et",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Er du i tvivl om du er stresset?",
+        "id": "_67QMtcWDm",
+        "type": "h3"
+    },
+    {
+        "attrs": [],
+        "content": "Der kan som sagt v\u00e6re mange grund til stress, som ogs\u00e5 kan v\u00e6re af social eller kulturel karakter. Det er ikke ualmindeligt, at vi har sv\u00e6rt ved at finde ud af, hvad det er, der har ramt os. Nogle gange er det en langsom ophobning af krav, forventninger og problemer, hvor vi roligt men sikkert bliver k\u00f8rt ud over kanten. Ligesom fr\u00f8en, der bliver kogt levende, fordi den ikke registrerer de sm\u00e5 temperaturstigninger.",
+        "id": "_snlryiHPi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_2zQamceRY",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Hver fjerde teenager oplever stress.",
+        "id": "_2WY0DKGUq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvis du er i tvivl om, om det du m\u00e6rker i kroppen og sindet er stress, s\u00e5 anbefaler vi, at du kontakter Avilius, s\u00e5 finder vi ud af det sammen.",
+        "id": "_S1Kl1vKcH",
+        "type": "paragraph"
+    }
+]

@@ -1,0 +1,85 @@
+Title: Klima- og coronaangst med Selma Montgomery
+
+----
+
+Date: 2021-01-04
+
+----
+
+Card: false
+
+----
+
+Theme: bbd663
+
+----
+
+Author: Emilie Duval Stolle
+
+----
+
+Authorlink:
+
+- team/emilie-stolle
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- podcast-cover.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: 
+
+----
+
+Text: [{"content":{"text":"<p>Velkommen til fjerde episode af Avilius Talks \u2014 en podcast om at have det godt.<\/p>"},"id":"1f85cb2f-4b87-4b28-b583-61ee4f51d1d7","isHidden":false,"type":"text"},{"content":{"text":"<p>Og netop at have det godt kan v\u00e6re en udfordring for tiden. Mette Frederiksen sendte os allesammen p\u00e5 tidlig juleferie i anden runde af lockdown. Og n\u00e5r vi s\u00e5 st\u00e5r her i k\u00f8en til podning, checker seneste pressem\u00f8der og bliver lidt \u00e6ngstelige over smittetallene, truer en lige s\u00e5 stor, men noget mindre medieomtalt krise. Den gode gamle klimakrise er nemlig blevet glemt til fordel for coronakrisen, mener Selma Montgomery.<\/p>"},"id":"f51990c0-381c-45bd-bce3-ac05e2c8ce6c","isHidden":false,"type":"text"},{"content":{"text":"<p>Selma er intersektionel klimaaktivist og koordinator i den danske afdeling af <a href=\"https:\/\/klimastrejke.org\/ \" target=\"_blank\" title=\"Fridays For Future\" rel=\"noopener noreferrer nofollow\">Fridays For Future<\/a>. Vi inviterede hende ind til en samtale om klimaangst vs. virusangst, og hvordan vores generations mange kampe m\u00e5ske har \u00e9n f\u00e6lles l\u00f8sning.<\/p>"},"id":"2e972339-9800-4be6-8077-558211bfe40d","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/5sxwFdzT8LmUzsGz2rqjUt\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"b4553b8f-8cb6-4a83-83ec-3590778894a7","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Avilius Talks: Selma Montgomery
+
+----
+
+Seodescription: Coronakrisen har fået os til at glemme klimakrisen. Det mener den intersektionelle Selma Montogomery, som vi inviterede in til en af vores Talks.
+
+----
+
+Seokeywords: Lockdown, klimakrisa, coronakrise, Avilius
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: https://open.spotify.com/episode/5sxwFdzT8LmUzsGz2rqjUt?si=CSHdVlkbSmqNkARNjNO59w
+
+----
+
+Podcastlink: https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=fPp_3mOWRs6ZeMQhgZeNjA
+
+----
+
+Talkslink: 
+
+----
+
+Content: 
+
+----
+
+Type: news

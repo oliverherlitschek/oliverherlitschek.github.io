@@ -1,0 +1,83 @@
+Title: Hvem er jeg? med Thomas Morton
+
+----
+
+Date: 2020-09-07
+
+----
+
+Card: true
+
+----
+
+Theme: febaa7
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Authorlink:
+
+- team/jonas-schosler
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>\"Who am I? I am many things.\"<\/p>"},"id":"c491cbc6-d440-45cc-ad6b-a83e16b7068a","isHidden":false,"type":"text"},{"content":{"text":"<p>Her kommer tredje episode af Avilius Talks \u2014 en podcast om at have det godt.<\/p>"},"id":"8e858de7-2341-4ec9-916a-8d9b49da96a4","isHidden":false,"type":"text"},{"content":{"text":"<p>Sommeren er forbi, og for mange af os er det blevet tid til at komme tilbage p\u00e5 skoleb\u00e6nken. Netop de her overgange: sommer til efter\u00e5r, fritid til skole, kan rejse nogle sp\u00f8rgsm\u00e5l om, hvem man er, og hvem man gerne VIL v\u00e6re. Er det for eksempel ok at v\u00e6re \u00e9n person derhjemme, og en anden person i l\u00e6segruppen? Og hvordan definerer vi os selv, i en verden der p\u00e5 en gang er mere ensom men ogs\u00e5 mere forbundet end nogensinde f\u00f8r?<\/p>"},"id":"ab5fbea3-89d1-4ea9-9ddf-44a028c904d1","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["jonas-schoesler-avilius-det-meningsfulde-liv.jpg"],"description":"**Er du ogs\u00e5 i tvivl om, hvem du egentlig er?**\nJonas er samtalepartner i Avilius og leder af et gruppeforl\u00f8b, der handler om at finde sine egne m\u00e5l i livet \u2014 s\u00e5 man ikke beh\u00f8ver jage andres id\u00e9 om succes.","link":"https:\/\/avilius.dk\/grupper\/det-meningsfulde-liv","linktext":"Find din egen vej \ud83d\ude80","linkcolor":"brown","linktextcolor":"purple"},"id":"d95cb6f6-30e7-4c3f-a3ce-df19bf69c203","isHidden":false,"type":"cta"},{"content":{"text":"<p>Thomas Morton er lektor i socialpsykologi ved K\u00f8benhavns Universitet og leder researchprojekter om de helt store identitetssp\u00f8rgsm\u00e5l, s\u00e5 det var oplagt at invitere ham hjem til os p\u00e5 Esromgade til en lille snak.<\/p>"},"id":"05219602-5a01-4cce-956e-85ea502af6e3","isHidden":false,"type":"text"},{"content":{"text":"<p>Interviewet foreg\u00e5r p\u00e5 engelsk.<\/p>"},"id":"10a0e614-3e0e-4f18-94cc-74408bd6914f","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/35NdcAhqlgzXQSlnRKS9Ry\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"f464442f-de15-471a-a71b-66ba41c8b589","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Podcast - Hvem er jeg? Med socialpsykolog Thomas Morton
+
+----
+
+Seodescription: Identiteten har kastet mange af samfundets lænker af sig. Men er den nyvundne frihed kun en velsignelse? Hør hvad Thomas Morton mener.
+
+----
+
+Seokeywords: identitetsspørgsmål, ensom, socialpsykologi, overgange
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Category: Blog
+
+----
+
+Link: https://open.spotify.com/episode/35NdcAhqlgzXQSlnRKS9Ry?si=nwDHqz3wQ9O3SJ-1caaQvg
+
+----
+
+Podcastlink: https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=fPp_3mOWRs6ZeMQhgZeNjA
+
+----
+
+Talkslink: 
+
+----
+
+Content: 
+
+----
+
+Type: news

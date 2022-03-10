@@ -1,0 +1,87 @@
+Title: Esther Safir
+
+----
+
+Firstname: Esther
+
+----
+
+Email: esther@avilius.dk
+
+----
+
+Lastbooked: 9
+
+----
+
+Capacity: 1
+
+----
+
+Video:
+
+- esther-safir.mp4
+
+----
+
+Portrait:
+
+- esther-safir-avilius-4.jpg
+
+----
+
+Secondportrait:
+
+- esther-safir-avilius-2.jpg
+
+----
+
+Thirdportrait:
+
+- esther-safir-avilius-3.jpg
+
+----
+
+Experience: Egenomsorg, Bekymringer, Mindreværd, Rastløshed, Relationer, Forventninger
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Jeg føler simpelthen det giver så
+    meget god energi at tale med dig. Jeg
+    fik listet nogle ting op, der gjorde det
+    klarere hvor meget jeg har rykket mig
+    siden dengang, og fik også en god snak
+    med min mor.
+  author: Tidligere klient, 24 år
+
+----
+
+Description:
+
+Jeg interesserer mig meget for, hvordan nutidens kultur stiller os over for en masse "frie" valg, men som også kommer med en række forventninger til, hvad vi skal og bør gøre. Denne dobbelthed skaber et paradoks, som vi må lære at navigere i. Derfor er det vigtigt, at vi finder frem til, hvem vi er og hvad vores egne behov er.
+
+Du vil opleve mig som nærværende og omsorgsfuld, men også ærlig idet jeg håber på at kunne udfordre dig. Jeg går til forløbet med en masse energi, hvor vi sammen udforsker dine udfordringer. Jeg bruger en masse billedlige metaforer, for jeg tror på, at vi husker særligt godt gennem fantasi og billeder.
+
+Jeg leder også gruppeforløbet (link: https://avilius.dk/grupper/kulturclash text: Kulturclash) her i Avilius.
+
+----
+
+Seotitle: Mød Esther ✨
+
+----
+
+Seodescription: Nutidens kultur stiller os over for en masse "frie" valg, men som også kommer med en række forventninger til, hvad vi skal og bør gøre.
+
+----
+
+Seokeywords: energi, kultur, udfordringer, behov
+
+----
+
+Seoimage:
+
+- esther-second-crop.jpg

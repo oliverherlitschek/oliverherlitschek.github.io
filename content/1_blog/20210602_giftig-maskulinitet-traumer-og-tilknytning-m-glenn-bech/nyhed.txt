@@ -1,0 +1,83 @@
+Title: Giftig maskulinitet, traumer og tilknytning med Glenn Bech
+
+----
+
+Date: 2021-06-02
+
+----
+
+Card: true
+
+----
+
+Theme: f0f1b4
+
+----
+
+Author: Eskild Bibow
+
+----
+
+Authorlink:
+
+- team/eskild-bibow
+
+----
+
+Tags: 
+
+----
+
+Cover: 
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Velkommen til syvende episode af Avilius Talks \u2014 en podcast om at have det godt.<\/p>"},"id":"b318ee4d-47cc-4a89-b6ad-9632acfd8856","isHidden":false,"type":"text"},{"content":{"text":"<p>Dansk litteratur er voldsomt vedr\u00f8rende for tiden. Mange nye digtere og forfattere beretter og skriver poesi, der revser vores system og fors\u00f8ger at rykke mod en bedre fremtid \u2014 muligvis en mere omsorgsfuld fremtid.<\/p>"},"id":"60b78079-9157-47b2-9176-e78ed68ad872","isHidden":false,"type":"text"},{"content":{"category":"call","image":[],"description":"**Har du brug for at tale med nogen?**\nI Avilius er vi altid klar p\u00e5 en uforpligtende gratis samtale om det, der trykker.","link":"","linktext":"","linkcolor":"lgreen","linktextcolor":"black"},"id":"b5d984e0-0e3c-4c35-813d-acf6480a133a","isHidden":false,"type":"cta"},{"content":{"text":"<p>I dette afsnit fort\u00e6ller den anmelderroste forfatter Glenn Bech om sin bog 'Farskibet' til <a href=\"https:\/\/avilius.dk\/team\/eskild-bibow\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eskild<\/a>. Vi snakker om, hvordan giftig maskulinitet gennemsyrer vores samfund og h\u00e6nger sammen med traumer. Vi snakker om, hvordan bogen blev til, og ender i kroge som, tilknytning, h\u00e5rde terapeutiske samtaler og humor. Vi snakker om boomergenerationen der er ved \"at smuldre for \u00f8jnene af os\".<\/p>"},"id":"5fafcef8-a554-48e9-84f7-2905f8cac6be","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/6MylWprwx9mk2UTYbonvxs\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"e603724b-9edf-4670-94f2-2f69cfd80b1f","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Avilius Talks - Glenn Bech
+
+----
+
+Seodescription: I hvilket omfang er giftig maskulinitet årsag til traumer i vores samfund? Eskild taler med forfatter Glenn Bech om hans nye bog Farskibet.
+
+----
+
+Seokeywords: maskulinitet, traumer, poesi, litteratur
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Link: https://open.spotify.com/episode/6MylWprwx9mk2UTYbonvxs?si=25135ed1dcc84710
+
+----
+
+Category: Blog
+
+----
+
+Podcastlink: https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=fPp_3mOWRs6ZeMQhgZeNjA
+
+----
+
+Talkslink: 
+
+----
+
+Content: 
+
+----
+
+Type: news

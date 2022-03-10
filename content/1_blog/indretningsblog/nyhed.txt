@@ -1,0 +1,51 @@
+Title: Journal: Indretning af vores nye hjem
+
+----
+
+Date: 2021-01-26
+
+----
+
+Category: Blog
+
+----
+
+Author: Oliver Herlitschek
+
+----
+
+Link: 
+
+----
+
+Cover:
+
+- avilius-indretningsblog-del-1.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: 
+
+----
+
+Text: [{"content":{"level":"h3","text":"27. januar 2021"},"id":"e8d74506-5980-44bc-b823-39c8c6ac4d2a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det er ret specielt at skulle indrette en praksis. Min erfaring fra <a href=\"https:\/\/kotn.com\/\">Kotn<\/a> med at indrette t\u00f8jbutikker er sat lidt p\u00e5 pr\u00f8ve p\u00e5 den gode m\u00e5de. Det nye hus skal rumme en hel anden intimitet og varme, og det er en vildt sp\u00e6ndende opgave.<\/p>"},"id":"dcbb7b5d-6d12-4503-8729-dfbdaf2c6150","isHidden":false,"type":"text"},{"content":{"text":"<p>\u00c9n af mine tanker g\u00e5r ud p\u00e5, hvor permanent indretningen skal v\u00e6re og hvad det g\u00f8r ved opfattelsen af rummene. M\u00f8bler tegnet specifikt til de individuelle lokaler, indbyggede v\u00e6gspots og stikd\u00e5ser i gulvene ville bidrage med noget professionel tyngde, men samtidig er det vigtigt at v\u00e6re fleksible, s\u00e5 vi er forberedte p\u00e5, at huset bliver brugt p\u00e5 forskellige m\u00e5der, i takt med at vi vokser.<\/p>"},"id":"287be09e-f4cb-446a-98c4-48f534046a67","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"26. januar 2021"},"id":"e3fdfbd5-a493-49f8-b1ca-ccf8ee814fa5","isHidden":false,"type":"heading"},{"content":{"text":"<p>Jeg t\u00e6nker meget over, hvilken type rum vi gerne vil skabe. Inspireret af Jun'ichir\u014d Tanizakis <a href=\"https:\/\/www.saxo.com\/dk\/in-praise-of-shadows_junichiro-tanizaki_paperback_9780099283577\">In Praise of Shadows<\/a> overvejer jeg sp\u00f8rgsm\u00e5l som patina (er det godt at ting ser brugte\/hjemlige ud?), lys\/skygge (er et m\u00f8rkere rum mere tryghedsskabende?) og bl\u00f8d- vs. h\u00e5rdhed (er stramme linjer rarere eller kliniske?). Sp\u00e6ndende bog.<\/p>"},"id":"e5d10b2b-3a63-4cfe-88d6-ad8b3d45ab7f","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["in-praise-of-shadows.jpg"],"src":"","alt":"","caption":"\u24b8 <a href=\"https:\/\/www.mattcreynolds.com\/articles\/in-praise-of-shadows-by-junichiro-tanizaki\">Matt C. Reynolds<\/a>","link":"","ratio":"","crop":"false"},"id":"7c7bd749-14bd-4b98-beb1-224ae97a588f","isHidden":false,"type":"image"},{"content":{"level":"h3","text":"24. januar 2021"},"id":"13119853-9d0a-4d6d-a330-ca4310ea1d15","isHidden":false,"type":"heading"},{"content":{"text":"<p>Til indretningsprocessen bruger jeg lidt forskellige greb:<\/p>"},"id":"a7aa9747-03e1-4752-9df6-f05241ba6930","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.are.na\/oliver-herlitschek\/avi-hus-2-0-master\">Are.na<\/a><\/strong><br>Fungerer som en k\u00e6mpe rodekasse \u2013 links, materialer, inspiration mm.<\/p>"},"id":"d88787b3-c8fc-41cb-ab29-c6afd3f0280c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/www.figma.com\/proto\/jOjs1g2uHzQ4T38WzTLyK8\/Untitled?node-id=1%3A2&amp;viewport=72%2C210%2C0.31501567363739014&amp;scaling=scale-down\">Figma<\/a><\/strong><br>Bruges til at lave moodboards og hurtige materiale- eller farveskitser.<\/p>"},"id":"7426c3a5-39ab-4760-b7f0-9e99af3c0927","isHidden":false,"type":"text"},{"content":{"text":"<p><strong><a href=\"https:\/\/airtable.com\/shrdXNakCSawoPwNf\">Airtable<\/a><br><\/strong>Budgettering og organisering. Virkelig godt v\u00e6rkt\u00f8j til at danne overblik.<\/p>"},"id":"7b8ad4eb-41d9-4b75-a008-8aaf29bb2837","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"23. januar 2021"},"id":"81146053-fec2-44e1-9ef9-89d7bd924dd6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Nu er der lidt over en uge til vi flytter ind i vores nye lejem\u00e5l p\u00e5 Vesterbrogade. Det nye hus kommer til at kunne rumme op til fem gange s\u00e5 mange individuelle klienter og bliver det hus, vi forh\u00e5bentlig vokser i de n\u00e6ste mange \u00e5r.<\/p>"},"id":"3fb2b7c1-fa43-4094-b9f5-012f37b0fe47","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg vil bruge denne lille blog som en slags journal over de ting, vi arbejder p\u00e5 og hvad jeg g\u00e5r og t\u00e6nker p\u00e5 i processen.<\/p>"},"id":"a5157162-ad57-407f-945d-5f9a11317dfa","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"ER DER NOGEN?"},"id":"6edbb550-18bb-4ed1-924a-22b5c258682c","isHidden":false,"type":"heading"}]
+
+----
+
+Seotitle: Journal: indretning af vores nye hjem
+
+----
+
+Seodescription: Vi er i fuld færd med at flytte. Hvordan skal vores nye praksis se ud? Det er det helt store spørgsmål. Følg med her, hvor der kommer løbende opdateringer.
+
+----
+
+Seokeywords: møbler, rum, tøjbutikker, intimitet, praksis
+
+----
+
+Seoimage: 

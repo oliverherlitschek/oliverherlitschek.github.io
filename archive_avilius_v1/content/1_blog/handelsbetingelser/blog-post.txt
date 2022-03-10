@@ -1,0 +1,42 @@
+Title: Handelsbetingelser
+
+----
+
+Date: 2019-08-21
+
+----
+
+Author: Avilius-teamet
+
+----
+
+Cover: 
+
+----
+
+References: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Aflysningspolitik",
+        "id": "_CeQnZucGQ",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "N\u00e5r du starter i et individuelt forl\u00f8b hos Avilius accepterer du et aflysningsgebyr p\u00e5 299,- (f\u00f8rste samtale er undtaget), hvis aflysningen finder sted 24 timer inden den planlagte aftale. Du skal alts\u00e5 aflyse din aftale mere end et d\u00f8gn f\u00f8r aftalen finder sted.<br><br>I tilf\u00e6lde af force majeure, som for eksempel ved ulykker el.lign. frafalder aflysningsgebyret.",
+        "id": "_TvDMoBbyp",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Gruppeforl\u00f8b<br></strong>Alle gruppeforl\u00f8b er underlagt en bindingsperiode p\u00e5 otte uger, uanset betalingsmodel.",
+        "id": "_2vbtu7iza",
+        "type": "paragraph"
+    }
+]

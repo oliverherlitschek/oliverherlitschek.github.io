@@ -1,0 +1,84 @@
+Title: Rebecca Bottos
+
+----
+
+Firstname: Rebecca
+
+----
+
+Email: rebecca@avilius.dk
+
+----
+
+Lastbooked: 3
+
+----
+
+Capacity: 0
+
+----
+
+Video:
+
+- rebecca-bottos.mp4
+
+----
+
+Portrait:
+
+- rebecca-bottos-avilius-4.jpg
+
+----
+
+Secondportrait:
+
+- rebecca-bottos-avilius-1.jpg
+
+----
+
+Thirdportrait:
+
+- rebecca-bottos-avilius-3.jpg
+
+----
+
+Experience: 
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Jeg var meget tilpas i mit forløb og
+    følte at vi arbejdede med mine ting på
+    en måde, jeg havde brug for. Tusind
+    tak! Det har været et lærerigt og
+    virkelig godt forløb.
+  author: Tidligere klient
+
+----
+
+Description:
+
+Jeg interesserer mig særligt for, hvad det er for nogle ting, der påvirker vores selvopfattelse og hvilken betydning vores selvopfattelse og selvværd har for vores trivsel og velvære.
+
+Jeg tror, at mange har svært ved at finde ro i, at man er god nok, bare i kraft af den man er og derfor går og taler til sig selv på en måde, som man absolut ikke ville tale til en god ven. Samtidig tror jeg, at mange oplever et pres i forbindelse med, at man *skal* vide, hvem man selv er og at mange føler et konstant tilstedeværende ansvar for at udvikle sig selv i den ”rigtige” retning. Det kan være overvældende, frustrerende og svært at være i.
+
+Jeg vil gøre mit allerbedste for at skabe et godt og trygt rum, hvor du kan føle dig tilpas. Jeg vil lægge stor vægt på at skabe et samarbejde, hvor vi sammen finder ud af, hvordan jeg bedst muligt kan hjælpe dig.
+
+----
+
+Seotitle: Mød Rebecca - en af vores nye terapeuter
+
+----
+
+Seodescription: Jeg vil lægge stor vægt på at skabe et samarbejde, hvor vi sammen finder ud af, hvordan jeg bedst muligt kan hjælpe dig.
+
+----
+
+Seokeywords: selvopfattelse, selvværd, trivsel, velvære
+
+----
+
+Seoimage: 

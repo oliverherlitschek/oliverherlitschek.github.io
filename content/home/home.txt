@@ -1,0 +1,114 @@
+Title: Samtaleterapi til unge
+
+----
+
+Seotitle: Avilius — samtaleterapi til unge
+
+----
+
+Seodescription: SU-venlige samtaler med en kommende psykolog om din mentale trivsel — både i grupper og helt for dig selv. Første samtale er altid gratis.
+
+----
+
+Seokeywords: terapi, psykolog københavn, ung terapi, skoletræt, præstationsangst, studiestress, terapi københavn
+
+----
+
+Seoimage:
+
+- sedsel-main-portrait.jpg
+
+----
+
+Caption: Ragnhild og Cecilie, to af Avilius' dygtige terapeuter
+
+----
+
+Introduction: I Avilius fokuserer vi på at opretholde det sunde liv ved at udforske de muligheder og ressourcer, som kan afhjælpe dine udfordringer inden de bliver for store.
+
+----
+
+Cover: - ragnhild-cecilie.jpg
+
+----
+
+Quote:
+
+- 
+  text: "I ain't living in the dark no more; it's not a promise, I'm just gonna call it."
+  author: Bon Iver
+  work: Beth/Rest
+- 
+  text: >
+    Mørket trykker ind mod ruden, hører
+    vinden suser derude. Tror at jeg har det
+    som stenene, bølgerne bruser imod.
+  author: Hans Philip
+  work: Saa Blaa
+- 
+  text: >
+    Den, der ønsker at leve livet om, har
+    overhovedet ikke levet livet.
+  author: Karen Blixen
+  work: "1932"
+- 
+  text: >
+    Lad os være nogen lige nu, ikke vente
+    på nogen, men faktisk være nogen.
+  author: The Minds of 99
+  work: Stjerner På Himlen
+- 
+  text: Not all who wander are lost.
+  author: J.R.R. Tolkien
+  work: All that is gold does not glitter
+- 
+  text: "There is a crack in everything. That's how the light gets in."
+  author: Leonard Cohen
+  work: Anthem
+- 
+  text: >
+    Siden vi udgav os for at være i
+    balance, siden da har mit hjerte ikke
+    haft en chance
+  author: Fraads
+  work: ADHD
+- 
+  text: >
+    Aldrig sælg dig selv – men vid hvad
+    du er værd
+  author: Artigeardit
+  work: imorgen:igår
+
+----
+
+Text: I Avilius har vi en mission om et opgør med tabuet omkring mental mistrivsel. Den dagsorden har taget store skridt i 2019 – blandt andet med hjælp fra kendisser, der i stigende grad taler åbent om sine udfordringer og arbejdet med sig selv.
+
+----
+
+Link: https://www.facebook.com/aviliusgroup/posts/157856302222142
+
+----
+
+Image: - new-years-avilius.jpg
+
+----
+
+Url: https://www.facebook.com/aviliusgroup/photos/a.122612585746514/129893888351717/?type=3&theater
+
+----
+
+News:
+
+Der er nu gået en måned siden, at vi gik i luften med Avilius. Det har mildest talt været en overvældende start.
+
+I dag har vi mere end 10 forløb i gang!
+
+Det skyldes blandt andet alle jer, som har været med til at like og dele projektet. Det hjælper!
+
+----
+
+Looptext: Her
+
+----
+
+Loop: - therapists

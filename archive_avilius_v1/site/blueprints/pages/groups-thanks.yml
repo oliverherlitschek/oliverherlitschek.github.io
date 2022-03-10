@@ -1,0 +1,13 @@
+title: Groups Thanks
+icon: 👨‍👨‍👧‍👦
+
+status:
+  unlisted: true
+
+fields:
+  description:
+    label: Description
+    type: textarea
+  fact:
+    label: Vidste du?
+    type: text

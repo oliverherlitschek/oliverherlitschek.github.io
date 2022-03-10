@@ -1,0 +1,235 @@
+Title: Er du også pisse træt af præstationskulturen? Giv dig selv et 12-tal!
+
+----
+
+Date: 2020-02-10
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Cover:
+
+- avilius-12-tal.gif
+
+----
+
+References:
+
+- 
+  name: 'The Art of Possibility, Benjamin Zander & Rosamund Zander'
+  url: >
+    https://www.saxo.com/dk/the-art-of-possibility_benjamin-zander_paperback_9780142001103
+- 
+  name: Ståsteder, Svend Brinkmann
+  url: >
+    https://www.saxo.com/dk/staasteder_svend-brinkmann_haeftet_9788702192223
+- 
+  name: 'Antifragile, Nicholas Nassim Taleb '
+  url: >
+    https://www.saxo.com/dk/antifragile_paperback_9780812979688
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<code>\ud83d\udd12Kun tilg\u00e6ngelig via link</code>",
+        "id": "_nb1jfj18u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2190 Fortsat fra <a href=\"https://avilius.dk/blog/giv-dig-selv-et-12-tal\">Del 1</a>",
+        "id": "_x5sf9qez5",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "3. Find de v\u00e6rdier, der g\u00f8r dig uovervindelig",
+        "id": "_s001c904y",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Vi kan ofte l\u00e6se os til, at sociale medier, pr\u00e6stationskultur og karakterr\u00e6s s\u00e6tter unges selvv\u00e6rd under pres. Det er uden tvivl nogle strukturelle rammer, der kan g\u00f8re det sv\u00e6rt at v\u00e6re ung, men sociale medier er ikke i sig selv skadende; det er konkurrence eller forventninger heller ikke.",
+        "id": "_ehaocs5hj",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det bliver f\u00f8rst farligt, n\u00e5r vi begynder at bruge dem som m\u00e5lestok for, hvor meget vi er v\u00e6rd. Hvis vi binder vores succes og identitet op p\u00e5 eksterne kriterier, som gode karakterer, sk\u00f8nhed eller karriere, s\u00e5 skal vi hele tiden leve med angsten for at tabe det hele p\u00e5 gulvet. Hvis vores selvv\u00e6rd og psykiske velv\u00e6re st\u00e5r og falder med, hvor dygtige og smukke vi er i sammenligning med andre, s\u00e5 er der intet at sige til, at vi ikke er lykkeligere. Vi tror, at vi \u2013 i en tid, hvor vi kan besk\u00e6re alt det grimme fra, alle nederlagene; en tid, hvor vi s\u00e5 let kan skjule ensomheden og f\u00e5 livet til at ligne \u00e9n lang fest \u2013 har opstillet nogle uopn\u00e5elige og usunde betingelser for det at v\u00e6re menneske.",
+        "id": "_d1nsg7szl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "guid": "/pages/blog+giv-dig-selv-et-12-tal-del-2/files/avilius-kim-kardashian-vardier.jpg",
+            "src": "https://avilius.dk/media/pages/blog/giv-dig-selv-et-12-tal-del-2/3139178545-1582116160/avilius-kim-kardashian-vardier.jpg",
+            "id": "blog/giv-dig-selv-et-12-tal-del-2/avilius-kim-kardashian-vardier.jpg",
+            "ratio": 1.4360086767895878789857988522271625697612762451171875,
+            "caption": "<strong>Den sociale m\u00e5lestok</strong> Vi skal have nogle andre pr\u00e6misser for det gode liv, der er mere b\u00e6redygtige end sk\u00f8nhed, karriere og gode karakterer \u267b\ufe0f"
+        },
+        "content": "",
+        "id": "_tkid20s2c",
+        "type": "image"
+    },
+    {
+        "attrs": [],
+        "content": "Vi har accepteret en r\u00e6kke pr\u00e6misser om, at vi altid skal v\u00e6re i fremdrift, v\u00e6re i form, rejse rundt, v\u00e6re sammen med nogen, se smart ud, mv. Vi ved godt, at solen ikke altid skinner p\u00e5 os, men alligevel bilder vi os selv ind, at det ikke g\u00e6lder for andre.",
+        "id": "_yltvOsjvg",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "En v\u00e6rdi kunne for eksempel v\u00e6re at v\u00e6re en omsorgsfuld og tillidsfuld person. Eller at v\u00e6re en loyal ven eller k\u00e6reste. Det kan ogs\u00e5 v\u00e6re en v\u00e6rdi om, at fejl er n\u00f8dvendige trin p\u00e5 l\u00e6ringskurven og en pr\u00e6mis for succes. Det er egenskaber, der ikke er afh\u00e6ngige af din \u00f8vrige succes. Derimod er det egenskaber, der som regel betinger et k\u00e6rlighedsfuldt liv med mennesker som holder af dig.",
+        "id": "_2ldr2nwjk",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi har gjort det sv\u00e6rere for os selv og for hinanden at f\u00f8le sig tilstr\u00e6kkelig. At f\u00f8le man er et sted i livet, der er OK. At vi ikke halter bagefter alle andre. At vi sgu egentlig ser helt OK ud. Vi skal genvinde den autenticitet og \u00e6rlighed, som vi har givet i bytte for glansbilleder om evige sejre, aktive livsstile og vidunderlige ferier.",
+        "id": "_rkj0bbxx0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi skal have nogle v\u00e6rdier for det at v\u00e6re menneske, der g\u00f8r os uovervindelige. Uovervindelig i den forstand, at de ikke er afh\u00e6ngig af det der sker i <em>den m\u00e5lbare verden</em> \u2013 alts\u00e5 pr\u00e6stationssamfundet.",
+        "id": "_ykeHaVuFi",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "En v\u00e6rdi kunne v\u00e6re, at vi beslutter os for, at vi altid skal afslutte en samtale med ord, som ville kunne g\u00e6lde som de sidste, vi sagde til den person vi snakker med. T\u00e6nk engang, hvis alle gjorde det? Ville vi g\u00e5 fra nogen med ordene \u201ddin fucking idiot\u201d, hvis vi vidste, at det blev de sidste ord personen ville huske? M\u00e5ske ham der ufrivilligt tager dig p\u00e5 r\u00f8ven, men hvad med folk, som du holder af? Forestil dig, hvad s\u00e5dan en v\u00e6rdi ville skabe af muligheder i dine relationer.",
+        "id": "_FmhKCBtqD",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det kan ogs\u00e5 v\u00e6re noget langt mere simpelt, som at du skal huske at v\u00e6re opm\u00e6rksom og nysgerrig, n\u00e5r du lytter til nogen, ligesom du gerne vil have de er det, n\u00e5r de lytter til dig \ud83d\udcad",
+        "id": "_4hr0Uhmde",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg kender ikke de v\u00e6rdier, som vil g\u00f8re dig uovervindelig. Dem skal du selv skabe.",
+        "id": "_3xQ06bRwI",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "T\u00e6nk hvis ingen af dine fem vigtigste v\u00e6rdier i livet kunne trues af konkurrence, en karakter eller en bed\u00f8mmelse? Sikken frihed. Hvorfor ikke starte i dag?",
+        "id": "_o1fs4fg87",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Dine fem v\u00e6rdier, der g\u00f8r dig uovervindelig er:<br>1. <br>2. <br>3. <br>4. <br>5.",
+        "id": "_GJPA8E1P8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "4. Regel #6",
+        "id": "_nr8bpl5zv",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "I <a href=\"https://www.saxo.com/dk/the-art-of-possibility_benjamin-zander_paperback_9780142001103\">The Art of Possibility</a> skriver Rosamund og Benjamin Zander:",
+        "id": "_ow5c7z01a",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<em>Two prime ministers are sitting in a room discussing affairs of state. Suddenly a man bursts in, apoplectic with fury, shouting and stamping and banging his fist on the desk. The resident prime minister admonishes him:<br>\u201cPeter\u201d, he says, \u201ckindly remember Rule Number 6,\u201d whereupon Peter is instantly restored to complete calm, apologizes, and withdraws.<br>The politicians return to their conversation, only to be interrupted yet again twenty minutes later by a hysterical woman gesticulating wildly, her hair flying. Again the intruder is greeted with the words:<br>\u201cMarie, please remember Rule Number 6.\u201d Complete calm descends once more, and she too withdraws with a bow and an apology. When the scene is repeated for a third time, the visiting prime minister addresses his colleague:<br>\u201cMy dear friend, I\u2019ve seen many things in my life, but never anything remarkable as this. Would you be willing to share with me the secret of Rule Number 6?\u201d<br>\u201cVery simple,\u201d replies the resident prime minister, \u201cRule Number 6 is \u2018Don\u2019t take yourself so goddamn seriously\u2019.\u201d<br>\u201cAh,\u201d says the visitor, that is a fine rule.\u201d After a moment of pondering, he inquires, \u201cAnd what, may I ask, are the other rules?\u201d<br>\u201cThere aren\u2019t any.\u201d</em>",
+        "id": "_eeficsa8t",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_6yftxrahu",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Pr\u00e6stationskulturen er s\u00e5 skide alvorlig</strong><br>Du skal ligne en million p\u00e5 de sociale medier. Du skal f\u00e5 gode karakterer, s\u00e5 du kan komme ind p\u00e5 dr\u00f8mmestudiet. Du skal klare det godt p\u00e5 arbejdet, s\u00e5 du kan blive forfremmet. Du skal have en k\u00e6reste, der er l\u00e6kker og sjov. Du skal rejse hele verden rundt, s\u00e5 du kan fremst\u00e5 som den globale borger.",
+        "id": "_jq26fgxym",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Stop. Der er simpelthen ingen grund til at v\u00e6re s\u00e5 selvh\u00f8jtidelig. \ud83e\udd37\u200d\u2642\ufe0f",
+        "id": "_v9qupOTy3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "S\u00e5 vigtig er du ikke. S\u00e5 vigtigt er dit arbejde ikke. S\u00e5 vigtigt er dit studie ikke. S\u00e5 vigtige er dine feriebilleder ikke. S\u00e5 l\u00e6kker er din k\u00e6reste ikke. S\u00e5 vigtig er din nye titel som Manager of Business Development and Innovation ikke. S\u00e5 vigtigt er dit liv ikke. Du kommer m\u00e5ske ikke til at betyde noget for verden, men du kommer til at betyde alverden for nogen. Hvil i det.",
+        "id": "_mg2iyd634",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Provokerer det dig? Hvorfor?",
+        "id": "_RFEJF4AL1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Husk regel #6: Du skal ikke tage dig selv s\u00e5 fucking seri\u00f8st.",
+        "id": "_TMC6CtfJU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det kan g\u00f8re dit liv hundrede gange sjovere fra den ene dag til den anden.",
+        "id": "_DgHJEGSfP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "5. Hvem er Avilius?",
+        "id": "_nqhnpn312",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Jeg lovede i starten at vende tilbage til din undren over, hvem fanden Avilius er. Det g\u00f8r vi nu.",
+        "id": "_7svrfa7b4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Avilius best\u00e5r prim\u00e6rt af psykologistuderende, som er dybt interesserede i at hj\u00e6lpe andre unge med at f\u00e5 et ungdomsliv, der er sjovere og sundere. Det g\u00f8r vi dels ved at skrive artikler som denne, der forh\u00e5bentligt kan v\u00e6re med til at inspirere til et rigere liv.",
+        "id": "_hodt7kmav",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi g\u00f8r det ogs\u00e5 ved at tilbyde individuelle forl\u00f8b og gruppeforl\u00f8b, hvor der er mulighed for at f\u00e5 et nyt perspektiv p\u00e5 det, som der er vigtigt for dig. Det hele foreg\u00e5r til SU-venlige priser og i \u00f8jenh\u00f8jde.",
+        "id": "_kporrhcr0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Du \u00f8nskes alt det bedste i livet \u2014 alt det som der er uendeligt af.",
+        "id": "_u0fzh2xkh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "De bedste hilsner,<br>Jonas fra Avilius",
+        "id": "_3hclvmlex",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Image: - aavilius-mistrivsel-nej-tak.png

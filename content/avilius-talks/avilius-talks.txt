@@ -1,0 +1,274 @@
+Title: Avilius Talks
+
+----
+
+Events:
+
+- 
+  tba: ""
+  date: 2020-05-01
+  headline: Imran Rashid — Gode digitale vaner
+  description: |
+    Her under corona-krisen sidder vi allesammen, inklusiv os her i Avilius, rigtigt meget derhjemme og scroller gennem diverse feeds mens hjernen slår fra.
+    
+    Vi ringer til læge og forfatter Imran Rashid for at høre, hvad der sker, når vi scroller derudaf, og for at få et par gode råd til, hvordan vi kan identificere vores usunde digitale vaner – og ændre dem til vores fordel.
+    
+    Highlights:
+    (23:30) Hvordan ændrer man en vane?
+    (28:20) Den kropslige intelligens
+    (43:30) Tre gode råd
+  link: >
+    https://open.spotify.com/episode/24d6CzdSoafWSE3DsZ3M2t?si=HnQO7XXjSF6ybk2lx4kb3Q
+  buttontext: 'false'
+  status: 'false'
+- 
+  tba: ""
+  date: 2020-06-24
+  headline: Dennis Nørmark — Pseudoarbejde
+  description: |
+    Kom og nyd et glas mousserende vin på toppen af Gammel Kongevej, når vi i en samtale med antropolog og forfatter, Dennis Nørmark, skal snakke om det, som vi alle har på fornemmelsen, nemlig at det moderne arbejdsliv er fyldt med meningsløst og ligegyldigt arbejde, der camouflerer sig i fine titler, storladent sprogbrug og djøfisering.
+    
+    I sin bog (link: https://www.pseudoarbejde.dk/ text: Pseudoarbejde) beskriver Dennis Nørmark, hvordan vi på mange måder sidder fast i industrialiseringens logikker som fx den påståede sammenhæng mellem tid og produktivitet, hvilket fastholder utroligt mange mennesker i et arbejde, der kan løses på halvdelen af den tid, vi bruger på det, eller som der i det hele taget ikke er behov for.
+  link: >
+    https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=A5MyxUFrQeeQiTa3BNVJbA
+  buttontext: 'false'
+  status: 'true'
+  button-text: 'false'
+  link-text: 🎙 Lyt til podcast
+  color: lgreen
+- 
+  tba: ""
+  date: 2020-08-26
+  headline: Thomas Morton — Hvem er jeg?
+  description: |
+    Vær med os, når vi fordyber os i en samtale om det flygtige fænomen 'identitet' med lektor i socialpsykologi, Thomas Morton, fra Københavns Universitet.
+    Identitet er noget, vi alle intuitivt ved, hvad er, men som vi næppe er i stand til at forklare fyldestgørende. I betragtningen af de mange definitioner og forståelser af identitet inden for psykologisk forskning er det heller ikke underligt, at det efterlader de fleste af os rådvilde.
+    
+    Ikke desto mindre antages det generelt, at en stabil, sammenhængende og stærk identitetsfølelse er afgørende for psykologisk velvære. På denne aften vil vi forsøge at blive klogere på, hvad identitet er, men endnu vigtigere, skal vi diskutere udfordringerne ved identitetsarbejde i et postmoderne, stærkt fragmenteret og socialt komplekst samfund - og hvorfor det kan være en af årsagerne til en stadigt mere ulykkelig ungdom.
+  link: >
+    https://open.spotify.com/episode/35NdcAhqlgzXQSlnRKS9Ry?si=YIvfGJr7SuWrCBI2VGn1eg
+  buttontext: 'false'
+  status: 'true'
+- 
+  tba: ""
+  date: 2021-02-12
+  headline: URO — Gaden, musikken og mobilen
+  description: |
+    I dette afsnit har vi besøg af Jeppe Kronback, der også er kendt under navnet URO. Udover at være artist, er Jeppe pædagog i Københavns Kommune, hvor han arbejder på gadeplan med unge.
+    Frederik Gade Frandsen er ven af Avilius-huset og læser til daglig europæisk etnologi - et studie som han forsøger at kombinere med en stor interesse for musik.
+    I samtale med Jeppe udforsker Frederik hvordan, at musik kan bruges til at sætte ord på svære følelser, i en verden hvor alting går stærkt, samt hvordan kan den bruges som et middel til at opbygge relationer og styrke sociale sammenhænge. Jeppe fortæller hvordan han bruger musikken i sit arbejde med unge mennesker, herunder om hvordan TikTok og mobiltelefoner, i hans optik, er vigtige elementer, som kan bruges til at opbygge fællesskaber. Lyt med på en spændende samtale, hvor URO fortæller ærligt og åbent om hans egen musik, samt hans syn på det at være ung i 2021.
+  link: >
+    https://open.spotify.com/episode/4eUx6Z1pqt85vKVbSQIcZD?si=vCT-Uqf2QVe6_MrtbehFrw
+  buttontext: 'false'
+  status: 'false'
+- 
+  tba: ""
+  date: 2021-01-04
+  headline: 'Selma Montgomery — Klima- og coronaangst'
+  description: |
+    Velkommen til fjerde episode af Avilius Talks — en podcast om at have det godt.
+    Og netop at have det godt kan være en udfordring for tiden. Mette Frederiksen sendte os allesammen på tidlig juleferie i anden runde af lockdown. Og når vi så står her i køen til podning, checker seneste pressemøder og bliver lidt ængstelige over smittetallene, truer en lige så stor, men noget mindre medieomtalt krise. Den gode gamle klimakrise er nemlig blevet glemt til fordel for coronakrisen, mener Selma Montgomery.
+    Selma er intersektionel klimaaktivist og koordinator i den danske afdeling af (link: https://klimastrejke.org/ text: Fridays For Future). Vi inviterede hende ind til en samtale om klimaangst vs. virusangst, og hvordan vores generations mange kampe måske har én fælles løsning.
+  link: >
+    https://open.spotify.com/episode/5sxwFdzT8LmUzsGz2rqjUt?si=CSHdVlkbSmqNkARNjNO59w
+  buttontext: 'false'
+  status: 'false'
+- 
+  tba: ""
+  date: 2021-05-03
+  headline: >
+    Gry Stokkendahl Dalgas — Sårbarhed,
+    styrke, identitet og det kønnede
+  description: |
+    Velkommen til sjette episode af Avilius Talks — en podcast om at have det godt.
+    Dansk litteratur er sprudlende og voldsomt vedkommende for tiden. Mange nye digtere og forfattere beretter og skriver poesi, der revser vores system og forsøger muligvis at rykke mod en bedre fremtid. Måske en mere omsorgsfuld og åben fremtid – kan man håbe. Kunst er en vigtig del af os menneskers måde at forstå os selv på, sætte ord på vores smerte, drømme og fantasier.
+    I dag snakker (link: https://avilius.dk/team/eskild-bibow text: Eskild) med Gry Stokkendahl Dalgas, der med en prisvindende samling af digte, optegnelser og breve tegner et transkønnet perspektiv.
+  link: >
+    https://open.spotify.com/episode/6up1GLkLgPuyRPD4B2e6i5?si=761aa4c1eca74455
+  buttontext: 'false'
+  status: 'false'
+- 
+  tba: ""
+  date: 2021-06-03
+  headline: >
+    Glenn Bech — Giftig maskulinitet,
+    traumer og tilknytning
+  description: |
+    Velkommen til syvende episode af Avilius Talks — en podcast om at have det godt.
+    
+    I dette afsnit fortæller den anmelderroste forfatter Glenn Bech om sin bog "Farskibet" til (link: https://avilius.dk/team/eskild-bibow text: Eskild). Vi snakker om, hvordan giftig maskulinitet gennemsyrer vores samfund og hænger sammen med traumer. Vi snakker om, hvordan bogen blev til, og ender i kroge som, tilknytning, hårde terapeutiske samtaler og humor. Vi snakker om boomergenerationen der er ved "at smuldre for øjnene af os".
+  link: >
+    https://open.spotify.com/episode/6MylWprwx9mk2UTYbonvxs?si=ivZZrp-3RcCM2HRMgwFRmw
+  buttontext: 'false'
+  status: 'false'
+- 
+  tba: ""
+  date: 2021-06-16
+  headline: >
+    Papa Erotic — Konflikten og
+    kærligheden
+  description: |
+    Kom og oplev Frederik/Papa Erotic fra FRAADS snakke om sin musik og sine tekster til 7. udgave af Avilius Talks. Vi fokuserer særligt på sangene fra FRAADS' fuldlængdealbum fra 2020 'FRaaaDS'.
+    
+    Samtalen kommer især til at handle om konflikt i kærlighedsforhold — ikke bare som et acceptabelt onde, men som en nødvendighed for kærligheden i sig selv. Vi snakker om, hvordan teksterne på 'FRaaaDS' undersøger dele af kærligheden som distance og nærhed, temperamenter, lyst og transformationen af sig selv og den anden gennem forholdet. Vi snakker om, hvordan konflikter og svære snakke kan være udviklende i et forhold, med indspark fra ny psykologisk forskning og psykologisk teori.
+  link: >
+    https://billetto.dk/e/avilius-talks-med-papa-erotic-fra-fraads-billetter-539604
+  buttontext: 'true'
+  status: 'true'
+- 
+  tba: ""
+  date: 2021-09-01
+  headline: >
+    Mads Ananda Lodahl — Konflikten og
+    kærligheden
+  description: >
+    Kom og oplev forfatter Mads Ananda
+    Lodahl i en samtale om romandebutten
+    Sauna.
+  link: >
+    https://open.spotify.com/show/1XIBT1EZRPdObDx3bQmnvZ?si=0028d235925b4883
+  buttontext: 'false'
+  status: 'true'
+- 
+  tba: ""
+  date: 2021-12-18
+  headline: >
+    Sebastian Nathan — En skrøbelig
+    bevidsthed og sårbare samtaler
+  description: |
+    (link: https://avilius.dk/team/eskild-bibow text: Eskild) taler med Sebastian Nathan om hans anmelderroste digtsamling og debut ”Honey Moon”.
+    
+    En digtsamling der kredser om et break up. Den følger et jeg, der render rundt i København, men også i London. Det her jeg bærer rundt på både tristhed, taknemmelighed og forvirring ift. break up'et. Jeg'et bærer på skrøbeligheder og ømheder for sig selv og for omverdenen, der flyder ind og fylder for jeg'et.
+    
+    Ved at forblive i en form for let melankolsk ro, arbejder bogen med at skabe et sprog for skrøbelighed, ømhed og sorg i en grad. Vi snakker om at skabe rolige rum i teksterne, der måske kan være terapeutiske i sig selv. Det kan være svært at finde eller skabe rum de her helende behagelige rum for at være i sine følelser. Et forsøg på at lave et pusterum fra kapitalistisk fremdrift, som man kan være i selv. Vi snakker om at være alene på grænsen mellem forbundethed med omverdenen og ensomhed.
+    
+    Vi snakker om, hvordan et brud skaber forandring og pause, hvordan man kan opleve en åbenhed for verden og for sine egne følelser — på godt og ondt. Måske ændrer det én selv at være i en følelse, selvom det er den samme følelse igen og igen?
+  link: >
+    https://open.spotify.com/show/1XIBT1EZRPdObDx3bQmnvZ?si=0028d235925b4883
+  buttontext: 'false'
+  status: 'true'
+
+----
+
+Seotitle: Avilius Talks - en podcast og interviewserie.
+
+----
+
+Seodescription: En podcast- og interviewserie om at have det godt. Hver måned inviterer vi gæster til en spændende samtale med en ekspert på mental sundhed.
+
+----
+
+Seokeywords: selvudvikling, mental sundhed, psykologhjælp, podcast, interview
+
+----
+
+Seoimage:
+
+- avilius-talks-hero.jpg
+
+----
+
+Seotags: interview, podcast
+
+----
+
+Seometa: En række interviews og podcasts om at have det godt — produceret af Avilius.
+
+----
+
+Shareimage: 
+
+----
+
+Caption: Ragnhild og Cecilie, to af Avilius' dygtige terapeuter
+
+----
+
+Introduction: I Avilius fokuserer vi på at opretholde det sunde liv ved at udforske de muligheder og ressourcer, som kan afhjælpe dine udfordringer inden de bliver for store.
+
+----
+
+Cover: - ragnhild-cecilie.jpg
+
+----
+
+Quote:
+
+- 
+  text: "I ain't living in the dark no more; it's not a promise, I'm just gonna call it."
+  author: Bon Iver
+  work: Beth/Rest
+- 
+  text: >
+    Mørket trykker ind mod ruden, hører
+    vinden suser derude. Tror at jeg har det
+    som stenene, bølgerne bruser imod.
+  author: Hans Philip
+  work: Saa Blaa
+- 
+  text: >
+    Den, der ønsker at leve livet om, har
+    overhovedet ikke levet livet.
+  author: Karen Blixen
+  work: "1932"
+- 
+  text: >
+    Lad os være nogen lige nu, ikke vente
+    på nogen, men faktisk være nogen.
+  author: The Minds of 99
+  work: Stjerner På Himlen
+- 
+  text: Not all who wander are lost.
+  author: J.R.R. Tolkien
+  work: All that is gold does not glitter
+- 
+  text: "There is a crack in everything. That's how the light gets in."
+  author: Leonard Cohen
+  work: Anthem
+- 
+  text: >
+    Siden vi udgav os for at være i
+    balance, siden da har mit hjerte ikke
+    haft en chance
+  author: Fraads
+  work: ADHD
+- 
+  text: >
+    Aldrig sælg dig selv – men vid hvad
+    du er værd
+  author: Artigeardit
+  work: imorgen:igår
+
+----
+
+Text: I Avilius har vi en mission om et opgør med tabuet omkring mental mistrivsel. Den dagsorden har taget store skridt i 2019 – blandt andet med hjælp fra kendisser, der i stigende grad taler åbent om sine udfordringer og arbejdet med sig selv.
+
+----
+
+Link: https://www.facebook.com/aviliusgroup/posts/157856302222142
+
+----
+
+Image: - new-years-avilius.jpg
+
+----
+
+Url: https://www.facebook.com/aviliusgroup/photos/a.122612585746514/129893888351717/?type=3&theater
+
+----
+
+News:
+
+Der er nu gået en måned siden, at vi gik i luften med Avilius. Det har mildest talt været en overvældende start.
+
+I dag har vi mere end 10 forløb i gang!
+
+Det skyldes blandt andet alle jer, som har været med til at like og dele projektet. Det hjælper!
+
+----
+
+Looptext: Her
+
+----
+
+Loop: - therapists

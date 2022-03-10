@@ -1,0 +1,87 @@
+Title: Emil Andresen
+
+----
+
+Firstname: Emil
+
+----
+
+Email: emil@avilius.dk
+
+----
+
+Lastbooked: 8
+
+----
+
+Capacity: 2
+
+----
+
+Video:
+
+- emil.mp4
+
+----
+
+Portrait:
+
+- emil-andresen-avilius-3.jpg
+
+----
+
+Secondportrait:
+
+- emil-andresen-avilius-1.jpg
+
+----
+
+Thirdportrait:
+
+- emil-andresen-avilius-2.jpg
+
+----
+
+Experience: Overtænkning, Tankemylder, Angsttanker, Bekymringer, Relationer, Identitet, Tankemønstre, Selvværd, Motivation
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Jeg havde en meget positiv oplevelse med
+    Emil. Han er god til at opfange, hvad
+    der er vigtigt at arbejde med – og god
+    til at udfordre det.
+  author: Tidligere klient, 27
+- 
+  quote: >
+    Jeg var super glad for mit forløb i
+    Avilius. Jeg kunne godt have brugt lidt
+    mere styring, så jeg ikke ikke kom til
+    at snakke om alle mulige småting! :)
+  author: Tidligere klient, 22
+
+----
+
+Description:
+
+Følelser, tanker og forventninger kan være overvældende oplevelser, der til tider kan være svære at håndtere og navigere i. Følelser af utilstrækkelighed, usikkerhed og tvivl om, hvem man egentlig er og hvem man skal blive, kan være svære at bære rundt på alene. Er jeg en god nok studerende, en god nok ven eller kæreste – hvem er jeg overhovedet? Disse spørgsmål og problematikker kan vi, i samarbejde, forsøge at løse, så du kan indfri dig selv og de mål som netop du ønsker at opnå.
+For mig er det altbetydende at skabe en tryghedsfuld, forstående og ikke-dømmende relation, da jeg mener, at dette er fundamentet for positiv udvikling og udforskning af selvet. Heri, kan jeg tilbyde en empatisk, udforskende og forstående tilgang, hvor du anses som eksperten i dit eget liv.
+
+----
+
+Seotitle: Mød Emil - en af vores nye terapeuter
+
+----
+
+Seodescription: For mig er det altbetydende at skabe en tryghedsfuld, forstående og ikke-dømmende relation
+
+----
+
+Seokeywords: usikkerhed, utilstrækkelighed, empatisk, udfordrende
+
+----
+
+Seoimage: 

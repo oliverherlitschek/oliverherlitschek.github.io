@@ -1,0 +1,69 @@
+Title: Ensomhed er menneskets standardindstilling
+
+----
+
+Date: 2021-01-25
+
+----
+
+Card: false
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Markus Jacobsen
+
+----
+
+Authorlink:
+
+- hvorfor/markus-jacobsen
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- avilius-ensomhed-ko.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Det kan v\u00e6re at du, ligesom mange andre, har k\u00e6mpet mere med ensomhed i \u00e5r end normalt. Coronakrisen har betydet, at vi ikke har kunne ses med de mennesker, vi holder af, s\u00e5 ofte som vi ellers ville. Heldigvis lever vi i en verden, hvor der skal rigtig meget til f\u00f8r, at det ikke er muligt at komme i kontakt med nogen. Selvom det er klart, at sociale medier ikke tilfredsstiller den hudsult, som vi normalt for gennem fysisk n\u00e6rv\u00e6r og ber\u00f8ring.<\/p>"},"id":"62a59434-edde-4f49-b808-8a9a6a7c3eb3","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi er er mange, der har v\u00e6ret n\u00f8dt til at selvisolere. For mange af os har den manglende fysiske kontakt h\u00f8jst sandsynligt v\u00e6ret en faktor i den oplevede ensomhed. Det kan omvendt v\u00e6re, at du har form\u00e5et at se venner og familie, lige s\u00e5 ofte som du plejer, men at du stadig har f\u00f8lt dig ensom?<\/p>"},"id":"03a1d546-0f75-4c7b-b3d0-355b234f073f","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["eskild-bibow-avilius-4.jpg"],"description":"**Er du ensom?**\nDet kan v\u00e6re sv\u00e6rt at vurdere, om man er alene eller ensom \u2014 og tvivlen kan v\u00e6re ubehagelig. Check vores samtalepartnere ud her og book en gratis samtale.","link":"https:\/\/avilius.dk\/team","linktext":"M\u00f8d os \ud83d\udc4b","linkcolor":"lgreen","linktextcolor":"black"},"id":"e3936728-bd16-45fc-a26d-e70c86d2f003","isHidden":false,"type":"cta"},{"content":{"text":"<p>Coronakrisen har betydet, at mange er blevet hjemsendt. Skole og arbejde er for mange den b\u00e6rende struktur i hverdagen. N\u00e5r den ikke st\u00e5r p\u00e5 skole eller arbejde i hverdagen, har vi lige pludselig rigtig meget tid. N\u00e5r man har en stresset hverdag, kan man hurtigt komme til at tro, at mere tid ville v\u00e6re en velsignelse. Er det s\u00e5dan du har oplevet det?<\/p>"},"id":"14b75566-7b7b-4c96-b7ae-ae0e2c056ece","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Skjult meningsfuldhed"},"id":"4cb6bde8-06e1-4b8d-98ce-a8ce1bf9072e","isHidden":false,"type":"heading"},{"content":{"text":"<p>At g\u00e5 i skole eller have et job har en positiv psykologisk effekt. Denne effekt kan v\u00e6re skjult for os, n\u00e5r vi er tr\u00e6tte efter en lang arbejdsdag og gl\u00e6der os til weekenden. Skolen og arbejdet er et v\u00e6rn mod ensomheden. S\u00e5 t\u00e6nker man m\u00e5ske, at det handler om, at man nyder sine kollegers eller klassekammeraters selskab. Det g\u00f8r det ogs\u00e5, men det handler lige s\u00e5 meget om, at man befinder sig i et f\u00e6llesskab med andre, hvor man har en vigtig funktion. Vi kan kalde denne f\u00f8lelse \u2019meningsfuldhed\u2019.<\/p>"},"id":"f17a4fb0-818a-4547-865f-9b199dc4fd18","isHidden":false,"type":"text"},{"content":{"text":"<p>Kan du genkende denne her f\u00f8lelse: At du har tid til at g\u00f8re, hvad du har lyst til, men der er ikke noget, du har mere lyst til end noget andet? Det kan opleves som en tom f\u00f8lelse indeni. Det ikke at vide, hvad man skal bruge tiden til, det ikke at have mening i tilv\u00e6relsen, kan give en f\u00f8lelse af ensomhed. En f\u00f8lelse der er lige s\u00e5 kraftig som den ensomhedsf\u00f8lelse, vi f\u00e5r lige efter at v\u00e6re blevet forladt af en k\u00e6reste.<\/p>"},"id":"328c0f85-80a0-4476-8d3d-4f80f47d93fd","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["avilius-shrigley.jpg"],"src":"","alt":"","caption":"<em>\"Everything Has Become Ridiculous, So I'm Leaving, Goodbye\"<\/em> \u2014 David Shrigley, 2020","link":"","ratio":"","crop":"false"},"id":"3951d95a-f0ce-4f2f-9599-89c957e3fe69","isHidden":false,"type":"image"},{"content":{"text":"<p>Ensomhedsforskeren Ben Mijuskovic mener, at ensomheden egentlig er \u201dstandardindstillingen\u201d hos os mennesker. Der er heldigvis meget, vi kan g\u00f8re for at \u00e6ndre p\u00e5 indstillingerne; n\u00e5r vi nyder andre menneskers selskab, n\u00e5r vi g\u00f8r noget godt for andre, eller n\u00e5r vi f\u00f8ler, at andre er der til at gribe os, n\u00e5r vi falder. Alt dette er et v\u00e6rn mod ensomheden. Et andet v\u00e6rn er som sagt arbejdet eller skolen \u2013 ikke bogstaveligt talt arbejdet og skolen, men den \u201dmening\u201d med tilv\u00e6relsen, som den travle hverdag trods alt giver os.<\/p>"},"id":"ffc3f431-5df7-4fad-a939-1115615d2ec8","isHidden":false,"type":"text"},{"content":{"text":"<p>Det kan v\u00e6re, at du her i coronakrisen har lagt m\u00e6rke til, at den travle hverdag faktisk havde denne skjulte positive effekt. Der er ogs\u00e5 mange der, selvom de m\u00f8der op p\u00e5 job eller g\u00e5r i skole, oplever en mangel p\u00e5 mening og f\u00f8ler sig ensomme. Hvad g\u00f8r man?<\/p>"},"id":"1e4f4e07-43d6-44fe-b34b-68581b8c45e5","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"R\u00e5d til at g\u00f8re ensomheden mere udholdelig"},"id":"4b0e11e9-3576-450f-8f0b-4c7f9a26f772","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der er mange, der har brugt den ekstra tid, de har f\u00e5et mellem h\u00e6nderne p\u00e5 at l\u00e6re et instrument, et sprog eller blive god til en bestemt sportsgren. Hverdagen bliver ofte bedre af at v\u00e6re struktureret om aktiviteter. Der er n\u00f8dt til at v\u00e6re nogle m\u00e5l man arbejder sig hen imod, f\u00f8r det f\u00f8les \u201dmeningsfuldt\u201d.<\/p>"},"id":"3f4b20d1-5371-46c4-8e0a-fc639fb69c46","isHidden":false,"type":"text"},{"content":{"text":"<p>Det kan v\u00e6re du har oplevet at v\u00e6re ensom og uden succes har pr\u00f8vet at lindre smerten ved at se dine venner oftere. Selvom behovet for fysisk n\u00e6rv\u00e6r er m\u00f8dt, s\u00e5 er behovet for \u201dmening\u201d ikke n\u00f8dvendigvis tilstr\u00e6kkeligt adresseret. Mijuskovic mener, at begge dele er n\u00f8dt til at v\u00e6re til stede, f\u00f8r vi for alvor kommer v\u00e6k fra \u201dstandardindstillingen\u201d.<\/p>"},"id":"7340e5f5-3fb0-44d1-a54a-899f38c3e964","isHidden":false,"type":"text"},{"content":{"text":"<p>N\u00e5r man f\u00f8ler sig ensom, er det ikke altid \u00e5benlyst hvorfor. Det kan v\u00e6re du savner f\u00f8lelsen af, at det, du bruger din tid p\u00e5, virkelig betyder noget. Eller det kan v\u00e6re du j\u00e6vnligt ses med venner og familie, men ikke f\u00f8ler dig forbundet til nogen eller noget. Her kan det hj\u00e6lpe \u2013 selvom det m\u00e5ske f\u00f8les kunstigt \u2013 at have nogle m\u00e5l som strukturerer tilv\u00e6relsen. Endnu bedre; nogle m\u00e5l du er sammen med andre om at forf\u00f8lge.<\/p>"},"id":"3d4a253d-8b56-4554-b374-bcfbf3b66ba7","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis du k\u00e6mper med ensomhed, er du velkommen til at komme ind hos os i Avilius. S\u00e5 tager vi en snak om det. F\u00f8rste samtale er gratis! \ud83d\udc4b<\/p>"},"id":"439a57b4-eedb-4ce6-b061-672afd4ce351","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Ensomhed er menneskets standardindstilling
+
+----
+
+Seodescription: Hvorfor er jeg ensom? Det kan der være mange grunde til. Men måske skulle spørgsmålet snarere være: Hvordan formår jeg nogle gange ikke at føle mig ensom?
+
+----
+
+Seokeywords: ensomhed, coronakrisen, avilius, skole, arbejde
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: Når man har en stresset hverdag, kan man hurtigt komme til at tro, at mere tid ville være en velsignelse. Er det sådan du har oplevet det?
+
+----
+
+Category: Blog
+
+----
+
+Link: 

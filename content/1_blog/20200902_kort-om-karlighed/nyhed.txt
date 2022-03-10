@@ -1,0 +1,71 @@
+Title: Kort om kærlighed
+
+----
+
+Date: 2020-09-02
+
+----
+
+Card: true
+
+----
+
+Theme: c377e5
+
+----
+
+Author: Ragnhild Mohn
+
+----
+
+Authorlink:
+
+- team/ragnhild-mohn
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- rose-kaerlighed.gif
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Menneskelivets omdrejningspunkt er k\u00e6rlighed, uanset om vi vil det eller ej. Livet starter med at handle om k\u00e6rlighed og det slutter med at handle om k\u00e6rlighed.<\/p>"},"id":"466efa02-33f7-434e-a68b-1e428cd0e68a","isHidden":false,"type":"text"},{"content":{"text":"<p>Inden vi g\u00e5r videre, s\u00e5 vil jeg lige pr\u00e6sentere mig selv, hvis ikke vi har m\u00f8dt hinanden f\u00f8r. Jeg hedder Ragnhild og er til daglig en del af Avilius, hvor vi interesserer os for de store temaer i ungdomslivet.<\/p>"},"id":"68bdd4c1-f332-42f6-b632-5b1242a86518","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg har skrevet lidt om k\u00e6rlighed, fordi det er en central drivkraft i b\u00e5de vores bevidste og ubevidste liv. K\u00e6rlighed spiller en rolle uanset om det er tilstedev\u00e6relsen eller frav\u00e6ret af den, som er st\u00f8rst. K\u00e6rlighed er muligvis ogs\u00e5 en af de f\u00e6nomener, som vi har sv\u00e6rest ved at forst\u00e5 videnskabeligt. For hvad er det egentligt?<\/p>"},"id":"5a0e7492-e7b8-49f8-a387-38563afa8c41","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Hvad er k\u00e6rlighed?<\/strong><\/p>"},"id":"38cb2385-e408-4c19-b52c-1d82b11f1bf8","isHidden":false,"type":"text"},{"content":{"text":"<p>Er k\u00e6rlighed den oxytocin, der udskilles af hypofysen i hjernen, n\u00e5r vi krammer, kysser og har sex og som er med til at knytte os til et andet menneske? Og n\u00e5r det udskilles i b\u00e5de moren og sp\u00e6dbarnet under amning og knytter dem sammen \u2013 er d\u00e9t s\u00e5 ikke krystalliseringen af k\u00e6rlighed?<\/p>"},"id":"d47486ab-9129-45e9-8035-3d483feb7f82","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["eskild-ragnhild-kaerlighed-terapi-avilius.jpg"],"description":"**Knas med k\u00e6rligheden?**\nEskild og Ragnhild har netop lanceret et gruppeforl\u00f8b om livets store mysterie. Til dig, der gerne vil v\u00e6re en bedre k\u00e6reste.","link":"https:\/\/avilius.dk\/grupper\/karlighed","linktext":"Let's get it on \ud83d\udc9e","linkcolor":"lpurple","linktextcolor":"purple"},"id":"4f4d42ff-9c74-4311-8388-6449125d22dc","isHidden":false,"type":"cta"},{"content":{"text":"<p>Vi har set fra virkelighedens uhyggelige eksempler, hvad der sker med vores udvikling, n\u00e5r vi ikke f\u00e5r k\u00e6rlighed i de f\u00f8rste leve\u00e5r. P\u00e5 et rum\u00e6nsk b\u00f8rnehjem, hvor sp\u00e6db\u00f8rnene ikke fik nogen kropslig kontakt, s\u00e5 man p\u00e5 scanningerne, at deres hjerner var fysisk mindre end gennemsnittet.<\/p>"},"id":"0b67d16b-c218-4995-a77b-dcb2994f2c68","isHidden":false,"type":"text"},{"content":{"text":"<p>K\u00e6rlighed er simpelthen n\u00f8dvendigt for, at vi udvikler os som vi skal. Hvad end k\u00e6rlighed s\u00e5 lige er; for langt de fleste vil sidde tilbage med en f\u00f8lelse af, at det ikke er en fyldestg\u00f8rende beskrivelse, uanset hvordan og hvor meget vi beskriver k\u00e6rlighed. Vi ved intuitivt, at k\u00e6rlighed ogs\u00e5 er noget abstrakt som ikke kan reduceres til kropslig kontakt og hormoner.<\/p>"},"id":"bcfa38a8-6741-4014-ace2-e7f26b664b55","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi er fx ikke i tvivl om, at vi fylder hjertet med k\u00e6rlighed, n\u00e5r vi ligger og kigger ind i \u00f8jnene p\u00e5 vores elskede. K\u00e6rlighed kan ogs\u00e5 v\u00e6re en eksistentiel betingelse i sin mest bogstavelige forstand, som n\u00e5r en \u00e6gtef\u00e6lle d\u00f8r kort efter sin partner. Vi ved ogs\u00e5, at k\u00e6rlighed kan v\u00e6re selvudslettende og bes\u00e6ttende b\u00e5de for den dybt forelskede og den dybt ulykkelige.<\/p>"},"id":"a749ce81-63fe-4bd0-8c22-caa0bc1fe621","isHidden":false,"type":"text"},{"content":{"text":"<p>K\u00e6rlighedens v\u00e6sen er alts\u00e5 sv\u00e6rt at f\u00e5 ned p\u00e5 papir, men vi er slet ikke i tvivl om, at oplevet k\u00e6rlighed \u2013 b\u00e5de den platoniske og romantiske \u2013 er fuldst\u00e6ndig afg\u00f8rende for vores trivsel. Uanset om vi er introverte eller ekstroverte, s\u00e5 har kvaliteten af vores relationer en meget stor betydning for vores velv\u00e6re. Ensomhed er fx en st\u00f8rre risikofaktor end overv\u00e6gt.<\/p>"},"id":"1fa1363a-be09-411a-8218-3089458cf9eb","isHidden":false,"type":"text"},{"content":{"text":"<p>Den k\u00e6rlighed der oftest betyder mest og som kan volde os de st\u00f8rste problemer, er mellem os og vores for\u00e6ldre eller vores partner. Vi har alle hver vores sprog for k\u00e6rlighed og omsorg, hvilket kan skabe store konflikter og sorg. Lidt karikeret kan vi forestille os manden, der har sv\u00e6rt ved at sige \u201djeg elsker dig\u201d, men som i stedet viser det i sine handlinger. Eller moren der er alt for overinvolveret i sit barns liv, fordi hun er bange for at give slip.<\/p>"},"id":"3280781b-d237-47d7-a69a-fc98275f39c4","isHidden":false,"type":"text"},{"content":{"text":"<p>Problematikkerne opst\u00e5r ogs\u00e5 til dels fordi vi har et normativt samfundsideal om k\u00e6rlighed, som vi spejler os i og som kan f\u00e5 os til at f\u00f8le os forkerte eller utilstr\u00e6kkelige. S\u00e5 hvordan forholder vi os til k\u00e6rligheden, n\u00e5r den er s\u00e5 ubestemmelig og efemerisk?<\/p>"},"id":"acbd8e36-64e0-4d51-8bde-0b6900ec0870","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg har skrevet nogle bud ned til dig, som handler om, hvordan du kan forholde dig til k\u00e6rlighed i dine forhold.<\/p>"},"id":"4189b2c7-89ef-4c2a-aa5d-38c308ef29fa","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>1) K\u00e6rligheden er uendelig og ethvert forhold er unikt<\/strong><\/p>"},"id":"ff8d9222-ab79-4eb1-9097-0756e7597b0c","isHidden":false,"type":"text"},{"content":{"text":"<p>Det f\u00f8rste bud handler om, at k\u00e6rlighed ikke er en begr\u00e6nset ressource, der kun kan v\u00e6re \u00e6gte, hvis den er begr\u00e6nset til \u00e9t forhold. Du har kapaciteten til at elske mere end \u00e9n person og \u00e9t forhold, og den k\u00e6rlighed, der opleves til \u00e9n person, mindsker ikke den k\u00e6rlighed, der f\u00f8les til en anden.<\/p>"},"id":"b0debce4-d8d5-4a33-b29b-cfec7d3dfb90","isHidden":false,"type":"text"},{"content":{"text":"<p>Undg\u00e5 at rangere og sammenligne mennesker og forhold - v\u00e6rds\u00e6t den enkelte og din forbindelse til dem. \u00c9n person i dit liv beh\u00f8ver ikke at blive udr\u00e5bt til at v\u00e6re <em>the one<\/em> for at forholdet skal v\u00e6re \u00e6gte. Hvert forhold er uafh\u00e6ngigt og er et forhold mellem selvejende individer.<\/p>"},"id":"b1826292-d70b-463a-87f8-8a93b1983100","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>2) K\u00e6rlighed og respekt i stedet for berettigelse<\/strong><\/p>"},"id":"fc1d5bc7-a309-447f-8c57-ffe56c5649e5","isHidden":false,"type":"text"},{"content":{"text":"<p>Beslutningen om ikke at basere et forhold p\u00e5 berettigelse, handler om at respektere andres uafh\u00e6ngighed og selvbestemmelse. Dine f\u00f8lelser for en person eller jeres historie sammen g\u00f8r dig ikke berettiget til at kommandere og kontrollere en partner til at im\u00f8dekomme, hvad der anses for normalt at g\u00f8re i et forhold. I stedet for at lede efter kompromiser i enhver situation, skal du lade din elskede v\u00e6lge veje, der lader dem beholde deres integritet, uden at det ender i en krise for jeres parforhold.<\/p>"},"id":"bd7073ca-d5c2-4826-8bae-e211a423da97","isHidden":false,"type":"text"},{"content":{"text":"<p>At holde sig v\u00e6k fra krav og berettigelse er den eneste m\u00e5de at v\u00e6re sikker p\u00e5, at du er i et forhold, der virkelig er gensidigt. K\u00e6rlighed er ikke mere \"\u00e6gte\", n\u00e5r folk g\u00e5r p\u00e5 kompromis for hinanden, fordi det er en del af det, der forventes.<\/p>"},"id":"7509a14e-29fa-4888-999b-e8e86637f873","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>3) Find dine vigtigste v\u00e6rdier i dit forhold<\/strong><\/p>"},"id":"8c294561-5250-47ae-b2ba-a6f5d83f910c","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvordan \u00f8nsker du at blive behandlet af andre? Hvad er dine grundl\u00e6ggende gr\u00e6nser og forventninger til alle forhold? Hvilken type mennesker vil du gerne tilbringe dit liv med, og hvordan vil du have, at dine forhold fungerer? Find dine kernev\u00e6rdier og anvend dem i alle relationer. Lav ikke s\u00e6rlige regler og undtagelser for at vise folk, at du elsker dem \u201drigtigt\u201d.<\/p>"},"id":"e97efeab-cbd6-40c3-8608-7fc5f540ed44","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>4) Lad dig ikke styre af den normative k\u00e6rlighed<\/strong><\/p>"},"id":"5efe3f4a-2cbc-4a88-a730-1c9a5eae9f52","isHidden":false,"type":"text"},{"content":{"text":"<p>Husk, at der er et meget magtfuldt normativt system, der dikterer, hvad \u00e6gte k\u00e6rlighed er, og hvordan mennesker skal leve. Mange vil stille sp\u00f8rgsm\u00e5lstegn ved dig og gyldigheden af dine forhold, n\u00e5r du ikke f\u00f8lger disse normer. Find positive m\u00e5der at g\u00f8re modstand, og lad ikke frygt drive dine forhold.<\/p>"},"id":"c5e88c03-9fb7-4853-9020-65a4ed6f68f0","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>5) Indret for det uventede og elskelige<\/strong><\/p>"},"id":"b3a11a2c-de6a-4334-a993-fd318fbfb609","isHidden":false,"type":"text"},{"content":{"text":"<p>At v\u00e6re fri til at v\u00e6re spontan - at udtrykke sig uden frygt for at blive straffet eller f\u00f8lelsen af det belastende \"b\u00f8r\" - er det, der giver liv til forhold. Organiser ud fra et \u00f8nske om at m\u00f8de og udforske hinanden - ikke ud fra pligter og krav og skuffelse, n\u00e5r de ikke er opfyldt.<\/p>"},"id":"3327e5d3-fd2c-44a5-9772-db1e2a4b9cdf","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>6) Tillid er bedre<\/strong><\/p>"},"id":"eb4522cb-0b8e-4fe1-a42a-8a9d81516c35","isHidden":false,"type":"text"},{"content":{"text":"<p>At v\u00e6lge at antage, at din partner ikke \u00f8nsker dig skade tager dig ned ad en meget mere positiv sti end et udgangspunkt af mistillid, hvor du konstant skal valideres af den anden person for at stole p\u00e5, at de er der med dig i forholdet.<\/p>"},"id":"f026d93e-216c-4a21-8a7c-aee758cdbf88","isHidden":false,"type":"text"},{"content":{"text":"<p>Nogle gange foreg\u00e5r der s\u00e5 meget inden i \u00e9n selv, at der bare ikke er energi tilbage til at n\u00e5 ud og give omsorg til andre. Byg den slags forhold, hvor tilbagetr\u00e6kning b\u00e5de underst\u00f8ttes og hurtigt tilgives, og giv folk masser af chancer for at tale, forklare, og se dig og v\u00e6re ansvarlige i forholdet. Husk til geng\u00e6ld dine kernev\u00e6rdier og pas p\u00e5 dig selv!<\/p>"},"id":"f6cc2853-9dcf-4dd7-a1ac-12f90512949b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>7) Skab forandringer gennem kommunikation<\/strong><\/p>"},"id":"b98918ea-3724-4adb-9412-9ab8c59a41b2","isHidden":false,"type":"text"},{"content":{"text":"<p>I de fleste menneskelige aktiviteter er der normer for, hvordan tingene skal fungere. Hvis du vil afvige fra disse, er du n\u00f8dt til at kommunikere - ellers har tingene en tendens til at ende med at f\u00f8lge normerne, da andre opf\u00f8rer sig i overensstemmelse med dem. Kommunikation og f\u00e6lles handlinger for forandring er den eneste m\u00e5de at bryde ud af dem.<\/p>"},"id":"9057ec8e-b510-4774-9cb4-6aa243fefa77","isHidden":false,"type":"text"},{"content":{"text":"<p>Kommuniker i en kontekst af tillid. Vi er s\u00e5 vant til, at folk aldrig rigtigt siger, hvad de synes og f\u00f8ler - at vi er n\u00f8dt til at l\u00e6se mellem linjerne og ekstrapolere for at finde ud af, hvad der egentligt bliver sagt. Sp\u00f8rg hinanden om ting, og v\u00e6r eksplicit!<\/p>"},"id":"9c79c7f2-a7fd-44d2-ae53-4e5b993b5bfe","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["eskild-ragnhild-kaerlighed-terapi-avilius.jpg"],"description":"**Vil du gerne v\u00e6re en bedre k\u00e6reste?**\nEskild og Ragnhild er gruppeledere p\u00e5 et forl\u00f8b til dig, der er i et forhold \u2013 og gerne vil blive ved med at v\u00e6re det.","link":"https:\/\/avilius.dk\/grupper\/karlighed","linktext":"Let's get it on \ud83d\udc9e","linkcolor":"lpurple","linktextcolor":"purple"},"id":"40f61d27-7613-4211-b96a-e70fc2d460b0","isHidden":false,"type":"cta"},{"content":{"text":"<p>Jeg h\u00e5ber, at min lille guide ud i k\u00e6rligheden har tilf\u00f8rt noget v\u00e6rdi i dit eget liv. <a href=\"ragnhild@avilius.dk\" target=\"_blank\" title=\"Skriv til Ragnhild\" rel=\"noopener noreferrer nofollow\">Skriv gerne til mig<\/a>, hvis der er noget, som du er nysgerrig p\u00e5.<\/p>"},"id":"eac5dab9-79ce-4e38-8149-ccedbd3cc1f4","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Kort om kærlighed. Af Jonas Schøsler
+
+----
+
+Seodescription: Hvordan bør man lade sin kærlighed til et andet menneske komme til udtryk? Bare det at du tror det handler om et "bør" kan være en del af problemet.
+
+----
+
+Seokeywords: kærlighed, kommunikation, kerneværdier, relationer, gruppeforløb
+
+----
+
+Seoimage:
+
+- kort-om-kaerlighed-avilius.jpg
+
+----
+
+Introduction: 7 bud på, hvordan du kan opnå større tilfredshed med kærligheden i dit liv.
+
+----
+
+Category: Blog
+
+----
+
+Link: 

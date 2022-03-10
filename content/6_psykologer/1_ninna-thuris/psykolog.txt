@@ -1,0 +1,102 @@
+Title: Ninna Thuris
+
+----
+
+Firstname: Ninna
+
+----
+
+Email: ninna@avilius.dk
+
+----
+
+Capacity: true
+
+----
+
+Price: 900
+
+----
+
+Pricedetails: Detaljer
+
+----
+
+Length: 60 minutter
+
+----
+
+Course: Så længe du vil!
+
+----
+
+Coursedetails: Udfyld tekst
+
+----
+
+Video: 
+
+----
+
+Portrait:
+
+- trine-kissmeyer-avilius-5.jpg
+
+----
+
+Secondportrait:
+
+- trine-kissmeyer-avilius-3.jpg
+
+----
+
+Thirdportrait:
+
+- trine-kissmeyer-avilius-1.jpg
+
+----
+
+Experience: Erfaring, Anden erfaring
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Mit forløb hos Ninna lorem ipsum dolor
+    sit amet crucia est vitae moriam.
+  author: Tidligere klient, 30
+- 
+  quote: >
+    Endnu en skøn men lang testimonial mi
+    at mauris auctor pretium ut in nisi.
+    Aliquam tristique viverra odio, eu
+    interdum tortor vestibulum a. Duis nunc
+    sapien, varius non lobortis vulputate,
+    feugiat in risus. Praesent dui justo,
+    sollicitudin ac enim et, ultrices
+    egestas arcu. Cras efficitur vitae nibh
+    vitae aliquam. Pellentesque non diam sit
+    amet orci ornare dictum id non metus.
+  author: Tidligere klient, 21
+
+----
+
+Description: Ninnas beskrivelse her
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 

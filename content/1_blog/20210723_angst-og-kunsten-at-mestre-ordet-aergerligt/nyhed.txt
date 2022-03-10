@@ -1,0 +1,58 @@
+Title: Angst og kunsten at mestre ordet "ærgerligt" ☔️
+
+----
+
+Date: 2021-07-23
+
+----
+
+Card: true
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Markus Jacobsen
+
+----
+
+Authorlink:
+
+- hvorfor/markus-jacobsen
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  avilius-angst-kunsten-at-laere-ordet-aergerligt.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Hvad nu hvis jeg dumper min eksamen?<\/p>"},"id":"52897154-e39b-45f9-ac47-557d89e1a5aa","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvad nu hvis jeg kommer til at sige noget dumt, n\u00e5r jeg st\u00e5r og holder opl\u00e6g?<\/p>"},"id":"f0055013-7694-4337-a3bd-3e479b9cec45","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvad nu hvis alle t\u00e6nker, at den m\u00e5de, jeg danser p\u00e5, er totalt \u00e5ndssvag?<\/p>"},"id":"e7ee1a4c-ebef-4125-a345-6b883f64289b","isHidden":false,"type":"text"},{"content":{"text":"<p>Angsttanker f\u00f8lger ofte denne her hvad-nu-hvis formel. Hvis du lider af angst, eller er g\u00e5et igennem en periode, hvor du har v\u00e6ret meget \u00e6ngstelig, kan det v\u00e6re, du kan nikke genkendende til det med ikke at kunne lade v\u00e6re at t\u00e6nke over alle de ting, der kunne g\u00e5 galt hele tiden. I denne her artikel pr\u00e6senteres et forslag til, hvordan man g\u00f8r angst til noget, der er nemmere at leve med. Men hvad er angst egentlig?<\/p><p><\/p>"},"id":"6b1957e0-af5d-4acb-a522-f75bbd6b3423","isHidden":false,"type":"text"},{"content":{"category":"book","image":[],"description":"**Er du i tvivl, om du lider af angst?\n**Hos Avilius hj\u00e6lper vi unge med almindelige angstlignende tilstande gennem SU-venlig psykoterapi.","link":"","linktext":"","linkcolor":"","linktextcolor":""},"id":"65d85a99-9633-4a1a-ab4d-9a59838cc7aa","isHidden":false,"type":"cta"},{"content":{"level":"h3","text":"<strong>I krisesituationer er glasset halvt tomt<\/strong>"},"id":"9c16babd-11ac-4db9-98ef-ab998bcf5b8f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Forestil dig, at du sad og l\u00e6ste til eksamen aftenen f\u00f8r og var h\u00e5bl\u00f8st bagud med at l\u00e6se op. Forestil dig s\u00e5, at \u00e9n eller anden forstyrrede dig og sagde \u201dEr det ikke en smuk dag i dag\u201d? Du ville nok blive irriteret og ikke sk\u00e6nke det en tanke, om det vitterlig var en smuk dag eller ej. Vi mennesker er problemknusere. Det, der allerede fungerer, er sj\u00e6ldent noget, vi t\u00e6nker s\u00e6rligt meget over, n\u00e5r der er et eller andet problem, der skal l\u00f8ses akut. Og det er som s\u00e5dan ikke irrationelt. Det er det, der g\u00f8r, at vi kan tage problemer alvorligt.&nbsp;<\/p><p><\/p>"},"id":"6474aca2-728e-430d-bd00-92d4e3563760","isHidden":false,"type":"text"},{"content":{"text":"<p>Men det er ogs\u00e5 det, der g\u00f8r, at vi hurtigt kan komme til at torturere os selv med alle de ul\u00f8ste problemer i vores liv.&nbsp;<\/p><p><\/p>"},"id":"b1ad02fe-269d-40c1-942e-090813461e4a","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Eksaminer og hyggedruk<\/strong>&nbsp;"},"id":"6ee96b8d-400c-4da1-9f93-05c774b7ea24","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lad os sige, at du og dine venner havde planlagt en dejlig dag i solen med boldspil og hyggedruk. S\u00e5 m\u00f8des I, og det begynder at \u00f8se ned. \u201d\u00c6rgerligt\u201d er nok det rigtige ord i den sammenh\u00e6ng. Lad os s\u00e5 sige, at du har f\u00e5et en d\u00e5rlig karakter til en eksamen. Hvis det var en eksamen, du brugte meget krudt p\u00e5 at l\u00e6se op til, kan det v\u00e6re, at det ord, du har lyst til at bruge for at beskrive situationen, er \u201duacceptabelt\u201d. Og det kan v\u00e6re, at du i den sammenh\u00e6ng bebrejder dig selv og g\u00e5r rundt med en d\u00e5rlig smag i munden de n\u00e6ste par dage. <\/p><p><\/p>"},"id":"12a8b386-7f3e-40ab-be34-1dc394c0aa91","isHidden":false,"type":"text"},{"content":{"text":"<p>At vi kategoriserer de to situationer forskelligt, har at g\u00f8re med at vi f\u00f8ler os ansvarlige for, hvad der skete i eksamenssituationen, men ikke for det, der skete i hygge-med-vennerne situationen. Men hvorfor egentlig? Klarer vi os d\u00e5rligt til en eksamen, fordi vi \u00f8nsker at klare os d\u00e5rligt? Er det noget, vi planl\u00e6gger at g\u00f8re? Nej. S\u00e5 vi er ikke ondskabsfulde, n\u00e5r vi klarer os d\u00e5rligt til en eksamen. Vi pr\u00f8ver ikke at spilde folks tid, n\u00e5r vi holder opl\u00e6g og klappen g\u00e5r ned. Og vi pr\u00f8ver ikke at \u00f8del\u00e6gge stemningen, n\u00e5r vi kommer til at sige noget akavet i en social sammenh\u00e6ng.<\/p><p><\/p>"},"id":"76f9c3a4-a147-4636-b214-f2b3722e3bba","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["tamara-hansen-avilius-angst.jpg"],"description":"**Lider du af angst?**\nI Avilius har vi det perfekte forl\u00f8b til dig, der d\u00f8jer med angsttanker. L\u00e6r at identificere, n\u00e5r den melder sig og f\u00e5 v\u00e6rkt\u00f8jerne til at h\u00e5ndtere den i \u00f8jeblikket.","link":"https:\/\/www.avilius.dk\/grupper\/angst","linktext":"L\u00e6s mere","linkcolor":"lpurple","linktextcolor":"purple"},"id":"435ee230-435f-4813-bf47-faca65dba794","isHidden":false,"type":"cta"},{"content":{"text":"<p>Vi er angste for eksamen, men ikke hygge med vennerne, fordi vi altid f\u00f8ler, der er mere, vi kan g\u00f8re for at v\u00e6re p\u00e5 den sikre side. Men ligesom man ikke kan g\u00f8re andet end at tjekke vejrudsigten, inden man g\u00e5r uden for d\u00f8ren, s\u00e5 kan man heller ikke g\u00f8re andet end sit bedste, n\u00e5r man l\u00e6ser op til eksamen. Hvis det ikke flasker sig, er det \u00e6rgerligt ja, men ikke mere eller andet end det.&nbsp;<\/p>"},"id":"377ead33-22fc-4649-8f59-a9f7e550f7c2","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 

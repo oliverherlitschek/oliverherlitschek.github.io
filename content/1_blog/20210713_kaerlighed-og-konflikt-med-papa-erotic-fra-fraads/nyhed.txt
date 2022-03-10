@@ -1,0 +1,86 @@
+Title: Kærlighed og konflikt med Papa Erotic fra FRAADS
+
+----
+
+Date: 2021-07-13
+
+----
+
+Card: false
+
+----
+
+Theme: c377e5
+
+----
+
+Author: Eskild Bibow
+
+----
+
+Authorlink:
+
+- team/eskild-bibow
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  fraads-frederik-espersen-papa-erotic-avilius-talks.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Velkommen til ottende episode af Avilius Talks \u2014 en podcast om at have det godt.<\/p>"},"id":"b318ee4d-47cc-4a89-b6ad-9632acfd8856","isHidden":false,"type":"text"},{"content":{"text":"<p>Live samtale med Frederik Espersen \u2014ogs\u00e5 kendt som Papa Erotic\u2014 forsanger og tekstforfatter i FRAADS. Frederik og Avilius' egen&nbsp;<a href=\"https:\/\/avilius.dk\/team\/eskild-bibow\" rel=\"noopener noreferrer nofollow\">Eskild<\/a>&nbsp;tager udgangspunkt i teksterne fra FRAADS' fuldl\u00e6ngdealbum \u201cFRaaaDS\u201d.<\/p>"},"id":"60b78079-9157-47b2-9176-e78ed68ad872","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["eskild-ragnhild-kaerlighed-terapi-avilius.jpg"],"description":"**Knas med k\u00e6rligheden?**\nEskild og Ragnhild har netop lanceret et gruppeforl\u00f8b om livets store mysterie. Til dig, der gerne vil v\u00e6re en bedre k\u00e6reste.","link":"https:\/\/avilius.dk\/grupper\/karlighed","linktext":"Invest\u00e9r i dit forhold \ud83d\udc98","linkcolor":"lpurple","linktextcolor":"purple"},"id":"a8721c38-0c2b-4f7a-9384-bf1a2c45d163","isHidden":false,"type":"cta"},{"content":{"text":"<p>Vi snakker om, hvordan albummet unders\u00f8ger dele af k\u00e6rligheden som konflikt, magt, distance, n\u00e6rhed, temperamenter, lyst og transformationen af sig selv og den anden gennem forholdet. Vi snakker om konflikter i k\u00e6rlighedsforhold, ikke kun som et acceptabelt onde, men som en n\u00f8dvendighed for k\u00e6rligheden selv. Vi snakker om de udviklende aspekter af sv\u00e6re snakke i et forhold, b\u00e5de de eksplicitte og de underliggende. Vi snakker om k\u00e6rligheden og problemerne med forholdet som identitetsmark\u00f8r, samt hvordan man kan \u201cg\u00e5 i st\u00e5\u201d.<\/p>"},"id":"bc2d525f-bae0-4469-b984-8dd3cb47f119","isHidden":false,"type":"text"},{"content":{"text":"<p> Gennem samtalen diskuteres forskellen (eller ligheden) i at regrediere ved konflikter eller at komme i kontakt med sit indre barn, i sine udtryksformer.<\/p><p><\/p>"},"id":"ffd53f4a-fd1f-48a2-b9ae-74748619f921","isHidden":false,"type":"text"},{"content":{"text":"<p>Samtalen mellem Frederik og Eskild er et led af Avilius' nye gruppeforl\u00f8b om konflikter i&nbsp;<a href=\"https:\/\/avilius.dk\/grupper\/karlighed\" rel=\"noopener noreferrer nofollow\">k\u00e6rlighedsforhold<\/a>.<\/p><p><\/p><p><\/p>"},"id":"9d79b370-18a8-41e7-896b-00262fd52f36","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/4r0ofNwiOrWQiuhZCqRX5W\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"e603724b-9edf-4670-94f2-2f69cfd80b1f","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Avilius Talks - Glenn Bech
+
+----
+
+Seodescription: I hvilket omfang er giftig maskulinitet årsag til traumer i vores samfund? Eskild taler med forfatter Glenn Bech om hans nye bog Farskibet.
+
+----
+
+Seokeywords: maskulinitet, traumer, poesi, litteratur
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Link: https://open.spotify.com/episode/6MylWprwx9mk2UTYbonvxs?si=25135ed1dcc84710
+
+----
+
+Category: Blog
+
+----
+
+Podcastlink: https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=fPp_3mOWRs6ZeMQhgZeNjA
+
+----
+
+Talkslink: 
+
+----
+
+Content: 
+
+----
+
+Type: news

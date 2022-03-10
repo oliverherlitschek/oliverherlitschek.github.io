@@ -1,0 +1,85 @@
+Title: Gaden, musikken og mobilen med URO
+
+----
+
+Date: 2021-02-12
+
+----
+
+Card: false
+
+----
+
+Theme: f0f1b4
+
+----
+
+Author: Emilie Duval Stolle
+
+----
+
+Authorlink:
+
+- team/emilie-stolle
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- uro-avilius-talks.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: 
+
+----
+
+Text: [{"content":{"text":"<p>Velkommen til femte episode af Avilius Talks \u2014 en podcast om at have det godt.<\/p>"},"id":"62ca2646-44aa-450d-a089-107c3e52e226","isHidden":false,"type":"text"},{"content":{"text":"<p>I dette afsnit har vi bes\u00f8g af Jeppe Kronback, der ogs\u00e5 er kendt under navnet URO. Udover at v\u00e6re artist, er Jeppe p\u00e6dagog i K\u00f8benhavns Kommune, hvor han arbejder p\u00e5 gadeplan med unge.<\/p>"},"id":"7e5f1514-5a2c-4aef-a034-479178e9de62","isHidden":false,"type":"text"},{"content":{"text":"<p>Frederik Gade Frandsen er ven af Avilius-huset og l\u00e6ser til daglig europ\u00e6isk etnologi - et studie som han fors\u00f8ger at kombinere med en stor interesse for musik.<\/p>"},"id":"babc271e-cbba-43a0-8e6a-33a8930c4767","isHidden":false,"type":"text"},{"content":{"text":"<p>I samtale med Jeppe udforsker Frederik hvordan, at musik kan bruges til at s\u00e6tte ord p\u00e5 sv\u00e6re f\u00f8lelser, i en verden hvor alting g\u00e5r st\u00e6rkt, samt hvordan kan den bruges som et middel til at opbygge relationer og styrke sociale sammenh\u00e6nge. Jeppe fort\u00e6ller hvordan han bruger musikken i sit arbejde med unge mennesker, herunder om hvordan TikTok og mobiltelefoner, i hans optik, er vigtige elementer, som kan bruges til at opbygge f\u00e6llesskaber.<\/p>"},"id":"ded28ab6-05cc-488a-8af7-5564e70a2379","isHidden":false,"type":"text"},{"content":{"text":"<p> Lyt med p\u00e5 en sp\u00e6ndende samtale, hvor URO fort\u00e6ller \u00e6rligt og \u00e5bent om hans egen musik, samt hans syn p\u00e5 det at v\u00e6re ung i 2021.<\/p>"},"id":"7e76c865-da5f-4c36-a228-cc560f6666c4","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/4eUx6Z1pqt85vKVbSQIcZD\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"fa2573e8-9e7e-48eb-9e9f-f18d4f42c5a2","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Femte episode af Avilius Talks
+
+----
+
+Seodescription: I samtale med Jeppe udforsker Frederik hvordan, at musik kan bruges til at sætte ord på svære følelser, i en verden hvor alting går stærkt
+
+----
+
+Seokeywords: fællesskaber, relationer, URO, musik
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: https://open.spotify.com/episode/4eUx6Z1pqt85vKVbSQIcZD?si=vCT-Uqf2QVe6_MrtbehFrw
+
+----
+
+Podcastlink: https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=fPp_3mOWRs6ZeMQhgZeNjA
+
+----
+
+Talkslink: 
+
+----
+
+Content: 
+
+----
+
+Type: news

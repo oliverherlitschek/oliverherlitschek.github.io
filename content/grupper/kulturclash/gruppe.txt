@@ -1,0 +1,262 @@
+Title: Kulturclash
+
+----
+
+Cover:
+
+- esther-safir-avilius-3.jpg
+
+----
+
+Intro: At have en multikulturel baggrund kan føles som at være i to lejre man konstant skal navigere imellem. Spørgsmål om etnicitet, kultur og identitet er med til at skabe tvivl om ens tilhørsforhold og kan i sidste ende opleves som om, at man ikke rigtigt hører til noget sted. Sammen vil vi dele vores oplevelser, spørgsmål og frustrationer.
+
+----
+
+Portrait:
+
+- esther-safir-avilius-4.jpg
+
+----
+
+Length: 8 ugers forløb
+
+----
+
+Price: 800
+
+----
+
+Email: esthersafir@avilius.dk
+
+----
+
+Conditions: 100,- per gang. Betales samlet eller delt op i rater.
+
+----
+
+Description: At have en multikulturel baggrund kan føles som at være i to lejre, man konstant skal navigere imellem. Spørgsmål om etnicitet, kultur og identitet er med til at skabe tvivl om ens tilhørsforhold og kan i sidste ende opleves som om, at man ikke rigtigt hører til noget sted. Sammen vil vi dele vores oplevelser, spørgsmål og frustrationer.
+
+----
+
+Foryou:
+
+- 
+  if: føler dig som den evige outsider
+- 
+  if: efterlyser kulturel rodfæste
+- 
+  if: føler dig alene i din identitet
+- 
+  if: er vokset op i et multikulturelt samfund
+- 
+  if: >
+    har forældre eller familie fra
+    forskellige kulturer
+
+----
+
+Therapistcover:
+
+- esther-main.jpg
+
+----
+
+Therapist: Esther
+
+----
+
+Therapistintro:
+
+Du vil opleve mig som nærværende og omsorgsfuld, men også ærlig idet jeg håber på at kunne udfordre dig. Jeg går til forløbet med en masse energi, hvor vi sammen udforsker dine udfordringer. Jeg bruger en masse billedlige metaforer, for jeg tror på, at vi husker særligt godt gennem fantasi og billeder.
+
+(link: https://avilius.dk/team/esther-safir text: Læs mere om Esther)
+
+----
+
+Testimonials: 
+
+----
+
+Dates:
+
+- 
+  introdate: 17. august
+  introtime: 18 — 20
+  remainingdates: |
+    17. august kl. 18 — 20
+    24. august kl. 18 — 20
+    31. august kl. 18 — 20
+    7. september  kl. 18 — 20
+    14. september kl. 18 — 20
+    21. september kl. 18 — 20
+    28. september kl. 18 — 20
+    5. oktober kl. 18 — 20
+
+----
+
+Spots: Ledige pladser
+
+----
+
+Programdescription: Gruppeforløbet begynder med en gratis og uforpligtende introaften, hvor du bliver klogere på forløbets indhold. Derudover vil du møde gruppelederen Esther, som vil introducere sig selv, sin motivation for netop dette gruppeforløb og sin tilgang til forløbet.
+
+----
+
+Program:
+
+- 
+  number: "1"
+  headline: Introduktion og definition
+  description: |
+    Vi starter med at skulle lære hinanden lidt at kende. Derudover vil vi gennemgå det overordnede forløb, og vil sammen udforske de tematikker, der særligt fylder for denne gruppe. Min tilgang til gruppeforløb er meget dynamisk, hvilket betyder at der skal være plads til de tematikker, som deltagerne føler fylder for lige netop dem.
+    
+    Derfor er følgende programoversigt kun et eksempel på hvilke tematikker, der kan blive arbejdet med.
+    
+    Vi vil bruge tid på at få defineret, hvad kulturclash betyder for denne gruppe med henblik på at skabe nuancerne i begrebet.
+- 
+  number: "2"
+  headline: Kamelæonbørn
+  description: >
+    Denne gang vil vi gå mere i dybden med
+    hvad det vil sige at være et
+    "kamelæonbarn". Vi vil sammen dele
+    oplevelser, der omhandler det at skulle
+    skifte "farve" i forskellige kontekster,
+    og derefter udforske både styrkerne og
+    udfordringerne ved at have to kulturer
+    med sig.
+- 
+  number: "3"
+  headline: Hvorfor forstår de mig ikke?
+  description: |
+    Når man prøver at få andre til at forstå de udfordringer, man kan møde både udefra såvel som indefra, når man har to kulturer i rygsækken, kan man ofte føle at andre ikke forstår en - selv hvis de prøver. Det kan være drænende at skulle forklare andre om ens oplevelser, og somme tider kan man nærmest opgive, når de nu alligevel ikke forstå.
+    
+    Så hvad gør vi med de her frustrationer? Hvordan sørger vi for stadig at fortælle om vores oplevelser - på trods af at vi ikke nødvendigvis bliver forstået?
+- 
+  number: "4"
+  headline: Hvor hører jeg rigtigt til?
+  description: "Når man er hjemme er man noget bestemt, når man går i skole er man noget andet, og når man er sammen med ens venner med samme baggrund, er man noget andet end når man er sammen med de venner, der ikke har samme baggrund. Så hvem er man i sidste ende? Det ene sted er man måske ikke 'nok' libaneser, men alligevel er man heller ikke nok dansk. Man bliver fanget mellem to stole – og den problematik skal vi udfolde sammen."
+- 
+  number: "5"
+  headline: Hvem vil jeg gerne være?
+  description: |
+    I forlængelse af sidste tematik vil vi arbejde med spørgsmålet "Hvem vil jeg gerne være?" Dette spørgsmål kan hjælpe os i retning af at finde et ståsted mellem ens kulturer, som vi selv finder meningsfuldt.
+    
+    Vi vil forsøge at gøre op med de automatiserede tanker om tilpasning og give plads til at udfolde sine ønsker og håb om hvem man gerne vil være.
+- 
+  number: "6"
+  headline: Forbandelsen og velsignelsen
+  description: |
+    Sammenlignet med andre problematikker, hvor man kan "komme af med sine problemer", må vi erkende det faktum, at man ikke kan "komme af med sine to kulturer" - men det må heller ikke være målet at blive én af dem. Denne gruppegang vil vi forsøge at arbejde med alle de velsignelser, der følger med det at være kamæleonbarn, såvel som alle forbandelserne.
+    
+    Hvis gruppen finder det interessant, inviterer vi i denne session en minoritetsperson ind, der har haft to kulturer med sig og har formået at bruge sin baggrund til en drivkraft, både i sit personlige og professionelle liv.
+- 
+  number: "7"
+  headline: Accept og balance
+  description: 'I forlængelse af sidste gruppegang vil vi forsøge at arbejde henimod en accept af at man altid vil være splittet - det er vores vilkår. Men vi skal selvfølgelig finde en balancegang, hvor vi kan give plads til alle de nuancer vi indebærer. Men hvordan finder man denne balancegang, når man i mange år har været vant til bare at tilpasse sig de kontekster man indgår i?'
+- 
+  number: "8"
+  headline: Afrunding – hvad så nu?
+  description: >
+    Vi er nået til slutningen og vi vil
+    derfor samle op på alt det vi har lært
+    og er gennemgået. Alt dette skal nu til
+    at stå sin prøve, når gruppen er
+    slut. Vi vil derfor gå igennem
+    bekymringer om, hvordan man reelt set
+    tager dette med sig videre i livet.
+
+----
+
+Seotitle: Føler du dig klemt mellem to kulturer?
+
+----
+
+Seodescription: Nyt gruppeforløb fra Avilius! At have en multikulturel baggrund kan føles som at være i to lejre man konstant skal navigere imellem.
+
+----
+
+Seokeywords: multikulturel, identitet, etnicitet, kultur
+
+----
+
+Seoimage:
+
+- esther-safir-avilius-4.jpg
+
+----
+
+Excerpt: At have en multikulturel baggrund kan føles som at være i to lejre man konstant skal navigere imellem. Spørgsmål om etnicitet, kultur og identitet er med til at skabe tvivl om ens tilhørsforhold og kan i sidste ende opleves som om, at man ikke rigtigt hører til noget sted. Sammen vil vi dele vores oplevelser, spørgsmål og frustrationer.
+
+----
+
+Portraitcaption: Forløbet ledes af (link: team/esther-safir text: Esther).
+
+----
+
+Ctaheadline: Klar til kulturclash?
+
+----
+
+Ctatext: Skriv til Esther — så får du besked, når der er plads på holdet!
+
+----
+
+Pricedescription: Det er sjældent man har 1600,- på lommen. Vi har lavet to betalingsmåder, så du kan få SU-økonomien til at række.
+
+----
+
+Tieronedescription: Betal hver gang
+
+----
+
+Tieroneprice: 250
+
+----
+
+Tieronetotal: 2.000
+
+----
+
+Tiertwodescription: Betal det hele på én gang
+
+----
+
+Tiertwoprice: 200
+
+----
+
+Tiertwototal: 1.600
+
+----
+
+Perks:
+
+- 
+  perk: Gratis introaften
+- 
+  perk: Otte ugers forløb
+
+----
+
+Announcementtext: 8 ugers forløb
+
+----
+
+Announcementprice: 200
+
+----
+
+Image: - ragnhild.png
+
+----
+
+Start: 
+
+----
+
+Firstname: Jonas
+
+----
+
+Entry: 

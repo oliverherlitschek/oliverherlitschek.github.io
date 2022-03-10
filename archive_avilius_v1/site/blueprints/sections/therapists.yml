@@ -1,0 +1,7 @@
+type: pages
+headline: Therapists
+parent: kirby.page("therapists")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: therapist
+empty: No posts yet
+sortBy: title

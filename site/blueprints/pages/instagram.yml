@@ -1,0 +1,22 @@
+title: Instagram
+icon: 🏠
+
+options:
+  status: true
+tabs:
+  content:
+    fields:
+      links:
+          label: Links
+          type: structure
+          fields:
+            linktext:
+              label: 
+              type: text
+            linkurl:
+              label: link
+              type: url
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

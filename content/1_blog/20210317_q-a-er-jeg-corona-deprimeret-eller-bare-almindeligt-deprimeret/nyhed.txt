@@ -1,0 +1,70 @@
+Title: Q&A: Er jeg corona-deprimeret eller bare almindeligt deprimeret?
+
+----
+
+Date: 2021-03-17
+
+----
+
+Card: true
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Eskild Bibow
+
+----
+
+Authorlink:
+
+- team/eskild-bibow
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  avilius-q-a-corona-depressiv-deprimeret-symptomer.png
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p><a href=\"https:\/\/avilius.dk\/team\/eskild-bibow\" target=\"_blank\" title=\"Eskild\" rel=\"noopener noreferrer nofollow\">Eskild<\/a> er samtalepartner i Avilius. Her er den skrevne udgave af den Q&amp;A, han holdte p\u00e5 vores Instagram. Den kan ses <a href=\"https:\/\/www.instagram.com\/tv\/CL6xg9lAX2Q\/?igshid=1i7gd3jlkb2m\" target=\"_blank\" title=\"Avilius p\u00e5 IG\" rel=\"noopener noreferrer nofollow\">her<\/a>!<\/p>"},"id":"b853a938-62a3-4ce1-929d-da3ab6811dad","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Hvorfor mister man motivationen til studie\/arbejde?"},"id":"fda55986-494b-4323-91da-d2047b468257","isHidden":false,"type":"heading"},{"content":{"text":"<p>Motivation er en sv\u00e6r st\u00f8rrelse fordi det kan h\u00e6nge sammen med s\u00e5 mange forskellige faktorer. Grundl\u00e6ggende kan man skelne mellem motivation der er indefra- og udefrakommende. Udefrakommende motivation kan n\u00e6sten v\u00e6re lettest at forst\u00e5 fx \u201djeg m\u00f8de p\u00e5 arbejde ellers bliver jeg fyret\u201d eller \u201dhvis jeg tager ekstra vagter, tjener jeg ekstra penge\u201d. Indefra kommende motivation kan v\u00e6re \u201djeg l\u00e6ser den her bog, som jeg synes er sp\u00e6ndende\u201d. Problemet er at den skelnen hurtigt bliver mudret fx fordi vi mennesker internaliserer forskellige samfundsstrukturer, dvs. at regler fra vores omverden bliver noget der pludseligt er en del af vores egen psykiske struktur. M\u00e5ske synes jeg at bogen er sp\u00e6ndende fordi alle mine venner synes det? Eller fordi det er en sej bog med nogle fede v\u00e6rdier, nogle v\u00e6rdier jeg m\u00e5ske gerne ville kunne spejle mig selv i. Omvendt kan det at m\u00f8de p\u00e5 arbejde (for ikke at blive fyret), betyde noget for ens identitet, og p\u00e5 denne m\u00e5de ogs\u00e5 v\u00e6re motiveret delvist indefra, selvom straffen for ikke at m\u00f8de op er \u201dudefrakommende\u201d.<\/p>"},"id":"3ed43967-1f56-4d4c-9e4e-03b89562e67d","isHidden":false,"type":"text"},{"content":{"text":"<p>Der er meget under corona-pandemien der er anderledes ift. motivation. For det f\u00f8rste er kravene fra den omkringl\u00e6ggende verden \u00e6ndret markant for de fleste af os: studie og arbejde er tvunget omlagt, hvorfor vi pludselig skal forholde os til et helt nyt arbejdsfelt (det at arbejde online med de fleste ting). Det giver god mening at de fleste mennesker oplever en del usikkerhed ift. disse \u00e6ndrede krav (og fx hvis man p\u00e5 sin vis har f\u00e5et et st\u00f8rre ansvar for at stille sine egne arbejdsopgaver, hvilket mange oplever). Det kan opleves som unfair at eksamen pludselig er 2 i stedet for 5 timer, eller at man skal klare en eksamen i samme sv\u00e6rhedsgrad, efter at have oplevet mangelfuld zoom-undervisning. S\u00e5 studie- og arbejdstvivl giver desv\u00e6rre ret god mening.<\/p>"},"id":"6526f016-9720-4306-bb3e-f5bfcf698844","isHidden":false,"type":"text"},{"content":{"category":"book","image":[],"description":"**\ud83e\udd14 I tvivl?**\nDet kan v\u00e6re sv\u00e6rt selv at vurdere, om man egentlig er ok. Derfor er en gratis uforpligtende samtale hos Avilius altid en god id\u00e9.","link":"","linktext":"","linkcolor":"lpurple","linktextcolor":"purple"},"id":"9808fefc-5354-44d3-a5d4-29e90d48d027","isHidden":false,"type":"cta"},{"content":{"text":"<p>Disse \u00e6ndrede krav er dog ogs\u00e5 toppet op af at vi sj\u00e6ldnere ser vores venner og kolleger: de mennesker vi kan brokke os overfor, og som kan hj\u00e6lpe os med at h\u00e5ndtere de nye og m\u00e5ske sv\u00e6re f\u00f8lelser der opst\u00e5r. S\u00e5 her er det generelle r\u00e5d: r\u00e6k ud og giv dig selv lov til at fort\u00e6lle dine venner om dine kvaler (de oplever nok noget lignende). Generelt tror jeg at der er meget motivation at hente i relationer, fx savner jeg at m\u00f8de mine studiekammerater (de kan v\u00e6re grunden til at komme op om morgenen og s\u00e6tte sig p\u00e5 cyklen). Man kan ogs\u00e5 finde energi i at v\u00e6re en del af en f\u00e6llesskab der k\u00e6mper for en sag.<\/p>"},"id":"95527e89-1f43-4618-8452-ed019b2e44c8","isHidden":false,"type":"text"},{"content":{"text":"<p>Motivation kan ogs\u00e5 beskrives med andre ord eller kobles op p\u00e5 andre dele af livet, det handler fx ogs\u00e5 om, hvad man har lyst til. Lysten har v\u00e6ret unders\u00f8gt filosofisk i mange \u00e5r og en klassisk (og meget reducerende) skelnen kan fx v\u00e6re om man som Platon ser lysten som frav\u00e6ret af ubehag eller sp\u00e6nding (n\u00e5r man sm\u00e6kker benene op efter en lang dag p\u00e5 jobbet), eller man som Aristoteles ser lysten som en selvforst\u00e6rkende effekt (efter at have h\u00f8rt den nye sang med Sivas, bliver jeg n\u00f8dt til at h\u00f8re alt hvad han har lavet). Savner du fx at f\u00e5 ordnet flere arbejdsopgaver, s\u00e5 du kan puste ud, eller savner du sp\u00e6nding i dine arbejdsopgaver, s\u00e5 du f\u00e5r lyst til at g\u00e5 p\u00e5 arbejde igen i morgen?<\/p>"},"id":"0460d40d-1c20-48b9-a64d-d200dd3b9899","isHidden":false,"type":"text"},{"content":{"text":"<p>Et par afsluttende kommentarer om motivation er alts\u00e5 at det h\u00e6nger sammen med mange faktorer, og man kan sp\u00f8rge sig selv om der er noget ved ens arbejde\/studie der rent faktisk motiverer \u00e9n lige nu? Hvis ikke kommer det s\u00e5 igen? Er det fordi kravene er s\u00e5 h\u00f8je at det sjove simpelthen er fjernet? De fleste kender vel at motivationen kan forsvinde i ny og n\u00e6, her kan man sp\u00f8rge sig selv, hvor ofte man \u00f8nsker studiet\/arbejdet skal v\u00e6re motiverende sat overfor en form for m\u00e5l man gerne vil opn\u00e5.<\/p>"},"id":"86fa2523-4ce0-41a3-a2c0-db982926a67f","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Hvordan ved jeg, om jeg er deprimeret, eller om jeg bare kan m\u00e6rke de almindelige mentale konsekvenser ved en pandemi \u2013 ensomhed, tvivl p\u00e5 livets retning etc?<\/strong>"},"id":"05683af9-ef4e-4b8d-a430-05002da555ff","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det giver god mening at det tager p\u00e5 vores psykiske kr\u00e6fter at gennemleve de forskellige konsekvenser af corona. Man er ikke deprimeret fordi man f\u00f8ler sig ensom eller tvivler p\u00e5 livets retning og mening osv. Tvivl og smerte er en almindelig del af livet, men som m\u00e5ske fylder mere for flere mennesker under corona.<\/p>"},"id":"55ff8420-6873-4600-b5b0-35263bfa9fdf","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis man har det rigtigt skidt eller er rigtig ked af det, skal man dog ikke tvivle med at s\u00f8ge hj\u00e6lp. Indenfor udvikling af psykiske lidelser kan man snakke om triggers eller udl\u00f8sende faktorer. Det betyder at nogle mennesker ved udviklingen af fx en depression har oplevet en stor livsomv\u00e6ltning eller andet der har presset dem. Det betyder at corona som s\u00e5dan ikke er specielt anderledes fra andre livs\u00e6ndrende h\u00e6ndelser forskellige mennesker m\u00f8der.<\/p>"},"id":"31e4d8e4-59c6-45e9-8b00-db076e27850f","isHidden":false,"type":"text"},{"content":{"text":"<p>Pas p\u00e5 med at sl\u00e5 diagnosekriterier for psykiske lidelser op p\u00e5 nettet. Det er sv\u00e6rt at vurdere sig selv, s\u00e5 ring til din l\u00e6ge og book en tid, hvis du er i tvivl om at du er ramt af en depression. Tvivl ikke med at s\u00f8ge hj\u00e6lp.<\/p>"},"id":"7bfb4b42-f264-4458-a889-8da8639f5650","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Hvad kan jeg g\u00f8re, n\u00e5r de g\u00e6ngse r\u00e5d om at se venner, g\u00e5 ture osv. ikke l\u00e6ngere r\u00e6kker?<\/strong>"},"id":"7f75b834-2f76-4645-9b49-074ace1cbbac","isHidden":false,"type":"heading"},{"content":{"text":"<p>Hvis man f\u00f8ler at ens venner ikke kan forst\u00e5 en, eller man f\u00f8ler sig ensom med sin egen skr\u00f8belighed, er der forskellige ting man kan g\u00f8re. I Danmark har vi flere chat-fora, telefonlinjer og steder man kan komme og snakke for folk der har brug for der oplever ensomhed, psykisk s\u00e5rbarhed, vold eller er selvmordstruede (GirlTalk, Ventilen, Ung p\u00e5 Linje, Livslinjen, Kvisten, Studenterr\u00e5dgivningen, Sind, Headspace osv.) Der findes ogs\u00e5 flere v\u00e6resteder eller hangoutsteder for psykisk s\u00e5rbare (Plexus, Transmogriffen, Caf\u00e9 Blom og flere).<\/p>"},"id":"4843299a-913e-4378-9c92-0c84f8e68bd2","isHidden":false,"type":"text"},{"content":{"text":"<p>Selvf\u00f8lgelig er det f\u00f8rste r\u00e5d at pr\u00f8ve at snakke om dine f\u00f8lelser selvom de kan v\u00e6re sv\u00e6re. M\u00e5ske har dig og dine venner ikke snakket om smerte eller tvivl p\u00e5 den her m\u00e5de f\u00f8r? M\u00e5ske f\u00f8les det akavet at vise s\u00e5rbarhed eller at brokke sig, n\u00e5r nu \u201dalle har det d\u00e5rligt for tiden\u201d. Giv det et skud at r\u00e6kke ud, ogs\u00e5 selvom du ikke ved pr\u00e6cis, hvad du skal sige.<\/p>"},"id":"330149dd-3a59-4079-8f2f-300e73946290","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis det er sv\u00e6rt for dig at beskrive dine f\u00f8lelser kan du pr\u00f8ve at udtrykke dig gennem et andet medie, tegn noget, skriv et digt eller find p\u00e5 en joke der indkapsler det absurde i din situation.<\/p>"},"id":"3d061a90-f5fa-4a24-a9dc-756255da1e67","isHidden":false,"type":"text"},{"content":{"text":"<p>Det kan tit v\u00e6re sv\u00e6rt for det enkelte menneske at h\u00e5ndtere sine f\u00f8lelser selv (m\u00e5ske er det ikke en gang muligt\u2026?). Derfor og af mange andre grunde kan det v\u00e6re rigtig smart at engagere sig i et f\u00e6llesskab, m\u00e5ske endda med en f\u00e6lles sag eller kamp (der er masser at k\u00e6mpe for i verden!). Pr\u00f8v at rette din f\u00f8lelse af uretf\u00e6rdighed ud mod verden i stedet for at skyde skylden p\u00e5 dig selv.<\/p>"},"id":"06d79da1-d83d-46c5-b107-5b2e8ab088a6","isHidden":false,"type":"text"},{"content":{"text":"<p>Du kan selvf\u00f8lgelig ogs\u00e5 booke en tid hos Avilius, sommetider kan det hj\u00e6lpe at have \u00e9n til at sp\u00f8rge ind, hvis det er sv\u00e6rt at s\u00e6tte ord p\u00e5 sin smerte.<\/p>"},"id":"88c54510-13d4-4709-a9bb-1ee7e8185a0d","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"<strong>Corona-isolation har v\u00e6ret rigtigt rart for mig og jeg savner egentlig ikke at h\u00e6nge ud med mine venner. Er det d\u00e5rligt?<\/strong>"},"id":"e1218a11-ee31-4379-b2b7-6118320ca1a9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det er jo ikke n\u00f8dvendigvis d\u00e5rligt. Alle mennesker har ikke de samme sociale behov. Det kan v\u00e6re du er et af de mennesker der er gode til at leve efter omst\u00e6ndighederne, s\u00e5 n\u00e5r nu man ikke m\u00e5 ses, g\u00f8r det ikke s\u00e5 meget\u2026?&nbsp;<\/p>"},"id":"782f4e72-95fe-4e1d-98d0-d2b2c7ba7032","isHidden":false,"type":"text"},{"content":{"text":"<p>I ungdoms\u00e5rene kan venskaber betyde rigtigt meget. Mange mennesker g\u00e5r fra at vende sig mod for\u00e6ldre og s\u00f8skende til at g\u00e5 til venner med problemer og tvivl. Det betyder dog ogs\u00e5 at de venskaber man har, faktisk skal v\u00e6re gode, og det er ikke altid lige let at vurdere. Hvis du ikke savner dine venner, fordi de g\u00f8r dig utilpas eller usikker, kan det v\u00e6re du skal finde dig en anden \u201dselvvalgt familie\u201d? Det kan ogs\u00e5 v\u00e6re, at det er g\u00e5et op for dig at der er noget i din vennegruppes kultur, du godt kunne t\u00e6nke dig at \u00e6ndre. Husk p\u00e5 at, hvis du selv har \u00e6ndret dig, kan det v\u00e6re dine venner ogs\u00e5 har: det er muligt fx at behandle hinanden med st\u00f8rre respekt for hinandens skr\u00f8belighed.<\/p>"},"id":"4ca53d27-161c-4497-b27f-cf5733b060f3","isHidden":false,"type":"text"},{"content":{"text":"<p>Det kan v\u00e6re rigtig sv\u00e6rt at r\u00e6kke ud. Et lille trick kan v\u00e6re at bruge sin usikkerhed som en styrke: \u201dHey jeg var faktisk lidt nerv\u00f8s, for at ringe til dig, fordi det er s\u00e5 lang tid siden vi har snakket\u201d. De fleste mennesker svarer skr\u00f8belighed med omsorg.<\/p>"},"id":"9cf1af8a-80a1-4e96-8eef-59277bc8c252","isHidden":false,"type":"text"},{"content":{"text":"<p>Og hvad s\u00e5 med det at v\u00e6re sammen med k\u00e6resten 24\/7? Husk p\u00e5 at man sagtens kan blive tr\u00e6t af folk man elsker og at det er okay at \u00f8nske sig alene-tid.<\/p>"},"id":"868df8f0-8df9-43e7-830f-fc8a103ec3dd","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Q&A: Eskild besvarer jeres coronarelaterede spørgsmål.
+
+----
+
+Seodescription: Corona har efterladt mange af os med en lang række spørgsmål. Hvordan finder man fx ud af om man er "coronadeprimeret" eller deprimeret for alvor?
+
+----
+
+Seokeywords: corona, motivation, depression, studie
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Link: 
+
+----
+
+Category: Blog

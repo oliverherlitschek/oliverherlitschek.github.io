@@ -1,0 +1,32 @@
+title: Groups
+
+status:
+  draft: true
+  listed: true
+
+sortable: true
+
+options:
+  url: true
+  delete: false
+
+columns:
+  - width: 1/2
+    fields:
+      caption:
+        label: Cover caption
+        type: text
+        size: small
+
+      introduction:
+        label: Introduction
+        type: editor
+
+      cover:
+        label: Cover
+        type: files
+        multiple: false
+
+  - width: 1/2
+    sections:
+      groups: sections/groups

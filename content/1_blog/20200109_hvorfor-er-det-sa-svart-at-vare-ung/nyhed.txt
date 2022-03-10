@@ -1,0 +1,77 @@
+Title: Hvorfor er det så svært at være ung?
+
+----
+
+Date: 2020-01-09
+
+----
+
+Card: false
+
+----
+
+Theme: c377e5
+
+----
+
+Author: Avilius-holdet
+
+----
+
+Authorlink:
+
+- team
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- haender.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: De danske unge er den mest ulykkelige aldersgruppe i Danmark. Det tegner skidt, hvis den tid, hvor vi burde være fulde af livsenergi, mod og visioner, er den tid, hvor vi mistrives mest. Hvor er det gået galt?
+
+----
+
+Text: [{"content":{"text":"<p>Noget tyder p\u00e5, at det er blevet sv\u00e6rere at v\u00e6re ung. Et stigende antal af unge mellem 16-24 \u00e5r udviser symptomer p\u00e5 angst, stress og depression. Endnu flere af os har problemer med s\u00f8vn og ensomhed. Det kan selvf\u00f8lgelig t\u00e6nkes, at det ikke er blevet vanskeligere at v\u00e6re ung, men at der er sket en gradvis aftabuisering, som har skabt et offentligt rum for psykisk mistrivsel. Alligevel er det som om, at noget er anderledes.<\/p>"},"id":"d82eb5cc-fd66-45f1-a9c0-e4b269439a38","isHidden":false,"type":"text"},{"content":{"text":"<p>I 2018 l\u00f8d det i en artikel fra Mandag Morgen, at de danske unge er den mest ulykkelige aldersgruppe i Danmark. Det tegner skidt, hvis den tid, hvor vi burde v\u00e6re fulde af livsenergi, mod og visioner, er den tid, hvor vi mistrives mest. Hvor er det g\u00e5et galt? Vi har p\u00e5 mange m\u00e5der de bedste foruds\u00e6tninger for et godt liv, end nogen tidligere generationer har haft.<\/p>"},"id":"99dee832-cb57-48a7-8e0d-77d71fa481be","isHidden":false,"type":"text"},{"content":{"text":"<p>Teknologiske og videnskabelige fremskridt har gjort det nemmere at holde sig sund, rejse verden rundt, blive selvst\u00e6ndig, s\u00f8ge oplysning og uddanne sig. Feministiske bev\u00e6gelser har skabt rum for at v\u00e6re lige pr\u00e6cis den, som man har lyst til at v\u00e6re. Selvom vores udgangspunkt er forskelligt fra hinanden, s\u00e5 har de fleste af os muligheden for at leve det gode liv.<\/p>"},"id":"88494684-6317-4c2a-9bb9-eca83faae8b2","isHidden":false,"type":"text"},{"content":{"text":"<p>S\u00e5 hvorfor er vi ikke lykkeligere?<\/p>"},"id":"7cc93c2a-c337-4077-995a-3548ab190869","isHidden":false,"type":"text"},{"content":{"text":"\u201dDe unge er i den grad presset af hele tiden at skulle skabe deres egen identitet, deres egen s\u00e6rlighed, alt imens de hele tiden f\u00f8ler sig forkerte og utilstr\u00e6kkelige. Og det er d\u00e9r, s\u00e5rbarheden bliver langt mere udbredt og n\u00e6rmest et indbygget vilk\u00e5r i ungdomslivet.\u201d","citation":"Noemi Katznelson, Daglig leder af Center for Ungdomsforskning p\u00e5 \u00c5rhus Universitet"},"id":"c522ec9d-289f-40ed-a6e6-8e2c671e4c50","isHidden":false,"type":"quote"},{"content":{"text":"<p>Katznelson snakker om en s\u00e5rbarhed i ungdomslivet som et vilk\u00e5r, hvilket n\u00e6sten f\u00e5r det til at lyde som en periode, det g\u00e6lder om at overleve og komme ud af hurtigst muligt. Skal det virkelig v\u00e6re s\u00e5dan? I samme artikel st\u00e5r det skrevet, at vi helt grundl\u00e6ggende mangler viden om, hvad der ligger bag de st\u00f8t dalende trivselsm\u00e5linger blandt unge. Vi kan ofte l\u00e6se os til, at sociale medier, pr\u00e6stationskultur og karakterr\u00e6s s\u00e6tter unges selvv\u00e6rd under pres. Det er uden tvivl nogle strukturelle rammer, der kan g\u00f8re det sv\u00e6rt at v\u00e6re ung, men sociale medier er ikke i sig selv skadende; det er konkurrence eller forventninger heller ikke. Det bliver f\u00f8rst farligt, n\u00e5r vi begynder at bruge dem som m\u00e5lestok for, hvor meget vi er v\u00e6rd. Hvis vi binder vores succes og identitet op p\u00e5 eksterne kriterier, som gode karakterer, sk\u00f8nhed eller karriere, s\u00e5 skal vi hele tiden leve med angsten for at tabe det hele p\u00e5 gulvet. Hvis vores selvv\u00e6rd og psykiske velv\u00e6re st\u00e5r og falder med, hvor dygtige og smukke vi er i sammenligning med andre, s\u00e5 er der intet at sige til, at vi ikke er lykkeligere.<\/p>"},"id":"60e935e9-a197-4807-93ea-40c91183130d","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg tror, at vi \u2013 i en tid, hvor vi kan besk\u00e6re alt det grimme fra, alle nederlagene, en tid, hvor vi s\u00e5 let kan skjule ensomheden og f\u00e5 livet til at ligne \u00e9n lang fest \u2013 har opstillet nogle uopn\u00e5elige og usunde betingelser for det at v\u00e6re menneske. Vi har accepteret en r\u00e6kke pr\u00e6misser om, at vi altid skal v\u00e6re i fremdrift, v\u00e6re i form, rejse rundt, v\u00e6re sammen med nogen, se smart ud, mv. Vi ved godt, at solen ikke altid skinner p\u00e5 os, men alligevel bilder vi os selv ind, at det ikke g\u00e6lder for andre.<\/p>"},"id":"93806460-1b5b-47d7-8276-9a68550fefa3","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi skal have nogle andre pr\u00e6misser for det gode liv, der er langt mere b\u00e6redygtige, som fx at v\u00e6re en omsorgs- og tillidsfuld person. At v\u00e6re en god ven eller k\u00e6reste. Eller v\u00e6re \u00e9n, der lytter opm\u00e6rksomt til andre. Det er egenskaber, der ikke er afh\u00e6ngige af din \u00f8vrige succes. Derimod er det egenskaber, der som regel betinger et k\u00e6rlighedsfyldt liv med mennesker som holder af dig.<\/p>"},"id":"9a19bc42-994d-4802-8de8-dbddb707014c","isHidden":false,"type":"text"},{"content":{"text":"<p>Selvom vi i et fornuftigt \u00f8jeblik kan sige til os selv, at det handler om at v\u00e6re et godt menneske og hvile i det vi har, mere end det handler om at pr\u00e6stere eller at se godt ud, s\u00e5 glemmer vi det hurtigt, n\u00e5r vi fortaber os i stiliserede Instagram-profiler. Eller n\u00e5r det f\u00f8les som om, at alle omkring os ligger i overhalingsbanen, imens vi selv st\u00e5r parkeret i vejkanten med havariblinket t\u00e6ndt.<\/p>"},"id":"495df8b5-51a4-4b27-9124-6ce3e11343a0","isHidden":false,"type":"text"},{"content":{"text":"<p>Det er ikke s\u00e5 underligt, at det er blevet sv\u00e6rere at stille sig tilfreds med at v\u00e6re gennemsnitlig, som de fleste af os nu engang er, n\u00e5r vi er en generation, der er mestre i at f\u00e5 det ordin\u00e6re til at se perfekt og eventyrligt ud. I en verden, hvor vi i mindre grad end f\u00f8r m\u00f8des fysisk, har vi l\u00e6rt at forvalte os selv strategisk i den digitale sf\u00e6re.<\/p>"},"id":"1ff6a46e-afbc-4548-b4b3-2cf2cf9e18f7","isHidden":false,"type":"text"},{"content":{"text":"<p>\u2019Strategisk selvforvaltning\u2019 er et begreb fra socialpsykologien, der betegner den tendens, at nutidens unge mennesker i m\u00f8det med samfundets krav v\u00e6lger at agere politisk og strategisk, i stedet for \u00e6rligt og autentisk. Vi veksler autenticitet for anerkendelse. Problemet er, at et vedvarende tab af autenticitet efterlader huller i sj\u00e6len, alt imens anerkendelsen hurtigt fordufter.<\/p>"},"id":"69b122b7-270b-46f1-8a2a-23b34a28a313","isHidden":false,"type":"text"},{"content":{"text":"<p>S\u00e5 for at vende tilbage til sp\u00f8rgsm\u00e5let om, hvorfor vores generation har det s\u00e5 sv\u00e6rt, s\u00e5 tror jeg, at \u00e9n af \u00e5rsagerne er, at vi har gjort det sv\u00e6rere for os selv og for hinanden at f\u00f8le sig tilstr\u00e6kkelig. At f\u00f8le man er et sted i livet, der er OK. At vi ikke halter bagefter alle andre. At vi sgu egentlig ser helt OK ud. Vi skal genvinde den autenticitet og \u00e6rlighed, som vi har givet i bytte for glansbilleder om evige sejre, aktive livsstile og vidunderlige ferier.<\/p>"},"id":"b175ff87-a780-4819-8b26-25a17dade4ab","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi kan godt l\u00e6gge en eller anden overd\u00e5dig frokost op p\u00e5 Instagram, s\u00e5 l\u00e6nge vi lige husker hinanden p\u00e5, at alle de andre dage spiser vi rugbr\u00f8d med leverpostej.<\/p>"},"id":"2117b4bf-d854-43d7-a26a-711ce0618b5f","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Hvorfor er det så svært at være ung? Af Jonas Schøsler
+
+----
+
+Seodescription: Undersøgelser viser at de unge er den ulykkeligste generation. Men billederne på Facebook viser en anden historie. Hvad skyldes uoverensstemmelsen?
+
+----
+
+Seokeywords: mistrivsel, ensomhed, angst, stress, depression, præstationskultur, selvværd, karakterræs
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 

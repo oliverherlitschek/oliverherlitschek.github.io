@@ -1,0 +1,80 @@
+Title: Hvornår glemte vi hinanden?
+
+----
+
+Date: 2020-02-29
+
+----
+
+Author: Esther Safir
+
+----
+
+Cover:
+
+- 5084a13859a4a7f96f7813eb14df3657.jpg
+
+----
+
+References: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Vi lever i et land, hvor stort set alt fungerer set udefra. Vi er privilegerede; foran os ligger en verden fuld af muligheder. Alligevel lurer ensomheden bag ethvert gadehj\u00f8rne. En ensomhed, der ikke diskriminerer og kan kaste sig i k\u00f8det p\u00e5 alle, der g\u00e5r forbi.",
+        "id": "_i0emrt366",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi g\u00e5r rundt i byen, ind i supermarkederne, stiger p\u00e5 bussen, cykler op og ned ad gaderne \u2013 og i forbifarten passerer vi flere mennesker, end vi aner. Det h\u00f8rer sj\u00e6ldenheden til, at vi rent faktisk l\u00e6gger m\u00e6rke til disse mennesker. Vi g\u00e5r fra g\u00f8rem\u00e5l til g\u00f8rem\u00e5l med fikserede \u00f8jne og tanker, som driver os hvilel\u00f8st rundt.",
+        "id": "_LlzZ3cBJa",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi kan sp\u00f8rge os selv, hvorfor vi bev\u00e6ger os fra sted til sted, uden at v\u00e6re opm\u00e6rksom p\u00e5 det sted vi befinder os, men f\u00f8r vi overhovedet har mulighed for at besvare dette sp\u00f8rgsm\u00e5l, bliver vi n\u00f8dt til at blive bevidste om vores uopm\u00e6rksomhed. Vi bliver n\u00f8dt til at l\u00e6gge m\u00e6rke til, hvorn\u00e5r vi ikke er til stede der, hvor vi er. Vi m\u00e5 fors\u00f8ge at forst\u00e5, hvorfor vores opm\u00e6rksomhed undslipper \u00f8jeblikket og n\u00e6rv\u00e6ret \u2013 og oftest er henledt til vores n\u00e6ste m\u00e5l.",
+        "id": "_grmdPPF9u",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi glemmer at stoppe op og kigge os omkring. Oftest opdager vi ikke alle de mennesker, vi m\u00f8der p\u00e5 vores vej. Et muligt svar p\u00e5, hvorfor vi s\u00e5 uopm\u00e6rksomt bev\u00e6ger os fra A til B, er at vi har glemt v\u00e6rdien af de sm\u00e5 m\u00f8der mennesker imellem. Opfattelsen af hvad der har v\u00e6rdi i hverdagen, har \u00e6ndret sig \u2013 vores fokus er ofte p\u00e5 arbejde, succes og personlig nydelse i privatsf\u00e6ren. I takt med, at vi i h\u00f8jere og h\u00f8jere grad er vores egen lykkes smed, skabes illusionen om, at vi derfor heller ikke er afh\u00e6ngige af andre \u2013 den relationelle v\u00e6rdi er faldet.",
+        "id": "_3DYo1QV0p",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi har glemt, at det er gennem m\u00f8der mellem mennesker, at vi rent faktisk ser omkring os og opdager dem, der har brug for et smil eller en lille snak. Det er her, at vi l\u00e6gger m\u00e6rke til dem, der har m\u00f8dt ensomheden, og det er ligeledes igennem de sm\u00e5 m\u00f8der, at andre opdager os og kan komme os til unds\u00e6tning med et smil p\u00e5 en sv\u00e6r dag. Det virker m\u00e5ske lidt forenklet at p\u00e5st\u00e5, at et smil til en fremmed kan redde en dag, men smilet er i virkeligheden langt mere end bare et smil. Det er en m\u00e5de, hvorigennem vi anerkender hinanden og lader andre vide, at de bliver <em>set</em> af et andet menneske.",
+        "id": "_DTWSCaOfT",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "En ung mand forklarede mig engang, hvordan ensomhed kan f\u00f8les, n\u00e5r man g\u00e5r p\u00e5 gaden omringet af andre. Han sagde:",
+        "id": "_fMgF17EWl",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u201dN\u00e5r folk p\u00e5 gaden kigger op, er det som om de ikke ser mig. Eller de ser mig i en eller anden fysisk form, men de ser ikke <em>mig.</em> De ser lige igennem mig og g\u00e5r videre, som om jeg ikke eksisterer. For hvert skridt jeg tager og for hvert menneske, der passerer mig, falder jeg dybere ind i et m\u00f8rke, hvor ingen nogensinde vil finde mig. I sidste ende s\u00e6nker jeg selv blikket for at sk\u00e6rme mig mod alle de tomme blikke, jeg m\u00f8der, og idet jeg g\u00f8r det, mister jeg h\u00e5bet om nogensinde at blive set.\u201d",
+        "id": "_j77jxi4sr",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Hvorn\u00e5r glemte vi hinanden? Og hvordan kommer vi tilbage dertil, hvor de sm\u00e5 m\u00f8der mellem os bliver vigtigere end at skynde sig videre fra sted til sted? De flestes hverdag er skruet sammen p\u00e5 en m\u00e5de, s\u00e5 vi kan udnytte alle d\u00f8gnets 24 timer \u2013 man skulle jo n\u00f8dig risikere, at man spildte tiden. M\u00e5ske b\u00f8r vi tale lidt mere om, hvad det egentlig vil sige at spilde tiden, for vi l\u00f8ber ofte s\u00e5 hurtigt, at vi lader os overbevise om, at alle ved, hvad de l\u00f8ber efter. Alligevel er det som om m\u00e5lstregen aldrig bliver n\u00e5et. Livets uendelige r\u00e6s virker pludseligt meningsl\u00f8st, hvis man ikke stopper op og t\u00e6nker over, hvorfor vi r\u00e6ser, som vi g\u00f8r. Vi er s\u00e5 optaget af at n\u00e5 m\u00e5lstregen, at vi glemmer vigtigheden af m\u00e5den, hvorp\u00e5 vi n\u00e5r dertil. Vi b\u00f8r sp\u00f8rge os selv om r\u00e6set i virkeligheden ikke f\u00f8les lidt mindre ensomt, hvis vi regulerer farten, s\u00e5 vi kan l\u00f8be med dem omkring os? Sammen bliver det lettere at tr\u00e6kke ensomheden ud fra dens gemmesteder, se den i \u00f8jnene og sige: \u201dDu er ikke alene.\u201d",
+        "id": "_JHVcZ6UR4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Lad os fors\u00f8ge at stoppe lidt mere op, v\u00e6re mere til stede og pr\u00f8ve at opdage bare nogle af de mennesker, vi m\u00f8der p\u00e5 vores vej. Den ene dag er det dig, der giver et andet menneske et varmt smil. Den anden dag er det dig, der har brug for det. Vi kan hurtigt fortabe os i livets r\u00e6s, men lad os fors\u00f8ge s\u00e5 godt som muligt at huske hinanden en lille smule mere.",
+        "id": "_KMBhyxKXU",
+        "type": "paragraph"
+    }
+]

@@ -1,0 +1,80 @@
+Title: Kan man føle sig ensom selvom man har 523 venner på Facebook?
+
+----
+
+Date: 2020-02-29
+
+----
+
+Card: false
+
+----
+
+Theme: f0f1b4
+
+----
+
+Author: Anna-Regitze Vejby Voss
+
+----
+
+Authorlink: 
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  87492372_1072648676442648_6646541983110135808_n.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: ”Jeg har de allerbedste venner. Jeg er glad for mit studie. Jeg elsker min familie. Jeg har et ret fedt job. Meeeeen jeg har alligevel en følelse af at være ensom, når jeg fredag aften ligger på sofaen og ser grineren stories fra hvad alle laver.”
+
+----
+
+Text: [{"content":{"text":"<p>At sl\u00e5 op med sin k\u00e6reste, at flytte til en anden by, at miste en vigtig person i sit liv eller at skulle v\u00e6re alene p\u00e5 Valentines Day er alle ting, der kan fremkalde en f\u00f8lelse af ensomhed.<\/p>"},"id":"8fafcacb-0ee5-4466-9a20-b1898d760bdf","isHidden":false,"type":"text"},{"content":{"text":"<p>At have f\u00f8lelsen af \"at man h\u00f8rer til\" er universelt for os mennesker. Vi kan derfor reagere psykisk og fysisk p\u00e5 at f\u00f8le os uden for et f\u00e6llesskab. Ensomhed er ikke n\u00f8dvendigvis frav\u00e6ret af samv\u00e6r. Man kan f\u00f8le sig ensom, selvom man er omgivet af mennesker, hvis man ikke oplever et gensidigt n\u00e6rv\u00e6r. Man kan ogs\u00e5 sagtens v\u00e6re alene uden at f\u00f8le sig ensom. Ensomhed er alts\u00e5 en subjektiv f\u00f8lelse.<\/p>"},"id":"07da680a-99c8-4995-9cd8-b15063760fab","isHidden":false,"type":"text"},{"content":{"text":"<p>Behovet for at v\u00e6re social varierer fra person til person. Vi kender m\u00e5ske en person som har en eller to gode venner og trives. M\u00e5ske kender vi ogs\u00e5 en person, der har brug for at v\u00e6re en del af en st\u00f8rre gruppe og konstant skal v\u00e6re omringet at mennesker for at f\u00e5 behovet opfyldt. Universelt er det dog, at vi har brug for relationer til at opfylde vores sociale behov.<\/p>"},"id":"92aef6e8-a5e4-401b-ad35-834c55bf7f4a","isHidden":false,"type":"text"},{"content":{"text":"<p>Ungdommen har det sv\u00e6rere og f\u00f8ler sig mere ensomme end nogensinde f\u00f8r. P\u00e5 Facebook f\u00e5r vi flere og flere venner. P\u00e5 Instagram f\u00f8lger vi flere og flere personer - hvordan h\u00e6nger det lige sammen?<\/p>"},"id":"311535d1-3222-429f-a5af-871f53f60fbc","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvordan vi forst\u00e5r de sociale arenaer, er grundl\u00e6ggende og essentielt for vores forst\u00e5else af gode og sunde relationer. Det kan v\u00e6re sv\u00e6rt at skelne mellem dem, man f\u00f8lger p\u00e5 sociale medier, ens bekendte, facebookvennerne og de t\u00e6ttere relationer i \u00e5r 2020, hvor alt er flydende og udefinerbart.<\/p>"},"id":"6c1109ec-bba3-41e9-8bbf-71fa7f377314","isHidden":false,"type":"text"},{"content":{"text":"\u201dJeg har de allerbedste venner. Jeg er glad for mit studie. Jeg elsker min familie. Jeg har et ret fedt job. Meeeeen, jeg har alligevel en f\u00f8lelse af at v\u00e6re ensom, n\u00e5r jeg fredag aften ligger p\u00e5 sofaen og ser grineren stories fra hvad alle laver.\u201d<br><br>\u2014 Veninde, 22","citation":""},"id":"163fc735-1689-4773-a64f-a4da856d1e55","isHidden":false,"type":"quote"},{"content":{"level":"h2","text":"R\u00e5d"},"id":"5a2819f5-3e19-4d7b-a0ae-b6199f2b1789","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"V\u00e6r opm\u00e6rksom p\u00e5 din sociale medievirkelighed"},"id":"7ff4b5df-10b7-473f-a054-d1af3de96765","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det kan v\u00e6re vigtigt at begr\u00e6nse ens verden p\u00e5 sociale medier. Ofte f\u00f8lger vi en masse profiler p\u00e5 Instagram, som vi ikke kender personligt. Har du nogen id\u00e9 om, hvem du f\u00f8lger og hvad det g\u00f8r ved dig?<\/p>"},"id":"d3bdf83e-34c6-4cbe-8ebe-2f6a81a10272","isHidden":false,"type":"text"},{"content":{"text":"<p>I stedet for at <em>f\u00f8lge<\/em> 100 mennesker, kan det v\u00e6re en id\u00e9 at f\u00f8lge f\u00e6rre profiler og i stedet f\u00f8lge nogle, som tilf\u00f8jer v\u00e6rdi i dit liv. Det vil hj\u00e6lpe dig til at fokusere p\u00e5 de relationer og personer, der er betydningsfulde for dig.<\/p>"},"id":"2c066e04-8fdb-49b2-a841-6fa7b7b50129","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Tal om ensomheden"},"id":"29cdf2a8-0383-4bde-8fe4-7e81f38bec24","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ensomhed er en naturlig f\u00f8lelse, men hos mange bliver det en farlig st\u00f8rrelse, fordi vi ikke t\u00f8r snakke om det. Sig ordene h\u00f8jt og helst til andre mennesker. De regionale sundhedsprofiler viser at 10-12 % af unge mellem 16-29 \u00e5r ofte eller altid f\u00f8ler sig ensomme. Det tal kan vi modvirke ved f\u00f8rst og fremmest at s\u00e6tte ord p\u00e5 det. Husk: Du er ikke alene!<\/p>"},"id":"a99a54e3-b2ef-48de-b95e-7924df864e54","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Vi er hinandens verden"},"id":"6931fd21-ebe6-405b-a392-032a90bf8796","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vi b\u00e6rer hinandens liv mellem fingrene, og vi bliver n\u00f8dt til at tage ansvar for dem, vi omg\u00e5s med. Husk at sp\u00f8rge ind til dine venners velbefindende. Mentalt velbefindende er mindst liges\u00e5 vigtigt som det fysiske, vi kan bare godt glemme det engang imellem, fordi vi ikke altid kan se de psykiske symptomer.<\/p>"},"id":"74d9edf5-e8ea-4c3a-a5d1-7eca583d4d56","isHidden":false,"type":"text"},{"content":{"text":"<p>Kan man f\u00f8le sig ensom selvom man har 523 venner p\u00e5 Facebook? Svaret er et klart, tydeligt og rungende ja. Ensomhed er en subjektiv st\u00f8rrelse, men vi har alle brug for gode relationer i livet for at trives. Vi har brug for at f\u00e5 en \u00e6gte, fysisk krammer af en god ven og ikke bare et anerkendende \u201dthumbs up\u201d, n\u00e5r livet er h\u00e5rdt. Det er grundl\u00e6ggende i vores menneskelige natur og i vores fundamentale motivation at et tilh\u00f8rsforhold til andre mennesker skal finde sted.<\/p>"},"id":"281b49c3-9bc9-48c9-8737-fd2f3c983439","isHidden":false,"type":"text"},{"content":{"text":"<p>Manglen p\u00e5 t\u00e6tte relationer kan vise sig ved psykologiske problemer. Vi ser i stigende grad at flere og flere unge k\u00e6mper med angst, depression, ensomhed og k\u00e6resteproblemer. Manglen p\u00e5 et minimum af relationer kan alts\u00e5 ses som en sundhedstrussel, hvorfor kroppen rent overlevelsesagtigt reagerer, s\u00e5dan at vi m\u00e6rker ensomhedsf\u00f8lelsen. Vi kan forebygge, at disse psykologiske problemstillinger optr\u00e6der ved at tale om ensomheden, v\u00e6re opm\u00e6rksomme p\u00e5 hinanden og ikke mindst v\u00e6re opm\u00e6rksom p\u00e5, hvordan vi opfatter den sociale medievirkelighed.<\/p>"},"id":"e564520a-df32-47cd-b2d1-2795bcc6e23b","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Kan man føle sig ensom selvom man har 523 venner på Facebook? Af Anna-Reqitze Vejby Voss
+
+----
+
+Seodescription: Man kan måske få overbevist sig selv om at man ikke er ensom hvis man har et trecifret antal "venner" på Facebook. Men følelserne siger noget andet.
+
+----
+
+Seokeywords: ensomhed, fællesskab, relationer, venner, angst, depression
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 
+
+----
+
+Podcastlink: 
+
+----
+
+Talkslink: 
+
+----
+
+Content: 

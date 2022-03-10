@@ -1,0 +1,304 @@
+Title: Angst
+
+----
+
+Cover:
+
+- tamara-hansen-avilius-angst-hero.jpg
+
+----
+
+Intro: Vil du gerne blive bedre til at håndtere angst? Angst er efterhånden et udbredt fænomen, som mange unge kæmper med i hverdagen. Hos Avilius kan du lære mere om de psykologiske mekanismer bag angstens væsen, spejle dig i andre unge med lignende problematikker og ikke mindst få en hel masse værktøjer til at lære at håndtere den ængstelighed, du oplever.
+
+----
+
+Portrait:
+
+- tamara-hansen-avilius-angst-hero.jpg
+
+----
+
+Length: 6 uger + gratis forsamtale
+
+----
+
+Price: Per gang: 333
+
+----
+
+Email: tamara@avilius.dk
+
+----
+
+Conditions: 2.000,- i alt. Betales på én gang eller over flere omgange.
+
+----
+
+Description: Oplever du angst i hverdagen, og kunne du tænke dig at lære at håndtere den? I vores trygge rammer vil du sammen med andre unge, der kæmper med problematikker som tankemylder, uro og grublerier, arbejde struktureret med angstens mekanismer og tilegne dig en bred vifte af redskaber til at håndtere netop din ængstelighed.
+
+----
+
+Foryou:
+
+- 
+  if: oplever angst i hverdagen
+- 
+  if: vil lære at overvinde angsttanker
+- 
+  if: har lyst til at vide mere om dig selv
+- 
+  if: oplever præstationsangst
+- 
+  if: >
+    har brug for værktøjer til at
+    håndtere ængstelighed
+- 
+  if: vil klædes bedre på til tilbagefald
+
+----
+
+Therapistcover:
+
+- tamara-hansen-avilius-angst-profil.jpg
+
+----
+
+Therapist: Tamara og Eskild
+
+----
+
+Therapistintro:
+
+Vi hedder Tamara og Eskild, og sideløbende med vores uddannelse til at blive psykologer arbejder vi som samtalepartnere og gruppeledere i Avilius. Vi har begge professionel erfaring med behandling af angst fra blandt andet psykiatrien og Angstforeningen, og vi har begge personlige erfaringer med angst. Lysten til at lave dette forløb udsprang blandt andet af vores oplevelse af, hvor meget det kan hjælpe at arbejde med håndgribelige værktøjer til angst – herunder særligt i en gruppesammenhæng, hvor man kan støtte og lytte til hinanden. 
+Derudover synes vi, det er frustrerende, at det skal være så svært for unge mennesker at få hjælp til mild eller moderat angst og ubehag, før det virkelig brænder på. Vi ville gerne skabe en mere tilgængelig mulighed for at forebygge og afhjælpe angst hos unge, samt forsøge at aftabuisere fænomenet og reducere den skam, mange kan føle omkring deres angst.
+(link: https://avilius.dk/team/tamara-hansen text: Mød Tamara)  (link: https://avilius.dk/team/eskild-bibow text: Mød Eskild)
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Det fungerede super godt det at være i
+    en gruppe, fremfor individuel terapi.
+    Det gjorde, at man havde nogle at spejle
+    sig i, og man følte sig derfor ikke
+    alene og mærkelig med sin angst.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/angst text: Angst)'
+- 
+  quote: >
+    Der så lettende, at forløbet er enormt
+    billigt sammenlignet med praktiserende
+    private psykologer, og hvor konstruktivt
+    og meningsfuldt forløbet samtidig er.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/angst text: Angst)'
+- 
+  quote: >
+    Det var en skøn og lærerig oplevelse,
+    som har givet mig nye værktøjer og
+    perspektiver til at forstå og håndtere
+    min angst.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/angst text: Angst)'
+- 
+  quote: >
+    Jeg oplevede at føle mig hørt og
+    grebet i den måde min angst kommer til
+    udtryk på, samt få udvidet min
+    horisont gennem de andre
+    gruppemedlemmers oplevelser med angst.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/angst text: Angst)'
+- 
+  quote: >
+    Jeg oplevede at blive opmærksom på
+    mine destruktive tanker, usunde
+    handlingmønstre og at forstå teorien
+    bag min angst.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/angst text: Angst)'
+
+----
+
+Dates:
+
+- 
+  introdate: 22. februar
+  introtime: 16 — 18
+  remainingdates: |
+    22. februar kl. 16 — 18
+    1. marts kl. 16 — 18
+    8. marts kl. 16 — 18
+    15. marts kl. 16 — 18
+    22. marts kl. 16 — 18
+    1. april kl. 16 — 18
+
+----
+
+Spots: Ledige pladser
+
+----
+
+Programdescription:
+
+Hos Avilius har vi lavet et gruppeforløb, hvor du som ung kan lære om og arbejde med din angst. I gruppen vil du møde andre unge, der kæmper med lignende problematikker, og du vil blive udstyret med en bred vifte af konkrete værktøjer baseret på kognitiv adfærdsterapi, som også er den metode, der typisk anvendes i psykiatrisk behandling af angstlidelser.
+
+Forløbet er bygget op som gruppesessioner, hvor du hver uge bliver introduceret for nye temaer og arbejdsmetoder, og hvor du vil få mulighed for at arbejde analyserende med problematikkerne og spejle dig i de øvrige gruppemedlemmers oplevelser.
+
+Gruppen løber over seks uger med sessioner af to timers varighed og ledes af vores dygtige samtalepartnere, der er under uddannelse til at blive psykologer.
+
+OBS. Gruppeforløbet skal ses som hjælp til selvhjælp på eget ansvar. Forløbet er ikke ment som erstatning for egentlig psykiatrisk behandling. Hvis du lider af moderat til svær angst, så kontakt først din egen læge. Forløbet kan dog være et fint supplement til dig, der venter på eller allerede går i anden angstrelateret behandling.
+
+----
+
+Program:
+
+- 
+  number: "1"
+  headline: Hvad er angst?
+  description: |
+    Angst er en kompleks størrelse, der kan referere til et bredt spektrum af tilstande og oplevelser – lige fra et abstrakt filosofisk begreb og eksistentielt grundvilkår over psykiatriske diagnosebetegnelser til en kropslig fornemmelse i en konkret situation.
+    
+    Frygt, angst og ubehag er i stigende grad til stede i unges hverdag, men det kan være svært at indfange dens væsen og spotte, hvor den sniger sig ind - og ikke mindst hvordan vi kan håndtere den. Vores håb er, at du som en del af angstgruppen vil lære dig selv og angstens væsen bedre at kende, og at du vil gå herfra med en rygsæk af psykologiske indsigter og værktøjer, som du kan bruge fremadrettet, idet du samtidig får mulighed for at spejle dig i andre unge.
+- 
+  number: "2"
+  headline: Hvem er du?
+  description: 'Du er ung, mellem 16 og 30 år og oplever angst i hverdagen: måske relateret til særlige situationer såsom eksamens- og præstationssituationer, sociale situationer eller i andre sammenhænge, eller måske som grublerier, tankemylder eller kropslig uro. Din angst er mild til moderat, og du vil gerne arbejde med at reducere dens indvirkning på dit liv og forebygge, at den bliver forværret. Samtidig har du lyst til at være en del af en støttende gruppe med andre unge, der står over for lignende problematikker. Du er nysgerrig på, hvordan man kan forstå angst fra et psykologisk perspektiv, samt på hvilke værktøjer, der har vist sig effektive til behandling og reduktion af angstproblematikker.'
+- 
+  number: "3"
+  headline: Hvem er vi?
+  description: 'Avilius er en ung organisation skabt og udgjort af psykologistuderende under uddannelse. Vi er (link: https://www.avilius.dk/team/ text: et team) af kommende kliniske psykologer, der varetager gruppeforløb og individuelle forløb med unge med subkliniske problematikker til en SU-venlig pris. Vores mission er at hjælpe unge med at opnå psykisk velvære, før problemerne udvikler sig til det punkt, hvor der skal psykiatrisk behandling til. Kort sagt er vores mission at hjælpe den voksende gruppe af unge, der (endnu) ikke har det så dårligt, at systemet vil træde til med statsstøttet psykiatrisk behandling, men som heller ikke har råd til at betale for en privatpraktiserende psykolog.'
+- 
+  number: "4"
+  headline: Trygge rammer
+  description: |
+    Gruppen mødes i Avilius’ lokaler på Vesterbrogade, hvor vi sidder i en rundkreds i vores rummelige stue/lounge. Alle gruppemedlemmer starter samtidig, og det er de samme mennesker, du vil mødes med alle seks gange. Det er altid frivilligt, hvor meget man vil sige i gruppen, og vi forsøger at skabe et trygt rum, hvor der er plads til alle – også til, at man kan have en dårlig dag eller have angsten med. Sessionerne tager form af skiftevis oplæg og eksempler fra gruppelederne, refleksioner og eksempler fra gruppedeltagerne samt øvelser i plenum.
+    
+    Der vil være vand og eventuelt nogle snacks, og vi holder en kort pause cirka midt i sessionen. Hver gang får du en eller flere øvelser med hjem, så du kan prøve kræfter med de forskellige metoder til angsthåndtering imellem vores møder.
+- 
+  number: "5"
+  headline: Praktisk information
+  description: |
+    En gruppe består af mellem 5–10 deltagere såvel som en eller to gruppeledere. Gruppen foregår som gruppesessioner af 2 timers varighed fra kl. 16-18 hver tirsdag over 6 uger. Det er således et kort, intensivt forløb på 12 timer i alt. Derudover vil du have en individuel gruppeforberedende samtale à ca. 30 minutter med en af gruppelederne – enten på Vesterbrogade eller telefonisk. Den indledende samtale er gratis og uforpligtende.
+    
+    Prisen for hele forløbet er 2000 kr. svarende til 167 kr. i timen.
+    
+    Til sammenligning koster individuelle samtaler i Avilius 299 kr. pr. session, mens en autoriseret psykolog koster gennemsnitligt 1100 kr. pr. session.
+    
+    Beløbet betales via MobilePay, enten ved første gruppegang eller opdelt i rater.
+- 
+  number: "6"
+  headline: Hvad er næste skridt?
+  description: |
+    Hvis du er interesseret, er første skridt at skrive til os. Derefter inviterer vi dig til den uforpligtende individuelle 30-minutters samtale med en af gruppelederne, hvor du kan høre mere, og hvor vi sammen finder ud af, om gruppeforløbet er noget for dig.
+    
+    Samtalen kan enten foregå telefonisk eller på Vesterbrogade – på den måde kan du også møde os og se lokalerne. Forsamtalen er gratis og uforpligtende, og du skal ikke beslutte noget med det samme. Hvis du efterfølgende beslutter dig for, at du godt kunne tænke dig en plads i gruppen, skriver vi dig op til den første ledige gruppestart.
+
+----
+
+Info:
+
+- 
+  infoheadline: Pris
+  infoanswer: '333,- per gang'
+  infotext: ""
+- 
+  infoheadline: Uddybende spørgsmål
+  infoanswer: Svaret
+  infotext: Teksten til svaret
+
+----
+
+Seotitle: Angst – et gruppeforløb fra Avilius
+
+----
+
+Seodescription: Hos Avilius kan du lære mere om de psykologiske mekanismer bag angstens væsen, spejle dig i andre unge med lignende problematikker og ikke mindst få en hel masse værktøjer til at lære at håndtere den ængstelighed, du oplever.
+
+----
+
+Seokeywords: angst, præstationsangst, usikkerhed
+
+----
+
+Seoimage:
+
+- tamara-hansen-avilius-angst-hero.jpg
+
+----
+
+Contact: kontakt@avilius.dk
+
+----
+
+Ctaheadline: Vil du gerne blive klogere på kærligheden?
+
+----
+
+Ctatext: Skriv til Ragnhild — så får du besked, når der er plads på holdet!
+
+----
+
+Pricedescription: Det er sjældent man har 1600,- på lommen. Vi har lavet to betalingsmåder, så du kan få SU-økonomien til at række.
+
+----
+
+Tieronedescription: Betal hver gang
+
+----
+
+Tieroneprice: 250
+
+----
+
+Tieronetotal: 2.000
+
+----
+
+Tiertwodescription: Betal det hele på én gang
+
+----
+
+Tiertwoprice: 200
+
+----
+
+Tiertwototal: 1.600
+
+----
+
+Perks:
+
+- 
+  perk: Gratis introaften
+- 
+  perk: Otte ugers forløb
+
+----
+
+Announcementtext: 8 ugers forløb
+
+----
+
+Announcementprice: 200
+
+----
+
+Excerpt: Det er med psykologiens blik, at vi i gruppen undersøger livets helt store mysterie. Vi bliver blive klogere på, hvordan vi bedre kommunikerer vores behov og får dem dækket. Vi skal snakke om hjertesorg og om, hvordan den tidlige tilknytning i livet spiller ind i vores forhold som voksne og meget mere.
+
+----
+
+Portraitcaption: Forløbet ledes af (link: /team/ragnhild-mohn text: Ragnhild) og (link: /team/jonas-schosler text: Jonas).
+
+----
+
+Image: - ragnhild.png
+
+----
+
+Start: 
+
+----
+
+Firstname: Jonas
+
+----
+
+Entry: 

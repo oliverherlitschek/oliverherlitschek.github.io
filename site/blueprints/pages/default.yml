@@ -1,0 +1,18 @@
+title: Simple Page
+icon: 📝
+
+status:
+  draft: true
+  unlisted:
+    label: Hidden Page
+    text: The page is not listed in the main menu
+  listed:
+    label: Menu Page
+    text: The page is listed in the main menu
+
+fields:
+  info:
+    label: Info
+    type: info
+    text: |
+      Denne side er et catch-all for alle de pages, der IKKE er template-baserede, f.eks. /form og /thanks.

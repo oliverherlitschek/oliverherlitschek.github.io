@@ -1,0 +1,248 @@
+Title: Kærlighed og det gode parforhold
+
+----
+
+Cover:
+
+- img_4629.jpg
+
+----
+
+Intro: Parforhold kan være sikkerhed og spænding, sårbarhed og styrke. Men forhold kan også være besværlige begrænsninger, usikkerhed og dårlig samvittighed. Det kan være svært at vide, hvor man står, mens man er midt i udfordringer. Vi ønsker at give dig en bedre forståelse af hvor dig og din partner står, for der er helt sikkert mere du kan lære om dig selv, din partner og jeres relation.
+
+----
+
+Portrait:
+
+- img_4602.jpg
+
+----
+
+Length: 6 ugers forløb
+
+----
+
+Price: 1.600
+
+----
+
+Email: ragnhildmohn@avilius.dk
+
+----
+
+Conditions: 266,- per gang. Betales på én gang eller over flere omgange.
+
+----
+
+Description: Spekulerer du over, hvordan dig og din partner er endt her? Går jeres diskussioner i hårdknude, eller du sidder tilbage med en følelse af, at noget er forkert? Tvivler du på din kærlighed, din partner eller dig selv? Eller kigger du rundt og tænker "wow, andre har det bare så meget nemmere"? Så er denne her gruppe til dig.
+
+----
+
+Foryou:
+
+- 
+  if: er gået i stå i dit parforhold
+- 
+  if: >
+    føler, at parforholdet er svært at
+    holde i gang
+- 
+  if: >
+    vil lære at kommunikere dine behov til
+    din partner
+- 
+  if: >
+    er i et dejligt – men svært –
+    forhold
+
+----
+
+Therapistcover:
+
+- img_4629.jpg
+
+----
+
+Therapist: Ragnhild og Eskild
+
+----
+
+Therapistintro:
+
+Vi bliver konstant eksponeret for de parforholdsnormer, der er på spil i vores kultur: At 20erne er til for at have det sjovt. At tvivlen betyder, at det nok ikke skal være nu. At tanker om og følelser for andre betyder, at den hel er gal. Kliché nok tænker vi også selv, at fx. instagram bidrager til dette rosenrøde billede af, hvordan parforholdet “burde” se ud. Dette skaber uro og manglende evne til at hvile i den proces, man er i. 
+Vi ville ikke være der hvor vi er i dag, hvis det ikke var for de parforhold, vi hver især har været igennem. De har fungeret som en accelerator for personlig udvikling, og medvirket til både intens glæde, angst og sorg – og samtidig masser af hverdag og kedsomhed. Dette bliver ved at fascinere os, og derfor vi vil gerne blive klogere på kærligheden!
+(link: https://avilius.dk/team/ragnhild-mohn text: Mød Ragnhild) eller (link: https://avilius.dk/team/eskild-bibow text: læs mere om Eskild)
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Forløbet har hjulpet mig til til at
+    finde ro og en større forståelse for
+    mine egne og andre menneskers
+    reaktionsmønstre. Tak for det.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/karlighed text: Kærlighed)'
+- 
+  quote: >
+    Fedt initiativ og emne, og fedt at I er
+    på samme alder som mig.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/karlighed text: Kærlighed)'
+
+----
+
+Dates: 
+
+----
+
+Spots: Ledige pladser
+
+----
+
+Programdescription: Gennem 6 temasessioner arbejder vi med forskellige metoder, værktøjer og perspektiver. Dvs. der ikke bare bliver lagt én, men mange forskellige nye vinkler på dit forhold. Gennem forløbet kigger vi fx på, hvilken måde man har lært kærligheden at kende, hvordan vi alle er underlagt et samfundsmæssigt pres til at dyrke kærlighed på bestemte (somme tider begrænsende) måder, hvorledes man sætter og respekterer hinandens grænser og hvordan man vokser sammen gennem svære emner.
+
+----
+
+Program:
+
+- 
+  number: "1"
+  headline: Tilknytningsmønstre
+  description: |
+    Til første møde åbner vi snakken om vores egne psykiske mønstre, vores strategier til at modtage og give kærlighed samt vores metoder til at forholde os til det magtspil der foregår i et forhold.
+    Vi snakker om, hvordan vores tidlige erfaring med kærlighed spiller ind i vores nuværende forhold. Hvordan tolker vi verden omkring os samt vores reaktioner på denne? Vi øver os på at se forbi vores indøvede fortolkninger af, hvad vores partner gør.
+- 
+  number: "2"
+  headline: Kommunikation og den svære samtale
+  description: |
+    Hvorfor tage den svære snak med sin partner? Hvor ærlig skal man være, og hvordan får man kommunikeret noget man knapt nok selv er klar over?
+    I denne session snakker vi om, hvorfor konflikter opstår i en kærlighedsrelation og hvordan vi bruger dem til at få bedre forhold.
+    Sessionen går ud fra den præmis, at man lærer meget om sig selv og sit forhold i konflikter, men også at der er meget på spil. Vi skal øve os på at se bagvedliggende mønstre i konflikter. Forsøge at pinpointe, hvorfor og hvornår en diskussion eller snak brænder sammen og træne kommunikation der skaber omsorg og forståelse, frem for forsvar og usikkerhed.
+- 
+  number: "3"
+  headline: Parforholdskonstruktioner
+  description: |
+    Hvordan placerer vores forhold sig ift. et normativt forhold? Hvordan ønsker vi at vores forhold skal se ud og hvordan ser et godt forhold ud? Hvordan finder man en balance mellem overgivelse og selvstændighed og hvordan relaterer dette sig til vores seksuelle begær?
+    Vi placerer parforholdet i historisk- og samfundsmæssig kontekst og prøver at tale frem, hvad dette gør ved vores forhold. Vi snakker om hvilke behov der løses af parforholdet og stiller skarpt på tryghed og frihed.
+- 
+  number: "4"
+  headline: Ængstelighed i kærligheden
+  description: |
+    Kan man fortælle sin største frygt til sin partner? Er det overhovedet muligt at spørge sig selv de svære spørgsmål: hvis jeg er i tvivl, hvad betyder det så? Hvad er grænserne for vores egen og vores partners kærlighed? Tester jeg min partner eller tester min partner mig?
+    Der er altid tvivl, frygt og angst relateret til et forhold. Vi arbejder med at tydeliggøre vores frygt og vores usagte behov.
+    Vi snakker om forsvarsmekanismer, tidligere parforholdstraumer og forskellige ængstelige situationer der er relateret til at have et parforhold i sin ungdom fx: angsten for at miste sig selv, at sørge over det tabte singleliv, angsten for at vælge forkert og selvfølgelig angsten for at blive forladt.
+- 
+  number: "5"
+  headline: Jalousi og traumer 💔
+  description: 'Vi kender den. Monsteret og følelsen over dem alle: jalousien. I denne session arbejder vi med at adskille jalousi som en naturlig følelse fra skinsyge eller overdreven jalousi. Vi arbejder på at muliggøre en fælles front mod jalousien, så man forsøger at lette presset fra den enkeltes skuldre. Samtidigt arbejder vi med det komplekse bag jalousien, som den enkeltes usikkerhed. Hvordan holder man hovedet oppe, hvor langt vil man gå for hinanden og hvordan undgår man at jalousien bliver en evig klods om foden. Det kræver velvillighed fra alle parter i et forhold.'
+- 
+  number: "6"
+  headline: Afslutning, drømme og håb
+  description: >
+    Vi afslutter med et fokus på, hvor vi
+    står nu i forhold til begyndelsen af
+    forløbet. Vi snakker om de metoder og
+    værktøjer vi har lært gennem
+    forløbet. Hvad er vores drømme og håb
+    for vores forhold? Hvordan har vi tænkt
+    os at efterleve de ting vi har lært?
+
+----
+
+Seotitle: Ondt i hjertet eller bare sommerfugle i maven?
+
+----
+
+Seodescription: Nyt gruppeforløb fra Avilius om livets helt store mysterie – parforholdet. Sammen udforsker vi, hvordan vi kan blive bedre til at kommunikere vores behov.
+
+----
+
+Seokeywords: behov, hjertesorg, tilknytning, forhold, parterapi, parforhold, kæreste terapi, parforholdsproblemer
+
+----
+
+Seoimage:
+
+- img_4602.jpg
+
+----
+
+Contact: kontakt@avilius.dk
+
+----
+
+Ctaheadline: Vil du gerne blive klogere på kærligheden?
+
+----
+
+Ctatext: Skriv til Ragnhild — så får du besked, når der er plads på holdet!
+
+----
+
+Pricedescription: Det er sjældent man har 1600,- på lommen. Vi har lavet to betalingsmåder, så du kan få SU-økonomien til at række.
+
+----
+
+Tieronedescription: Betal hver gang
+
+----
+
+Tieroneprice: 250
+
+----
+
+Tieronetotal: 2.000
+
+----
+
+Tiertwodescription: Betal det hele på én gang
+
+----
+
+Tiertwoprice: 200
+
+----
+
+Tiertwototal: 1.600
+
+----
+
+Perks:
+
+- 
+  perk: Gratis introaften
+- 
+  perk: Otte ugers forløb
+
+----
+
+Announcementtext: 8 ugers forløb
+
+----
+
+Announcementprice: 200
+
+----
+
+Excerpt: Det er med psykologiens blik, at vi i gruppen undersøger livets helt store mysterie. Vi bliver blive klogere på, hvordan vi bedre kommunikerer vores behov og får dem dækket. Vi skal snakke om hjertesorg og om, hvordan den tidlige tilknytning i livet spiller ind i vores forhold som voksne og meget mere.
+
+----
+
+Portraitcaption: Forløbet ledes af (link: /team/ragnhild-mohn text: Ragnhild) og (link: /team/jonas-schosler text: Jonas).
+
+----
+
+Image: - ragnhild.png
+
+----
+
+Start: 
+
+----
+
+Firstname: Jonas
+
+----
+
+Entry: 

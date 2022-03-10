@@ -1,0 +1,74 @@
+Title: Derfor påvirker sociale medier din trivsel
+
+----
+
+Date: 2020-08-08
+
+----
+
+Card: true
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Tamara Hveisel Hansen
+
+----
+
+Authorlink:
+
+- team/tamara-hansen
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- sociale-medier-trivsel-avilius.jpg
+
+----
+
+References:
+
+- 
+  name: 'Ny undersøgelse: flere unge mistrives'
+  url: >
+    https://psykinfo.regionsyddanmark.dk/wm507855
+
+----
+
+Introduction: Sociale medier skader vores selvtillid og selvværd. Find ud af hvorfor, og lær hvordan du kan få det bedre med dig selv.
+
+----
+
+Text: [{"content":{"text":"<p>Du kender det m\u00e5ske. Den synkende fornemmelse i maven, n\u00e5r du scroller ned ad dit Instagram-feed og ser det ene misundelsesv\u00e6rdige liv efter det andet passere forbi. Den n\u00e6sten uh\u00f8rlige stemme i baghovedet, der hvisker om, hvor kedeligt eller indholdsl\u00f8st dit liv er, og hvor uperfekt din krop og din garderobe ser ud. Den fort\u00e6ller dig, at du aldrig vil blive s\u00e5 interessant, smuk, original, opfindsom eller misundelsesv\u00e6rdig som dem. Du l\u00e6gger telefonen fra dig med et ekstra kn\u00e6k p\u00e5 dit selvv\u00e6rd og med nyt br\u00e6nde til dit indre selvhadsb\u00e5l. Om du bem\u00e6rker det eller ej.<\/p>"},"id":"73cb3c4e-0684-4b74-abd9-7e65670f3521","isHidden":false,"type":"text"},{"content":{"text":"<p>En unders\u00f8gelse fra Syddansk universitet viser, at 36% af unge kvinder mistrives i 2020, mens tallet var 19% i 2019 \u2013 det svarer til en fordobling p\u00e5 \u00e9t enkelt \u00e5r. Eksperterne peger p\u00e5, at det s\u00e6rligt er de unge, som bruger meget tid p\u00e5 sociale medier, som har det laveste selvv\u00e6rd. Men hvad er det helt pr\u00e6cist ved de sociale medier, der t\u00e6rer s\u00e5dan p\u00e5 vores trivsel og selvv\u00e6rd? Og hvad kan vi selv g\u00f8re for at mindske deres negative virkning?<\/p>"},"id":"30142020-6efa-4dcd-a123-6c3f55690c36","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Din hjerne tror p\u00e5 det, den ser\u2026<\/strong><\/p>"},"id":"34c59897-8d45-430b-baeb-ac6f346be5e1","isHidden":false,"type":"text"},{"content":{"text":"<p>Vi ved fra psykologien, at vi mennesker l\u00e6rer p\u00e5 et helt grundl\u00e6ggende niveau af alt, hvad vi ser omkring os. Og det er smart nok \u2013 for har man set en tiger spise ens mor, l\u00f8ber man virkelig hurtigt, n\u00e6ste gang noget orangestribet kommer frem fra buskene. Vores hjerner er dog ikke indrettet til moderne teknologi, hvor det vi ser, ikke n\u00f8dvendigvis er det, som sker for os.<\/p>"},"id":"1176d28f-d2f8-4e71-a50c-788e5b8318fa","isHidden":false,"type":"text"},{"content":{"text":"<p>T\u00e6nk bare p\u00e5, hvor mange mennesker der lider af flyskr\u00e6k p\u00e5 trods af den forsvindende lave risiko for at d\u00f8 i et flystyrt. Det h\u00e6nger evolution\u00e6rt sammen med, at vi er indrettet til at foretage risikovurderinger baseret p\u00e5 vores faktiske observationer. Pr\u00f8v at t\u00e6nke over, hvor mange gange du har set et fly komme galt af sted p\u00e5 fjernsynet sammenlignet med, hvor mange fly, du har set lande sikkert p\u00e5 jorden.<\/p>"},"id":"dafadab9-4c09-4bc4-847d-dde5c8cde619","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis dine faktiske observationer reflekterede virkeligheden, ville noget i retning af 10-50% af fly jo styrte! Det medf\u00f8rer for mange en underbevidst og intuitiv fornemmelse af, at det er farligt at flyve, selvom vi kender de egentlige statistikker.<\/p>"},"id":"57c8d549-0adb-4d86-9a47-194980cfcfe7","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>\u2026og derfor f\u00e5r du d\u00e5rligere selvv\u00e6rd af sociale medier<\/strong><\/p>"},"id":"a09eb0dd-2a64-407d-b346-c5650b59f2f6","isHidden":false,"type":"text"},{"content":{"text":"<p>I disse SoMe-tider er vores feeds, stories og indbakker tilplastret med alle de bedste vinkler, h\u00e5rdage, pr\u00e6stationer og \u00f8jeblikke. Og s\u00e5 er der ovenik\u00f8bet smidt filter p\u00e5. Langt det meste af tiden f\u00e5r vi ikke lov at se alt det, som ikke er p\u00e6nt \u2013 leverpostejsmadderne, morgenh\u00e5ret, dellerne, det punkterede d\u00e6k i regnvejret eller de h\u00f8je bunker af r\u00e5dden tang, man selvf\u00f8lgelig ikke ville have med p\u00e5 strandbillederne.<\/p>"},"id":"b0c299e2-9109-445a-9d40-ce8debd6632d","isHidden":false,"type":"text"},{"content":{"text":"<p>Jeg kan garantere dig for, at 99% af vores liv ikke er s\u00e6rlig insta-v\u00e6rdigt. Men det ved du jo nok egentlig godt. Og du ved m\u00e5ske ogs\u00e5, hvordan der ser ud bag dine egne kulisser. Alligevel f\u00f8ler rigtigt mange sig p\u00e5 et grundl\u00e6ggende niveau overbeviste om, at deres liv og pr\u00e6stationer ikke er lige s\u00e5 gode som andres.<\/p>"},"id":"cadd80bf-2ffc-4a93-9538-adbf9de5938c","isHidden":false,"type":"text"},{"content":{"text":"<p>Det skyldes i tr\u00e5d med flyskr\u00e6k-analogien, at du med de sociale medier fodrer den underbevidste del af din hjerne med beviser for, at alle andres liv er lutter lagkage. S\u00e5 n\u00e5r du sidder og scroller gennem de farverige billeder, danner din hjerne et billede af, at det er s\u00e5dan, verden rent faktisk ser ud. Og hvis det er sandt, er der kun \u00e9n konklusion: Du er ikke lige s\u00e5 god\/sp\u00e6ndende\/original\/interessant\/smuk som alle de andre.<\/p>"},"id":"41c4bb2a-fe3a-45d2-8979-f66f1499e6f3","isHidden":false,"type":"text"},{"content":{"text":"<p>L\u00e6s mere om selvv\u00e6rd og hvordan du kan forbedre det i denne <a href=\"https:\/\/avilius.dk\/blog\/selvvard-livets-rodder\">artikel<\/a>.<\/p>"},"id":"cd55e1b7-fca2-455e-a978-bb1213b1c98d","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"F\u00e5 bedre selvv\u00e6rd ved at skrue ned for sk\u00e6rmtiden"},"id":"a93724d9-c7cf-49df-9be4-4c26fed5ad64","isHidden":false,"type":"heading"},{"content":{"text":"<p>Vi kan ikke tvinge vores hjerner til at fungere mere rationelt, men vi kan lade v\u00e6re med at h\u00e6lde br\u00e6nde p\u00e5 b\u00e5let. Derfor er den ultimativt mest effektive metode til at forbedre d\u00e5rligt selvv\u00e6rd for\u00e5rsaget af sociale medier simpelthen at reducere den tid, vi bruger p\u00e5 at f\u00f8lge med i andres liv online. Det kan du for eksempel g\u00f8re ved:<\/p>"},"id":"f1e66b53-620d-49cc-9b89-14e4b329480b","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>1. At s\u00e6tte en tidsgr\u00e6nse p\u00e5 dine SoMe-apps.<\/strong><\/p>"},"id":"4665714b-23ad-4f8b-8c96-bfb485448d20","isHidden":false,"type":"text"},{"content":{"text":"<p>Det kan g\u00f8res under sk\u00e6rmstidsindstillingerne p\u00e5 smartphones, eller man kan installere et plugin til at g\u00f8re det p\u00e5 computeren. N\u00e5r du v\u00e6lger en tidsgr\u00e6nse, f\u00e5r du en notifikation, n\u00e5r tiden er g\u00e5et \u2013 men bare rolig, du kan sagtens v\u00e6lge at ignorere gr\u00e6nsen, hvis du var lige midt i noget.<\/p>"},"id":"d2dde061-ed9d-49bc-976e-e53be25c626d","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>2. At reducere antallet af sociale medier, du bruger.<\/strong><\/p>"},"id":"e491a886-062d-4e7b-9459-1aec16c64128","isHidden":false,"type":"text"},{"content":{"text":"<p>For eksempel ved helt at slette de medier, du synes er d\u00e5rligst eller mindst vigtige for dig, eller ved at undg\u00e5 \u00e9n app eller hjemmeside om dagen.<\/p>"},"id":"fd5de139-35e4-4c6b-96b3-af66a5764497","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>3. At skemal\u00e6gge SoMe-tiden.<\/strong><\/p>"},"id":"cfd4c28b-843f-4e1f-8257-a5586642224f","isHidden":false,"type":"text"},{"content":{"text":"<p>Pr\u00f8v at lave for\u00e6ldre-tricket p\u00e5 dig selv, og for eksempel fasts\u00e6tte en regel om, at du kun m\u00e5 bruge Snapchat, Facebook, Instagram, TikTok eller andre medier i bestemte tidsintervaller \u2013 eller at du omvendt ikke m\u00e5 bruge dem i bestemte tidsintervaller.<\/p>"},"id":"7a8107a2-d86e-4a78-9884-27906caeb167","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvad hvis jeg ikke har lyst til at skrue ned for de sociale medier?<\/p>"},"id":"3ca79c46-0987-4174-a96d-26dd69757522","isHidden":false,"type":"text"},{"content":{"text":"<p>Du m\u00e6rker m\u00e5ske en modvilje mod det her med at skrue ned. Pr\u00f8v i s\u00e5 fald at sp\u00f8rge dig selv, hvor den kommer fra? Hvad det egentlig er, du f\u00e5r ud af at sidde og scrolle? Hvad er din motivation?<\/p>"},"id":"3c93da40-40ab-4db4-b49d-5863a883046a","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Afsl\u00f8r bedraget"},"id":"d3e12473-18f5-40bc-9aba-37630b273550","isHidden":false,"type":"heading"},{"content":{"text":"<p>Mange af os b\u00e6rer rundt p\u00e5 en indre slavepisker, som elsker enhver anledning til at give os et pisk og smide et stykke br\u00e6nde p\u00e5 selvhadsb\u00e5let. M\u00e5ske kender du det, n\u00e5r man f\u00f8ler sig lidt grim en dag og beslutter sig for at sidde og glo p\u00e5 de allersmukkeste mennesker, man kan finde online, bare fordi \u201ds\u00e5 kan jeg l\u00e6re det\u201d? Vi t\u00e6nker, at hvis vi pisker os selv nok, motiverer det os til at blive bedre.<\/p>"},"id":"63924eb8-8c11-4680-9a85-d6ad807ffe29","isHidden":false,"type":"text"},{"content":{"text":"<p>I virkeligheden bliver vi ikke motiveret af pisk, men af opmuntring. Pisker vi os selv, f\u00e5r vi det bare d\u00e5rligere og d\u00e5rligere med os selv. Og s\u00e5 er det i \u00f8vrigt ligegyldigt, om vi taber et kilo eller f\u00e5r tr\u00e6net lidt mere \u2013 for vi har det stadig d\u00e5rligt. Hvis vi derimod tilgiver, opmuntrer og drager omsorg for os selv, har vi mulighed for at f\u00e5 det godt.<\/p>"},"id":"333c2397-5963-4114-9511-ab97ad318773","isHidden":false,"type":"text"},{"content":{"text":"<p>Det betyder ogs\u00e5, at det at sige \u201ddu er smuk\u201d til spejlbilledet altid er sundere for vores velv\u00e6re og trivsel end at sige \u201ddu er grim\u201d \u2013 for nej, du bliver ikke bedre, smukkere eller dygtigere af pisk! Det er simpelthen en illusion.<\/p>"},"id":"4ca10402-5e1e-4e4b-8957-4d73dc4a2f9a","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Den gyldne middelvej<\/strong><\/p>"},"id":"7cb78881-0d20-40c8-bd39-2974f87b42ac","isHidden":false,"type":"text"},{"content":{"text":"<p>Sociale medier skal bruges til at v\u00e6re social \u2013 s\u00e5 selvf\u00f8lgelig har du lov til at kommunikere med vennerne, f\u00f8lge med i, hvad der sker i din omgangskreds, besvare event-invitationer og s\u00e5 videre. Men hvad kan resten egentlig bruges til? Hvis du sidder og l\u00e6ser denne artikel, er der gode chancer for, at meget af det resterende SoMe har at byde p\u00e5, ikke giver dig andet end br\u00e6nde til selvhadsb\u00e5let. S\u00e5 tag en \u00e6rlig snak med dig selv og overvej, hvad der i bund og grund er bedst for dit velv\u00e6re.<\/p>"},"id":"8c352931-64cf-4e46-9eef-4b562f3cdb12","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Derfor påvirker sociale medier din trivsel. Af Tamara Hveisel.
+
+----
+
+Seodescription: Hvorfor er det netop når selvværdet er helt i bund at vi går ind på Facebook og kigger på vores perfekte venner?
+
+----
+
+Seokeywords: selvværd, sociale medier, smuk, grim, velvære
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 

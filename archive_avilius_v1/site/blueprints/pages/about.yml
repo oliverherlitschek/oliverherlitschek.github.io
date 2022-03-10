@@ -1,0 +1,66 @@
+title: About Avilius
+icon: ☎️
+
+status:
+  draft: true
+  listed: true
+
+options:
+  url: false
+  delete: false
+
+columns:
+  - width: 1/2
+    fields:
+      caption:
+        label: Cover caption
+        type: text
+        size: small
+
+      cover:
+        label: Cover
+        type: files
+        multiple: false
+
+      description:
+        type: textarea
+
+  - width: 1/2
+    sections:
+      listed:
+        extends: sections/staff-members
+        headline: Staff members
+        status: listed
+
+  - width: 1/2
+    fields:
+      staffsubtext:
+        label: Staff members description
+        type: text
+        size: small
+      boardmembersubtext:
+        label: Board members description
+        type: text
+        size: small
+      boardmember:
+        label: Board members
+        type: structure
+        fields:
+          name:
+            label: Name
+            type: text
+            width: 1/2
+          description:
+            label: Description
+            type: textarea
+            width: 1/2
+      looptext:
+        label: Loop text
+        type: text
+        width: 1/2
+      loop:
+        label: Loop
+        type: pages
+        multiple: false
+        width: 1/2
+

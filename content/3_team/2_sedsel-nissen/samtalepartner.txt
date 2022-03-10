@@ -1,0 +1,93 @@
+Title: Sedsel Nissen
+
+----
+
+Firstname: Sedsel
+
+----
+
+Email: sedsel@avilius.dk
+
+----
+
+Lastbooked: 5
+
+----
+
+Capacity: 2
+
+----
+
+Video:
+
+- sedsel-nissen.mp4
+
+----
+
+Portrait:
+
+- sedsel-nissen-avilius-4.jpg
+
+----
+
+Secondportrait:
+
+- sedsel-nissen-avilius-3.jpg
+
+----
+
+Thirdportrait:
+
+- sedsel-nissen-avilius-2.jpg
+
+----
+
+Experience: Identitet, Eksistentielle tanker, Relationer, Selvværd, Tankemønstre, Bekymringer
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Sedsel skabte et tillidsfuldt og trygt
+    rum, og jeg gik altid derfra med en
+    følelse af, at jeg virkelig havde fået
+    noget ud af det. Tusind tak for det
+    ☺️
+  author: Tidligere klient
+- 
+  quote: >
+    Ekstremt trygt rum. Jeg har været meget
+    glad for at gå her.
+  author: Tidligere klient
+- 
+  quote: >
+    Når jeg selv kom til samtalen uden at
+    vide hvad der var i vejen, fik Sedsel
+    sporet sig ind på og spurgt til de
+    rigtige ting, så jeg forstod hvad der
+    egentlig gik og trykkede mig.
+  author: Tidligere klient
+
+----
+
+Description: Mit store ønske er at hjælpe med at finde ro og hvile i sig selv såvel som sin tilværelse. Derfor ønsker jeg at skabe et ikke-dømmende rum, hvor der er plads til at udforske dine behov og ønsker nærmere. Jeg tror nemlig på, at man kan have behov for at dele sine tanker frit med en anden, så man kan blive klogere på sig selv og sin tilværelse.
+
+----
+
+Seotitle: Snak med Sedsel 💬
+
+----
+
+Seodescription: Mit store ønske er at hjælpe med at finde ro og hvile i sig selv såvel som sin tilværelse.
+
+----
+
+Seokeywords: ro, hvile, tanker, behov
+
+----
+
+Seoimage:
+
+- sedsel-second.jpg

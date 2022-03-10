@@ -1,0 +1,12 @@
+type: pages
+headline: Team
+parent: kirby.page("team")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: samtalepartner
+empty: No posts yet
+sortBy: title
+layout: cards
+size: tiny
+image:
+  cover: true
+  ratio: 4/5

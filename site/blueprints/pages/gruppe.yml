@@ -1,0 +1,180 @@
+title: Gruppe
+icon: 👨‍👨‍👧‍👦
+sortable: true
+
+status:
+  draft: true
+  unlisted: true
+  listed: true
+
+tabs:
+  content:
+    fields:
+      groupslabel:
+        label: Fields for "Groups" page
+        type: headline
+      cover:
+        label: Cover image for Groups page
+        type: files
+        multiple: false
+        width: 1/2
+        layout: cards
+        size: tiny
+        image:
+          ratio: 16/9
+          cover: true
+      intro:
+        label: Excerpt for Groups page
+        type: textarea
+        width: 1/2
+      topelementlabel:
+        label: Top element
+        type: headline
+      portrait:
+        label: Hero image
+        type: files
+        multiple: false
+        width: 1/4
+        layout: cards
+        size: tiny
+        image:
+          ratio: 16/9
+          cover: true
+      length:
+        label: Length
+        placeholder: 8 ugers forløb
+        type: text
+        width: 1/4
+      price:
+        label: Price
+        placeholder: 1.600
+        after: ,-
+        type: text
+        width: 1/4
+      email:
+        label: Contact email
+        default: kontakt@avilius.dk
+        type: email
+        width: 1/4
+      conditions:
+        label: Payment conditions
+        placeholder: Kan betales i 2, 4 eller 8 rater
+        type: text
+        width: 1/2
+      description:
+        label: Description
+        type: textarea
+        width: 1/2
+      tickerlabel:
+        label: Ticker
+        type: headline
+      foryou:
+        label: Til dig, der...
+        type: structure
+        fields:
+          if:
+            label: If you...
+            type: text
+            before: Til dig, der...
+      groupleaderlabel:
+        label: Group leader
+        type: headline
+      therapistcover:
+        label: Therapist portrait
+        type: files
+        multiple: false
+        width: 1/4
+        layout: cards
+        size: tiny
+        image:
+          ratio: 16/9
+          cover: true
+      therapist:
+        label: Name of group leader(s)
+        type: text
+        width: 1/4
+      therapistintro:
+        label: Bio of group leader(s)
+        type: textarea
+        width: 1/2
+      testimoniallabel:
+        label: Testimonials
+        type: headline
+      testimonials:
+        type: structure
+        label: Testimonials
+        fields:
+          quote:
+            label: Quote
+            type: text
+      otherinfolabel:
+        label: Other information
+        type: headline
+      dates:
+        label: Dates
+        type: structure
+        width: 1/2
+        fields:
+          introdate:
+            label: Start date of next group
+            type: text
+            placeholder: 24. maj 2028
+            width: 1/2
+          introtime:
+            label: Start time of next group
+            type: text
+            placeholder: 18 — 20
+            default: 18 — 20
+            width: 1/2
+          remainingdates:
+            label: All dates of group
+            type: textarea
+            placeholder: Separate dates by line break
+
+      spots:
+        label: Spots
+        type: radio
+        width: 1/2
+        options:
+          - Få pladser
+          - Ledige pladser
+      programlabel:
+        label: Program
+        type: headline
+      programdescription:
+          label: Program description
+          type: textarea
+          width: 1/2
+      program:
+          label: Program
+          type: structure
+          width: 1/2
+          info: First one should be 0
+          fields:
+            number: Session number
+              type: text
+            headline:
+              label: Headline
+              type: text
+            description:
+              label: Description
+              type: textarea
+      infolabel:
+        label: Practical information
+        type: headline
+      info:
+          type: structure
+          width: 1/2
+          fields:
+            infoheadline: Info headline
+              type: text
+            infoanswer:
+              label: Headline
+              type: text
+            infotext:
+              label: Text
+              type: textarea
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

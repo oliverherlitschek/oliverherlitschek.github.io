@@ -1,0 +1,19 @@
+title: Home
+icon: 🏠
+
+options:
+  status: false
+
+tabs:
+  content:
+    fields:
+      info:
+        label: Info
+        type: info
+        text: |
+          Alle forside-felter styres fra forsiden af /panel
+  
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

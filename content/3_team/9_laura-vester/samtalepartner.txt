@@ -1,0 +1,100 @@
+Title: Laura Vester
+
+----
+
+Firstname: Laura
+
+----
+
+Email: laura@avilius.dk
+
+----
+
+Lastbooked: 4
+
+----
+
+Capacity: 3
+
+----
+
+Video:
+
+- laura.mp4
+
+----
+
+Portrait:
+
+- laura-vester-avilius-1.jpg
+
+----
+
+Secondportrait:
+
+- laura-vester-avilius-4.jpg
+
+----
+
+Thirdportrait:
+
+- laura-vester-avilius-2.jpg
+
+----
+
+Experience: Forventninger, Tankemønstre, Ensomhed, Eksamensangst, Stress, Mindreværd, Selvværd, Utilstrækkelighed
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Jeg havde et sindssygt godt forløb med
+    Laura! Jeg har været så glad for at
+    gå hos hende.
+  author: Tidligere klient, 23
+- 
+  quote: >
+    De redskaber Laura og jeg sammen har
+    fundet frem til, vores samtaler og
+    refleksioner er i høj grad nogle som
+    jeg kan og vil bruge fremover.
+  author: Tidligere klient, 23
+- 
+  quote: >
+    Jeg ville til hver en tid anbefale Laura
+    og Avilius. Det er utroligt givende
+    både for klienter og terapeuter at
+    møde hinanden her.
+  author: Tidligere klient, 25
+- 
+  quote: >
+    Laura har haft kæmpe indflydelse på at
+    det har været en så positiv oplevelse
+    at investere i mig selv! Så KÆMPE TAK!
+  author: Tidligere klient, 26
+
+----
+
+Description:
+
+Jeg interesserer mig specielt for, hvordan forholdet til os selv påvirker os og vores valg i livet. Det er min opfattelse, at vi kan skabe store forandringer i eget liv ved at styrke venskabet til os selv.
+Jeg plejer at arbejde med, at dit indre er som et hus, hvor murene er dit selvværd og forhold til dig selv. Hvis huset skal kunne holde til alt slags vejr, skal murene være stærke. Det er ikke alt, man skal lukke ind i sit hus. Sådan er det også med vores indre. Lukker vi alle bekymringer, andres holdninger og forventninger ind, kan vi blive helt fyldt op og miste kontakt til vores egne ønsker, behov og drømme. Jeg vil med en nysgerrig og empatisk tilgang hjælpe dig med at rydde op i dit hus og styrke murene, således at det kun er mennesker, drømme og planer som er vigtige for dig og dit liv, som bliver lukket ind.
+Jeg ønsker at skabe et kærligt og ærligt rum, hvor vi sammen kan blive klogere på dig og dine behov. Jeg vil altid møde dig med den største empati og beundring for det store mod du udviser, ved at dele ud af dine tanker og følelser.
+
+----
+
+Seotitle: Mød Laura - en af vores nye terapeuter
+
+----
+
+Seodescription: Jeg plejer at arbejde med, at dit indre er som et hus, hvor murene er dit selvværd og forhold til dig selv.
+
+----
+
+Seokeywords: behov, drømme, tanker, følelser
+
+----
+
+Seoimage: 

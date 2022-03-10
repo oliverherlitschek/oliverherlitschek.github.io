@@ -1,0 +1,27 @@
+title: Blog
+icon: 📖
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        sections:
+          unlisted:
+            extends: sections/blog
+            headline: Unlisted
+            status: unlisted
+          drafts:
+            extends: sections/blog
+            headline: Drafts
+            status: draft
+      - width: 1/2
+        sections:
+          listed:
+            extends: sections/blog
+            headline: Listed
+            status: listed
+
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

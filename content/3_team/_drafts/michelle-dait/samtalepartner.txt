@@ -1,0 +1,126 @@
+Title: Michelle Dait
+
+----
+
+Firstname: Michelle
+
+----
+
+Email: michelle@avilius.dk
+
+----
+
+Lastbooked: 4
+
+----
+
+Capacity: 0
+
+----
+
+Video:
+
+- michelle-dait.mp4
+
+----
+
+Portrait:
+
+- michelle-dait-avilius-7.jpg
+
+----
+
+Secondportrait:
+
+- michelle-dait-avilius-4.jpg
+
+----
+
+Thirdportrait:
+
+- michelle-dait-avilius-5.jpg
+
+----
+
+Experience:
+
+- 
+  headline: >
+    Udfordringer med at sige fra og sætte
+    grænser
+  description: >
+    Vivamus eu dolor id dolor scelerisque
+    feugiat nec et ligula. Curabitur quis
+    mattis arcu, id finibus libero. Fusce
+    eget ultricies tellus, in tristique
+    quam. Pellentesque vestibulum consequat
+    lacus, non tincidunt diam venenatis
+    eget.
+- 
+  headline: Frygten for ikke at leve det rigtige liv
+- 
+  headline: Parforhold, kærlighed og venskab
+  description: >
+    Fusce eget ultricies tellus, in
+    tristique quam. Pellentesque vestibulum
+    consequat lacus, non tincidunt diam
+    venenatis eget. Vivamus eu dolor id
+    dolor scelerisque feugiat nec et ligula.
+    Curabitur quis mattis arcu, id finibus
+    libero. Fusce eget ultricies tellus, in
+    tristique quam. Pellentesque vestibulum
+    consequat lacus, non tincidunt diam
+    venenatis eget. Vivamus eu dolor id
+    dolor scelerisque feugiat nec et ligula.
+    Curabitur quis mattis arcu, id finibus
+    libero.
+- 
+  headline: 'Sammenlignings- og forventningspres '
+- 
+  headline: 'Barndommens betydning i voksenlivet '
+- 
+  headline: Bekymringer og negative tankemønstre
+  description: 'Fusce eget ultricies tellus, in tristique quam. Pellentesque vestibulum consequat lacus, non tincidunt diam venenatis eget. Vivamus eu dolor id dolor scelerisque feugiat nec et ligula. (link: retningsløshed text: Curabitur) quis mattis arcu, id finibus libero.'
+- 
+  headline: Angstproblematikker
+
+----
+
+Testimonials:
+
+- 
+  quote: '[...]simpelthen en fantastisk oplevelse. Det var virkelig befriende! Tusind tak!'
+  author: Tidligere klient om Michelle
+- 
+  quote: >
+    Det er som om jeg er en reol, hvor hver
+    gang jeg opdager en ny sammenhæng, får
+    stillet noget på plads på den rigtige
+    hylde.
+  author: Tidligere klient, 28 år
+
+----
+
+Description:
+
+Hos mig kan du dele alt det, der fylder - stort som småt. Jeg anser det som en styrke at turde arbejde med det, der er svært. I forløbet vil du derfor opleve mig som støttende og fordomsfri, men også udforskende, med et formål om at du opnår en mere nuanceret forståelse af dig selv og dine problemer. 
+
+Med en kombination af medmenneskelighed, rummelighed, et teoretisk bagland og humor, er min rolle at hjælpe dig med at finde frem til, hvordan du kan leve et liv, som er mere meningsfyldt og i overensstemmelse med dine egne behov og værdier.
+
+----
+
+Seotitle: Mød Michelle - en af vores nye terapeuter
+
+----
+
+Seodescription: Jeg ønsker at skabe en tillidsfuld relation, hvor du kan dele de ting, der fylder - stort som småt.
+
+----
+
+Seokeywords: medmenneskelighed, rummelighed, behov, værdier
+
+----
+
+Seoimage:
+
+- michelle-second.jpg

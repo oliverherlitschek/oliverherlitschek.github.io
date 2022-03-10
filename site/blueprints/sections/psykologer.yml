@@ -1,0 +1,12 @@
+type: pages
+headline: Psykologer
+parent: kirby.page("psykologer")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: psykolog
+empty: No posts yet
+sortBy: title
+layout: cards
+size: tiny
+image:
+  cover: true
+  ratio: 4/5

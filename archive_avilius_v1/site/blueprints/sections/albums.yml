@@ -1,0 +1,7 @@
+type: pages
+headline: Blog posts
+parent: kirby.page("blog")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: blog-post
+empty: No posts yet
+sortBy: date desc

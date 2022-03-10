@@ -1,0 +1,7 @@
+type: pages
+headline: Personale
+parent: kirby.page("hvorfor")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: personale
+empty: No posts yet
+sortBy: date desc

@@ -1,0 +1,310 @@
+Title: Det meningsfulde liv
+
+----
+
+Cover:
+
+- jonas-schoesler-avilius-4.jpg
+
+----
+
+Intro: Vi skal have succes, præstere på alle fronter, selvoptimere og hele tiden selvudvikle. Hvis ikke vi lykkes, så er det vores egen skyld – vi kunne jo bare have arbejdet hårdere! Det pres bliver til urimelige forventninger, vi ikke kan leve op til. Vi føler os utilstrækkelige og ensomme. Og så glemmer vi det meningsfulde liv. Det gør vi op med her!
+
+----
+
+Portrait:
+
+- jonas-schoesler-avilius-5.jpg
+
+----
+
+Length: Én weekend
+
+----
+
+Price: 800
+
+----
+
+Email: jonas@avilius.dk
+
+----
+
+Conditions: Kan betales á to omgange
+
+----
+
+Description:
+
+Hvad er det meningsfulde liv? I denne gruppe skal vi over en weekend tale om og arbejde med, hvordan vi finder vej til at leve et meningsfyldt liv.
+Weekenden bygger på tre søjler - identitet, dannelse og fællesskab - som vi skal arbejde med gennem fem tematiske moduler, som du kan læse om nedenunder.
+
+----
+
+Foryou:
+
+- 
+  if: efterlyser mening med livet
+- 
+  if: føler et forventningspres fra samfundet
+- 
+  if: >
+    vil lære at gå efter egne mål –
+    ikke andres
+- 
+  if: vil definere dine egne idéer om succes
+- 
+  if: lider under 12-talskulturen
+
+----
+
+Therapistcover:
+
+- jonas-schoesler-avilius-3.jpg
+
+----
+
+Therapist: Jonas
+
+----
+
+Therapistintro:
+
+Jeg er meget optaget af, hvordan vi kan komme tættere på at leve liv, som er i overensstemmelse med vores værdier og egne forventninger. Jeg bruger meget tid på arbejde og studie. Og jeg tænker ofte, at jeg burde se mine bedsteforældre noget mere, få ringet lidt oftere til vennerne, tage på flere dates og høre nogle flere koncerter. Det er en af de balancer, der for mig er den sværeste i livet, for den handler i bund og grund om, hvordan jeg ender med at se tilbage på livet; gjorde jeg de rigtige ting?
+(link: https://www.avilius.dk/team/jonas-schosler text: Mød Jonas)
+
+----
+
+Testimonials:
+
+- 
+  quote: 'Vi har lært meget om hvad det meningsfulde liv er - en del af det havde jeg hørt før, men forløbet gav mig værktøjerne til at implementere det i mit liv.'
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/det-meningsfulde-liv text: Det meningsfulde liv)'
+- 
+  quote: 'Jeg synes rummet har føltes rart og trygt. Jonas har virkelig formået at få mig til at være komfortabel ved at stå 100% ved det sted jeg er i mit liv lige nu.'
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/det-meningsfulde-liv text: Det meningsfulde liv)'
+- 
+  quote: >
+    Det har været enormt givende at få sat
+    ord og forklaring på nogle af de
+    bekymringer og forhindringer man oplever
+    i sin hverdag.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/det-meningsfulde-liv text: Det meningsfulde liv)'
+- 
+  quote: >
+    Forløbet gav mig gode redskaber til at
+    se og fokusere på de ting, der giver
+    mig værdi i livet. Og ikke at blive
+    ængstelig, når det ikke følger vores
+    ofte fordrejede billede af perfektion.
+  author: 'Tidligere deltager i (link: https://avilius.dk/grupper/det-meningsfulde-liv text: Det meningsfulde liv)'
+
+----
+
+Dates: 
+
+----
+
+Spots: Ledige pladser
+
+----
+
+Programdescription:
+
+Vi skal sammen bruge en weekend hjemme i Avilius på at finde ud af, hvad det meningsfulde liv er for os hver især. Vi skal snakke om livets spilleregler – og hvordan vi kan spille efter vores egne regler i stedet.
+
+Gruppeforløbet er delt op i tre søjler: identitet, dannelse og fællesskab. Dem kan du læse mere om i oversigten.
+
+----
+
+Program:
+
+- 
+  number: "1.1"
+  headline: Vi sætter rammerne
+  description: >
+    Vi skal undersøge den kulturelle og
+    historiske kontekst, som vores liv er
+    placeret i. Ved at blive klogere på,
+    hvilke samfundsmæssige strømninger,
+    der former vores liv kan vi bedre
+    identificere, hvilken betydning
+    præstationspresset, perfekthedskulturen
+    og individualismen har på vores
+    forståelse af os selv og hinanden.
+- 
+  number: "1.2"
+  headline: Aflivning af præstationskulturen
+  description: >
+    Hvorfor snakker vi om en
+    præstationskultur, når vi egentlig
+    ikke har en? Det kigger vi nærmere på,
+    og vi arbejder med, hvordan vi reducerer
+    det præstationspres, som forhindrer os
+    i at have fokus på det meningsfyldte
+    liv. Vi skal desuden snakke om at skabe
+    vores egne spilleregler og lære at
+    distingvere mellem stærke og
+    skrøbelige værdier.
+- 
+  number: "1.3"
+  headline: Uddannelse vs. dannelse
+  description: 'Førstedagens sidste tema handler om identitet - hvilken betydning har det og hvordan kan vi arbejde med vores egen identitet? Vi skal snakke om at have personlige projekter og psykologien bag motivation. Vi skal tale om, hvad forskellen er på uddannelse og dannelse. Vi kommer også ind på fænomenerne ”paradox of choice” og ”broadcasting of the extraordinary".'
+- 
+  number: "2.1"
+  headline: Hvordan er man menneske?
+  description: >
+    Vi skal filosofere over livets
+    beskaffenhed – hvad vil det sige at
+    være menneske. Vi skal snakke om
+    forskellen på tilfredshed, lykke og
+    mening. Vi skal diskutere konsekvenserne
+    af et manglende skæbnebegreb. Vi skal
+    tale om mærkbarhed versus målbarhed.
+    Og så skal vi undersøge, hvilke
+    lidelser, der er værd at udholde i
+    vores eget liv.
+- 
+  number: "2.2"
+  headline: >
+    ...og hvordan er man det i et
+    fællesskab?
+  description: >
+    Vi skal snakke om fællesskabers
+    betydning. Vi skal finde ud af, hvilke
+    fællesskaber vi gerne vil indgå i. Vi
+    skal snakke om vigtigheden af at kunne
+    decentrere sit perspektiv. Vi skal finde
+    en ramme om livet, der kan give ro og
+    være med til at besvare nogle af de
+    største spørgsmål i livet.
+- 
+  number: "2.3"
+  headline: Outro
+  description: >
+    Vi samler op på weekenden og giver
+    plads til spørgsmål, løse tråde og
+    alt det, som vi ikke nåede.
+
+----
+
+Seotitle: Presset på studiet, arbejdet eller derhjemme?
+
+----
+
+Seodescription: Er din trivsel afhængig af, hvor godt du performer? Vi kigger nærmere på det præstationspres, der er stigende blandt vores generation.
+
+----
+
+Seokeywords: præstation, præstationspres, redskaber, trivsel
+
+----
+
+Seoimage:
+
+- jonas-schoesler-avilius-5.jpg
+
+----
+
+Excerpt: Vi skal have succes, præstere på alle fronter, selvoptimere og hele tiden selvudvikle. Hvis ikke vi lykkes, så er det vores egen skyld – vi kunne jo bare have arbejdet hårdere! Det pres bliver til urimelige forventninger, vi ikke kan leve op til. Vi føler os utilstrækkelige og ensomme. Og så glemmer vi det meningsfulde liv. Det gør vi op med her!
+
+----
+
+Portraitcaption: Forløbet ledes af (link: team/jonas-schosler text: Jonas).
+
+----
+
+Ctaheadline: Klar til at blive klogere på det meningsfyldte liv?
+
+----
+
+Ctatext: Skriv til Jonas — så får du besked, når der er plads på holdet!
+
+----
+
+Pricedescription: Det er ikke altid, at man har 800 kr. på lommen. Vi har lavet to betalingsmåder, så du kan få SU-økonomien til at række.
+
+----
+
+Tieronedescription: Betal over to omgange
+
+----
+
+Tieroneprice: 450
+
+----
+
+Tieronetotal: 900
+
+----
+
+Tiertwodescription: Betal det hele på én gang
+
+----
+
+Tiertwoprice: 800
+
+----
+
+Tiertwototal: 800
+
+----
+
+Perks:
+
+- 
+  perk: To dages selvrefleksion
+- 
+  perk: Øvelser til at tage med hjem
+- 
+  perk: Fuld tilfredshed eller pengene tilbage
+
+----
+
+Announcementtext: En hel weekend
+
+----
+
+Announcementprice: 450
+
+----
+
+Tieroneperks:
+
+- 
+  tieroneperk: Gratis introaften
+- 
+  tieroneperk: Seks ugers forløb
+
+----
+
+Tiertwoperks:
+
+- 
+  tiertwoperk: Gratis introaften
+- 
+  tiertwoperk: Seks ugers forløb
+- 
+  tiertwoperk: 'Gratis (link: https://avilius.dk/individuelle-samtaler text: individuel samtale)'
+- 
+  tiertwoperk: 'Billet til et (link: https://avilius.dk/avilius-talks text: Avilius Talks)'
+
+----
+
+Landscape: - screen-shot-2020-04-25-at-9.20.29-pm.png
+
+----
+
+Image: - ragnhild.png
+
+----
+
+Start: 
+
+----
+
+Firstname: Jonas
+
+----
+
+Entry: 

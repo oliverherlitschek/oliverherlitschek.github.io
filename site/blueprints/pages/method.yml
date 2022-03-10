@@ -1,0 +1,38 @@
+title: Metode
+icon: 
+
+columns:
+  - width: 2/3
+    fields:
+      text:
+        type: textarea
+        size: large
+
+  - width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          date:
+            type: date
+            time: false
+            default: now
+          author:
+            type: text
+          cover:
+            type: files
+            upload: true
+            help: Remember to <a href="">optimize</a> the picture before uploading.
+          references:
+            label: References
+            type: structure
+            fields:
+              name:
+                label: Name
+                type: text
+                width: 1/2
+              url:
+                label: URL
+                type: url
+                width: 1/2
+

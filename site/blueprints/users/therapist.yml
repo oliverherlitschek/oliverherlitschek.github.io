@@ -1,0 +1,26 @@
+title: Therapist
+
+permissions:
+  access:
+    panel: true
+    site: true
+    settings: false
+    users: false
+  files:
+    *: false
+  languages:
+    *: false
+  pages:
+    *: true
+  site:
+    *: false
+  user:
+    changeEmail: false
+    changeLanguage: false
+    changeName: false
+    changePassword: true
+    changeRole: true
+    delete: false
+    update: false
+  users:
+    *: false

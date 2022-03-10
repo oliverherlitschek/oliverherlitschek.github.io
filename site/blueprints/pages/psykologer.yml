@@ -1,0 +1,73 @@
+title: Psykologer
+icon: 🏠
+
+options:
+  status: true
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        fields:
+          cover:
+            label: Cover
+            type: files
+            multiple: false
+            width: 1/2
+          headline:
+              label: Headline
+              type: text
+              width: 1/2
+          tagline:
+              label: Tagline
+              type: text
+          howto:
+              label: How to get started
+              type: structure
+              fields:
+                howtoname:
+                  label: Name
+                  type: text
+                howtodescription:
+                  label: Description
+                  type: textarea
+          testimonials:
+            type: structure
+            fields:
+              quote:
+                label: Quote
+                type: text
+              author:
+                label: Who's it from?
+                type: textarea
+          foryou:
+            label: Reasons to start therapy
+            type: tags
+          comparisonlabel:
+            label: Comparison element
+            type: headline
+          comparisonheadline:
+            label: Comparisons headline
+            type: text
+          comparisontext:
+            label: Comparisons text
+            type: textarea
+          comparisons:
+            label: Comparisons
+            type: structure
+            fields:
+              individual:
+                type: text
+                label: Psychotherapy
+                width: 1/2
+              group:
+                type: text
+                label: Psychology
+                width: 1/2
+      - width: 1/2
+        sections:
+          psykologer: sections/psykologer
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

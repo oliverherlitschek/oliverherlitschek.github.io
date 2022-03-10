@@ -1,0 +1,6 @@
+type: pages
+headline: Blog
+info: "{{ page.date.toDate('%d/%m/%y') }}"
+template: nyhed
+empty: No articles yet
+sortBy: date desc

@@ -1,0 +1,271 @@
+Title: Om Avilius
+
+----
+
+Description: Ragnhild i vores allerførste, mikroskopiske terapilokale på Esromgade på Nørrebro i 2019.
+
+----
+
+Tagline: Vores mentale sundhed er dalende — så vi har taget sagen i egen hånd.
+
+----
+
+Cover:
+
+- team.jpg
+
+----
+
+Values:
+
+- 
+  valuename: Åbent
+  valuedescription: '[{"content":{"text":"<p>Test<\/p>"},"id":"6b219bea-ecc3-459f-a5e9-571cde9a109e","isHidden":false,"type":"text"},{"content":{"location":"web","image":[],"src":"https:\/\/images.unsplash.com\/photo-1603561029971-544a5e4ab55e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"626e3472-ca87-4ff5-8e42-255aa40393a5","isHidden":false,"type":"image"}]'
+- 
+  valuename: Varmt
+  valuedescription: '[{"content":{"text":"<p>Det vigtigste for os er, at du selv kommer frem til de beslutninger, der er rigtige for dig. Med r\u00e5d og vejledning unders\u00f8ger vi forskellige perspektiver \u2013 men det er dig, der bestemmer over livet og dets mange muligheder.<\/p>"},"id":"d90a8d7b-a84f-4ef9-bc35-40a17444a39f","isHidden":false,"type":"text"}]'
+- 
+  valuename: Eksperimenterende
+  valuedescription: '[{"content":{"text":"<p>Hos Avilius f\u00e5r du en partner, som kan give dig en hj\u00e6lpende h\u00e5nd i de situationer, der er sv\u00e6re at st\u00e5 i alene. Det at v\u00e6re i et rum, hvor man kan sige alt h\u00f8jt og f\u00e5 anerkendt sine tanker og f\u00f8lelser er en kraftfuld oplevelse.<\/p>"},"id":"fc7a2a5f-3cc7-4559-8bdc-c45006a4e577","isHidden":false,"type":"text"}]'
+- 
+  valuename: Dannende
+  valuedescription: '[{"content":{"text":"<p>I psykologiens verden l\u00e6rer man ved at tale om sig selv. N\u00e5r du indg\u00e5r i et terapeutisk forl\u00f8b, vil du l\u00e6re din psyke og krop bedre at kende \u2013 og l\u00e6re, hvordan de to spiller sammen for at opn\u00e5 et st\u00e6rkt og sundt mentalt helbred.<\/p>"},"id":"740e8f2b-6cae-4e92-8b31-e30077a8d52d","isHidden":false,"type":"text"}]'
+- 
+  valuename: Fællesskabende
+  valuedescription: '[{"content":{"text":"<p>Hj\u00f8rnestenen af ethvert terapeutisk forl\u00f8b bygger p\u00e5 det, man i psykologien kalder den terapeutiske alliance \u2013 et fortroligt, fordomsfrit og tillidsfuldt rum, hvor din terapeut ikke d\u00f8mmer og vurderer, men snarere lytter og perspektiverer dine oplevelser.<\/p>"},"id":"2e416ce6-6da8-46ae-b5c1-55392dbccdd2","isHidden":false,"type":"text"}]'
+
+----
+
+Therapy:
+
+- 
+  question: Terapispørgsmål?
+  answer: '[{"content":{"text":"<p>Svar!<\/p>"},"id":"297bff4f-fe44-4f5c-a4fe-06f4cbd32570","isHidden":false,"type":"text"}]'
+
+----
+
+Business:
+
+- 
+  question: Forretnignsspørgmsål!
+  answer: '[{"content":{"text":"<p>Og her kommer svaret!<\/p>"},"id":"287a7142-83cb-441c-9a22-f2bf28f39e84","isHidden":false,"type":"text"}]'
+
+----
+
+Developmenttext:
+
+Udviklingstekst!
+
+#### Færdigt
+Her er hvad der skal ske
+
+Coming up
+
+----
+
+Development:
+
+- 
+  question: Udviklingsspørgsmål?
+  answer: '[{"content":{"text":"<p>Her er svaret!<\/p>"},"id":"e3a238a4-72c6-42e9-b103-2409cf93eee7","isHidden":false,"type":"text"},{"content":{"level":"h4","text":"FREMTIDIGE TILTAG"},"id":"1d6000c2-f5b6-4472-8cba-1c2e3219d2bc","isHidden":false,"type":"heading"},{"content":{"text":"<p>\u00b7 Ting<\/p>"},"id":"3582e0b6-3ef7-4e35-bde4-e10f4472ddf7","isHidden":false,"type":"text"}]'
+
+----
+
+Space:
+
+- avilius-space-1.jpg
+- avilius-space-2.jpg
+- avilius-space-3.jpg
+- avilius-space-4.jpg
+- avilius-space-7.jpg
+- avilius-space-6.jpg
+- avilius-space-8.jpg
+- avilius-space-5.jpg
+- avilius-space-9.jpg
+- avilius-space-10.jpg
+
+----
+
+Thankyou: til Sylvester Hindersson, Simon Størup, Lukas Morio, Yu Zhao, Martin Ejstrup, Daniel Emanuel, Elias Taxgaard, Anna-Regitze Vejby Voss, Bjarke Vejby, Jakob Eriksen, Phillip Pfeiffer, Nik Arthur, Sebastian Thorsted, Josephine Michaëlis og Mutti ❤️
+
+----
+
+Seotitle: Hvorfor Avilius?
+
+----
+
+Seodescription: Vores generation ikke, så vi har taget sagen i egen hånd. Læs mere om rejsen mod et sjovere ungdomsliv her.
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage:
+
+- avilius-mgmt.jpg
+
+----
+
+Boardmembers:
+
+- 
+  boardmembername: Faezeh Zand
+  boardmemberdescription: "Faezeh er autoriseret psykolog med speciale i klinisk psykologi og traumatologi og uddannet både fra Pars University og Københavns Universitet. Faezeh er Avilius' faglige supervisor og blev i 2002 autoriseret af Socialministeriet."
+- 
+  boardmembername: Steen Villemoes
+  boardmemberdescription: >
+    Steen har en kandidat i Økonomi fra
+    Københavns Universitet. Han har en
+    baggrund i den finansielle sektor og har
+    siden 2007 arbejdet som selvstændig,
+    bl.a. med enkelte bestyrelsesposter.
+- 
+  boardmembername: Roberta Mustacchi Jæger
+  boardmemberdescription: 'Roberta er uddannet fra Oxford University med en Ph.d. i bioteknologi. Til daglig arbejder hun som Global Market Manager i den danske virksomhed (link: https://www.fossanalytics.com/# text: FOSS), hvor hun har ansvaret for den globale forretning i analyseinstrumenter.'
+- 
+  boardmembername: Mads Schøsler
+  boardmemberdescription: 'Mads er uddannet fra CBS i Management of Innovation and Business Development. Han arbejder som Business Intelligence Consultant i (link: https://steelseries.com/ text: SteelSeries). Han er desuden stifteren bag (link: https://www.mikrokogebogen.dk/ text: mikrokogebogen.dk), der hjælper landets studerende med mikroøkonomi.'
+- 
+  boardmembername: Peter Boris Kreilgaard
+  boardmemberdescription: 'Peter er CMO i (link: https://coop.dk/ text: Coop.dk), bestyrelsesmedlem i (link: https://markedsforing.dk/ text: Dansk Markedsføring) og jurymedlem for blandt andet (link: https://www.fdih.dk/ text: Dansk Erhvervs) E-handelspris og (link: https://avaawards.com/ text: Danish Digital Awards).'
+- 
+  boardmembername: Ann Forup Helmich
+  boardmemberdescription: 'Ann har over ti års erfaring med mediebranchen i salg og kommercielt fokuserede lederstillinger hos blandt andet (link: https://www.aller.dk/ text: Aller Media), (link: https://tv2.dk/ text: TV2) og (link: https://corporate.discovery.com/ text: Discovery).'
+
+----
+
+Staff:
+
+- hvorfor/jonas-schosler
+- hvorfor/sylvester-hindersson
+- hvorfor/oliver-herlitschek
+- hvorfor/elias-amadeus-taxgaard
+- hvorfor/dig
+
+----
+
+Caption: Avilius arbejder med at få unge videre i teksten
+
+----
+
+Staffsubtext: Avilius arbejder med en ledelsesfilosofi, hvor den enkelte skal have autonomi og ansvar til at tage chancer, prøve idéer af og finde sin rolle i fællesskabet. Vi arbejder hele tiden med at styrke sammenholdet og tilliden indbyrdes, hvorfor vi ofte mødes med terapeuterne og udveksler indsigter fra kunst, litteratur, sport, film mv.
+
+----
+
+Boardmembersubtext: Avilius' advisory board består af en række professionelle mennesker, der er med til at rådgive os. De gør det frivilligt, fordi de tror på vigtigheden af projektet.
+
+----
+
+Boardmember:
+
+- 
+  name: Faezeh Zand
+  description: "Faezeh er autoriseret psykolog med speciale i klinisk psykologi og traumatologi og uddannet både fra Pars University og Københavns Universitet. Faezeh er Avilius' faglige supervisor og blev i 2002 autoriseret af Socialministeriet."
+- 
+  name: Roberta Mustacchi Jæger
+  description: 'Roberta er uddannet fra Oxford University med en Ph.d. i bioteknologi. Til daglig arbejder hun som Global Market Manager i den danske virksomhed (link: https://www.fossanalytics.com/en# text: FOSS), hvor hun har ansvaret for den globale forretning i analyseinstrumenter.'
+- 
+  name: Mads Schøsler
+  description: 'Mads er uddannet fra CBS i Management of Innovation and Business Development. Han arbejder som Business Intelligence Consultant i virksomheden (link: https://steelseries.com/ text: Steel Series). Han er desuden stifteren bag (link: https://www.mikrokogebogen.dk text: mikrokogebogen.dk), der hjælper landets studerende med mikroøkonomi.'
+- 
+  name: Jeanet Bækman
+  description: 'Jeanet er uddannet psykoterapeut. Hun har bl.a. arbejdet med dialektisk adfærdsterapi, kognitiv misbrugsbehandling og er daglig leder af (link: http://xn--bkman-sra.dk/ text: Bækman Psykoterapi).'
+- 
+  name: Steen Villemoes
+  description: >
+    Steen har en kandidat i Økonomi fra
+    Københavns Universitet. Han har en
+    baggrund i den finansielle sektor og har
+    siden 2007 arbejdet som selvstændig,
+    bl.a. med enkelte bestyrelsesposter.
+
+----
+
+Looptext: Besøg Avilius-bloggen
+
+----
+
+Loop: - blog
+
+----
+
+Staff-subtext: 
+
+----
+
+Boardmember-subtext: Her er vores Advisory Board-medlemmer
+
+----
+
+Introduction: 
+
+----
+
+Text:
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+
+The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.
+
+----
+
+Address:
+
+Mægazine Inc.
+Sesamestreet 1
+Gotham City
+USA
+
+----
+
+Email: mail@maegazine.com
+
+----
+
+Phone: +49 1234 5678
+
+----
+
+Social:
+
+- 
+  platform: Twitter
+  url: https://twitter.com/getkirby
+- 
+  platform: Instagram
+  url: https://instagram.com/getkirby
+
+----
+
+Contact:
+
+Kirby Magazine Inc.
+Sesamestreet 1
+Gotham City
+USA
+
+----
+
+Hero: 
+
+----
+
+Hero-caption: 
+
+----
+
+Cover-caption: 
+
+----
+
+Subtext: 
+
+----
+
+Chapter: 
+
+----
+
+Chapter-text: 

@@ -1,0 +1,81 @@
+Title: Individuelle samtaler
+
+----
+
+Tagline: Vi vi gerne hjælpe.
+
+----
+
+Howto:
+
+- 
+  howtoname: '1.  Skriv til os'
+  howtodescription: 'Skriv til os via <a href="" class="book-button underline" title="Skriv til os">formularen</a>. Så vender vi tilbage indenfor et par dage med nogle tider, der passer dig. Måske har du på forhånd gjort dig tanker om, hvem du gerne vil snakke med – hvis ikke, kan vi hjælpe dig med at finde et godt match. Lær os bedre at kende <a href="../team" class="underline" title="Team" target="_blank">her</a>.'
+- 
+  howtoname: '2.  Vi mødes til din gratis forsamtale'
+  howtodescription: 'Vi lærer hinanden at kende og sporer os ind på, hvad du har lyst til at bruge forløbet til og hvad din målsætning er. Det kan være, at du allerede ved det – og hvis ikke, finder vi ud af det sammen.<br><br>Forsamtalen varer én time og foregår i vores lokale på <a href="https://goo.gl/maps/p1CovkiFJoBvUKZJ6"  class="underline" title="Avilius på Google Maps" target="_blank">Vesterbrogade 35</a>. Bor du ikke i byen, tilbyder vi også onlineforløb.'
+- 
+  howtoname: 3. Vi planlægger dit forløb sammen
+  howtodescription: 'Sammen aftaler vi dit videre forløb, så det passer til dig og din hverdag. Vi hjælper dig med at nå din målsætning — om det er ugentligt, månedligt eller ved behov er helt op til dig.<br><br>Vi glæder os til at møde dig!'
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Det giver så meget god energi at tale
+    med dig 🌸 Det var rigtig givtigt og
+    skønt! Vi ses d. 7!
+  author: 'Tidligere klient om (link: ../team/esther-safir text: Esther)'
+- 
+  quote: >
+    ...simpelthen en fantastisk oplevelse.
+    Det var virkelig befriende! Tusinde tak!
+  author: 'Tidligere klient om (link: ../team/michelle-dait text: Michelle)'
+- 
+  quote: >
+    Det føltes faktisk lidt som at snakke
+    med en rigtig god veninde, som bare
+    havde mange flere kloge ting at sige.
+  author: 'Tidligere klient om (link: ../team/ragnhild-mohn text: Ragnhild)'
+- 
+  quote: >
+    Jonas var en redning for mig, i det jeg
+    stod i. Magen til behageligt, sympatisk,
+    kompetent, ærligt menneske har jeg
+    sjældent mødt. Kemien var der og
+    trygheden fulgte med, så der gik nok
+    ikke lang tid før jeg turde åbne helt
+    op
+  author: 'Tidligere klient om (link: ../team/jonas-schosler text: Jonas)'
+- 
+  quote: >
+    Jeg har været igennem et forløb hos
+    Tamara, der på mange måder har ændret
+    hele den måde jeg opfatter mig selv og
+    mine omgivelser på. Forløbet har uden
+    tvivl ændret mit liv.
+  author: 'Tidligere klient om (link: ../team/tamara-hansen text: Tamara)'
+
+----
+
+Foryou: Ensomhed, Tristhed, Mindreværd, Lavt selvværd, Minoritetsstress, Seksualitet, Hjertesorg, Lisvkriser, Tomhed, Skam, Tankemylder, Egenomsorg, Usikkerhed, Identitetskrise, Fremmedgørelse, Grænsesætning, Perfektioniske, Barndomstraumer, Rastløshed, Eksamensangst, Sorg
+
+----
+
+Seotitle: Individuel samtaleterapi
+
+----
+
+Seodescription: Det er så vigtigt, at du har det godt. Avilius tilbyder SU-venlige samtaler om dig og din mentale sundhed.
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage:
+
+- jonas-second.jpg

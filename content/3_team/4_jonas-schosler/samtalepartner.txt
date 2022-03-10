@@ -1,0 +1,94 @@
+Title: Jonas Schøsler
+
+----
+
+Firstname: Jonas
+
+----
+
+Email: jonas@avilius.dk
+
+----
+
+Lastbooked: 5
+
+----
+
+Capacity: 1
+
+----
+
+Video:
+
+- jonas-schoesler.mp4
+
+----
+
+Portrait:
+
+- jonas-schoesler-avilius-3.jpg
+
+----
+
+Secondportrait:
+
+- jonas-schoesler-avilius-1.jpg
+
+----
+
+Thirdportrait:
+
+- jonas-schoesler-avilius-2.jpg
+
+----
+
+Experience: Meningsløshed, Retningsløshed, Tankemønstre, Værdiskabelse, Selvværd, Forventninger, Selvforståelse
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Det har været super dejligt at have en
+    tredje part, jeg kunne gå til for at
+    snakke om alt imellem himmel og jord.
+  author: Tidligere klient, 27 år
+- 
+  quote: >
+    Mit forløb med Jonas har gjort en
+    verden til forskel. Han har hjulpet mig
+    i mange aspekter af mit liv. Det har
+    været den bedste og vigtigste
+    beslutning for mig.
+  author: Tidligere klient, 25 år
+
+----
+
+Description:
+
+Jeg har brugt en del tid på at studere og udforske i praksis, hvilke betingelser, der ofte er nødvendige, før vi oplever velvære, motivation og vækst. Jeg er meget optaget af, hvordan vi kan komme tættere på at leve liv, som er i overensstemmelse med vores værdier og egne forventninger.
+
+Du vil opleve mig som nysgerrig, lyttende, omsorgsfuld, men også udfordrende. Jeg kan hjælpe dig til at finde nogle ståsteder i livet, som kan være med til at give retning og robusthed.
+
+Jeg finder ofte mig selv vende tilbage til spørgsmålet om, hvad der er det meningsfulde liv. Jeg bruger meget tid på arbejde og studie. Og jeg tænker ofte, at jeg burde se mine bedsteforældre noget mere, få ringet lidt oftere til vennerne, tage på flere dates og høre nogle flere koncerter. Det er en af de balancer, der for mig er den sværeste i livet, for den handler i bund og grund om, hvordan jeg ender med at se tilbage på livet; gjorde jeg de rigtige ting?
+
+Jeg leder også gruppeforløbet (link: https://avilius.dk/grupper/det-meningsfulde-liv text: Det meningsfulde liv) her i Avilius.
+
+----
+
+Seotitle: Klar på en snak med Jonas? 🧠
+
+----
+
+Seodescription: Jeg har brugt en del tid på at studere og udforske i praksis, hvilke betingelser, der ofte er nødvendige, før vi oplever velvære, motivation og vækst.
+
+----
+
+Seokeywords: velvære, motivation, arbejde, vækst, studie
+
+----
+
+Seoimage:
+
+- jonas-second.jpg

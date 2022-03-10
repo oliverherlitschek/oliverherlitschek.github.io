@@ -1,0 +1,69 @@
+Title: Eksamensstress – sådan håndterer du det
+
+----
+
+Date: 2020-07-30
+
+----
+
+Card: false
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Authorlink:
+
+- team/jonas-schosler
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- avilius-eksamensstress.jpg
+
+----
+
+References: 
+
+----
+
+Introduction: Stiger pulsen og stressniveauet, når eksamen nærmer sig? Eksamensstress kan ramme selv den bedste.
+
+----
+
+Text: [{"content":{"text":"<p>M\u00e6rker du den velkendte f\u00f8lelse af stress, der kommer snigende, na\u030ar eksamen n\u00e6rmer sig?<\/p>"},"id":"7b8d8cf8-1b1f-4427-bb46-74be6d33d7e1","isHidden":false,"type":"text"},{"content":{"text":"<p>Ma\u030aske fa\u030ar du klamme, fugtige ha\u030andflader, sover da\u030arligt eller fa\u030ar en knude i maven?<\/p>"},"id":"6bcdaac5-f798-4d63-9d28-0e5373ec65aa","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis du kan svare ja til det, sa\u030a er du langt fra alene. Faktisk er du e\u0301n af rigtig mange. I a\u030ar 2017 svarede hele 38 procent af adspurgte unge studerende i en <a href=\"https:\/\/www.au.dk\/fileadmin\/www.au.dk\/studmiljo\/2017_-_ny\/SMU2017._Rapport_nr._1._Hovedrapport_for_Aarhus_Universitet__endelig_.pdf\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">studielivsunders\u00f8gelse<\/a> fra Aarhus Universitet, at de altid eller ofte oplever st\u00e6rke symptomer pa\u030a stress i forbindelse med eksamen.<\/p>"},"id":"8ca7c53c-80f6-4b09-8020-fc18cf8bb9c0","isHidden":false,"type":"text"},{"content":{"text":"<p>Men hvad skyldes eksamensstress og pr\u00e6stationsangst? Og hvordan kan du l\u00e6re at ha\u030andtere eksamensperioderne, som du ikke kommer udenom? Det fa\u030ar du nogle helt konkrete v\u00e6rkt\u00f8jer til lige her.<\/p>"},"id":"243748ef-a933-4ffe-b902-16ebfaacc154","isHidden":false,"type":"text"},{"content":{"level":"h1","text":"Hvordan f\u00f8les det? Symptomer pa\u030a eksamensstress"},"id":"81dc540c-13bc-45a2-84f2-1a5ffc11c8eb","isHidden":false,"type":"heading"},{"content":{"text":"<p>Eksamensstress kan opleves forskelligt fra person til person. Det er en mental belastning, ligesom stress er det. Men kroppen er utrolig \u2013 den pa\u030avirkes af, hvordan du har det psykisk.<\/p>"},"id":"4ffe4b8a-5c23-490e-8ff9-efba93301fe3","isHidden":false,"type":"text"},{"content":{"text":"<p>Eksamensstress kan derfor ogsa\u030a opleves fysisk i kroppen.<\/p>"},"id":"95297f3a-e1d1-48a3-989b-e7392b8b00ed","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Fysiske symptomer pa\u030a eksamensstress kan v\u00e6re:<\/strong><\/p>"},"id":"671c525e-1213-43e6-b77f-e5aab858279d","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Hjertebanken<\/li><li>Mavepine<\/li><li>Hovedpine<\/li><li>S\u00f8vnl\u00f8shed<\/li><li>Kvalme<\/li><li>Sp\u00e6ndinger i musklerne<\/li><\/ul>"},"id":"5dec897e-0fc1-41ce-9a87-1aa263cac81f","isHidden":false,"type":"list"},{"content":{"text":"<p>En ting er de helt konkrete signaler, du m\u00e6rker i din krop. Op til en eksamen kan stress ogsa\u030a pa\u030avirke din psyke. For nogle en helt del. Her er det vigtigt, at du f\u00f8rst og fremmest l\u00e6rer at l\u00e6se de symptomer, du oplever. Sa\u030a bliver det nemmere for dig at ha\u030andtere dem.<\/p>"},"id":"5ce5b5c1-cdfb-4c04-ab91-873634791ab7","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Stress ved eksamen kan psykisk opleves som:<\/strong><\/p>"},"id":"746abf5b-122c-48ee-96f6-f719162ddf71","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Nedtrykted<\/li><li>Glemsomhed<\/li><li>Rastl\u00f8shed<\/li><li>Panik<\/li><li>Pr\u00e6stationsangst<\/li><\/ul>"},"id":"817adc23-91c9-4c0b-86a0-cff180599a66","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"De tre typiske grunde til, at du oplever eksamensstress"},"id":"d5cf477b-5982-4c5a-a531-a6198fb5363d","isHidden":false,"type":"heading"},{"content":{"text":"<p>Eksamensangst kommer snigende, na\u030ar der er ubalance mellem det, du f\u00f8ler, du b\u00f8r kunne klare, og det du rent faktisk kan.<\/p>"},"id":"2677d6da-4d43-4f91-a1ee-1c9683e3bcfa","isHidden":false,"type":"text"},{"content":{"text":"<p>Oftest bunder det i, at l\u00e6sebyrden er st\u00f8rre end Rundeta\u030arn, men tiden for knap til bare at komme en tredjedel op i ta\u030arnet. Andre vil opleve pr\u00e6stationsangst for en eksamen, fordi de f\u00f8ler, at de skal pr\u00e6stere som en topatlet pa\u030a sit absolut h\u00f8jeste \u2013 hver gang.<\/p>"},"id":"ccf71b28-ff6a-496d-908e-6047e55a2c47","isHidden":false,"type":"text"},{"content":{"text":"<p>Kan du genkende det? Nedenfor uddyber vi de typiske grunde til stress ved eksamen.<\/p>"},"id":"b897cbd3-e48a-4abb-9d72-80b5afc613b3","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>1. Du har alt for h\u00f8je forventninger til dig selv<br><\/strong>Kender du de her tanker, du na\u030ar skal til eksamen? Sa\u030a kan dine egne forventninger til dig selv v\u00e6re med til at give dig stress.<\/p>"},"id":"67fa90ee-5d0d-4519-9806-57ce98a27875","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201cJeg er ikke god nok, hvis jeg ikke fa\u030ar 12!\u201d<\/p>"},"id":"c8c95cf9-6145-4cca-9ca8-8f422dcdd3c3","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201cAlle andre klarer det bedre end mig!\u201d<\/p>"},"id":"a60ffd65-6b8c-4d21-b4fc-4061d1ce7ed8","isHidden":false,"type":"text"},{"content":{"text":"<p>\u201cAndre t\u00e6nker da\u030arligt om mig, hvis jeg fa\u030ar en da\u030arlig karakter!\u201d<\/p>"},"id":"b06cd330-1446-4ab6-942b-91c1c67a3c7c","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>2. Du oplever et pres fra venner og familie<br><\/strong>Mange oplever ogsa\u030a et pres fra familie eller venner. Roser dine for\u00e6ldre dig altid kun for dine pr\u00e6stationer? Eller konkurrerer I altid om at v\u00e6re den bedste i jeres vennegruppen? Sa\u030a er det ma\u030aske derfor, du oplever stress over eksamen.<\/p>"},"id":"58c20ae4-0c71-4723-bd2b-92da8f468ce4","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>3. \"Perfekt\" er blevet det nye normale<br><\/strong>\"Perfekt\" er blevet det nye normale i vores pr\u00e6stationssamfund. Vi vil v\u00e6re den bedste udgave af os selv \u2013 altid. Det kan godt v\u00e6re, at l\u00e6sebyrden til en eksamen er h\u00f8jere end Rundeta\u030arn. Men dine forventninger til sig selv er med stor sandsynlighed langt h\u00f8jere end Mount Everest. I dag er resultatet af en eksamen nemlig ikke bare et tal. Det kan have stor betydning for fremtiden.<\/p>"},"id":"bf9bbaa9-fcc1-48fe-93e3-542a8dcddc0b","isHidden":false,"type":"text"},{"content":{"text":"<p>Men kampen om det perfekte og et h\u00f8jt snit er den direkte vej til eksamensstress og pr\u00e6stationsangst.<\/p>"},"id":"9e9e4888-f7d8-4ba6-8492-85b96778712c","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"\u00d8velse: Identifice\u0301r, hvorfor du f\u00f8ler dig stresset i eksamensperioden"},"id":"61a7954e-ed43-411f-8163-88ede3ddbbd3","isHidden":false,"type":"heading"},{"content":{"text":"<p>F\u00f8rste skridt til ha\u030andtering er bevidsthed.<\/p>"},"id":"1d46b306-fa02-49af-ac1b-857eec5a7602","isHidden":false,"type":"text"},{"content":{"text":"<p>Det er derfor en god ide\u0301 at identificere, hvorfor du f\u00f8ler dig angst ved eksamen:<\/p>"},"id":"f5a8454e-3a4e-4be0-8c3b-1f588cbb453e","isHidden":false,"type":"text"},{"content":{"text":"<p>1. Skriv alle dine tanker og f\u00f8lelser ned pa\u030a et stykke papir<\/p>"},"id":"b15ccc52-62c4-4e63-97ed-bd8008d8d265","isHidden":false,"type":"text"},{"content":{"text":"<p>2. Del dem ind i grupper eller kolonner afh\u00e6ngigt af, hvilket pres de bunder i<\/p>"},"id":"c1f4d761-fcd3-4fcc-aefe-957c458e3bea","isHidden":false,"type":"text"},{"content":{"text":"<p>3. Kig p\u00e5 m\u00f8nsteret, der dannes \u2013 hvordan h\u00e6nger det sammen?<\/p>"},"id":"a9508214-d8f3-499c-96e4-de9b982d075e","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvis vi siger, at du kan g\u00f8re noget, sa\u030a din n\u00e6ste eksamen bliver en bedre oplevelse. Hvad siger du sa\u030a?<\/p>"},"id":"13ee5b2a-92f5-4d13-a698-3e9c181c237c","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"Ra\u030ad til ha\u030andtering af stress ved eksamen"},"id":"852452aa-4b65-4f22-86ed-7a79a714065b","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Lav en l\u00e6seplan \u2013 og f\u00f8lg den<br><\/strong>Struktur, struktur, struktur! Det er n\u00f8gleordet for at komme eksamensstress til livs. Hvis du fordeler din tid da\u030arligt eller kommer for sent i gang, er du bagud allerede fra start.<\/p>"},"id":"66df1ac2-dffc-462f-95ec-62dabffe2249","isHidden":false,"type":"text"},{"content":{"text":"<p>Lav derfor et (fysisk) skema med en realistisk l\u00e6seplan \u2013 og f\u00f8lg den.<\/p>"},"id":"267c16eb-3f82-4ba6-94ba-645b654d3f10","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>V\u00e6r god ved dig selv \u2013 og hold fri, na\u030ar du har fri!<br><\/strong>Det kan faktisk afhj\u00e6lpe din stress at g\u00f8re det modsatte af at l\u00e6se: at holde fri. L\u00e6g derfor pauser og fritid ind i din l\u00e6seplan.<\/p>"},"id":"bdf777c9-c730-415b-9ffd-48736b15fad2","isHidden":false,"type":"text"},{"content":{"text":"<p>S\u00f8rg for at fa\u030a noget frisk luft og lys, dyrk motion og l\u00e6g sociale planer ind, hvor du kan fa\u030a tankerne v\u00e6k fra b\u00f8gerne.<\/p>"},"id":"89a905ec-f3b8-4e2d-aaa2-78dea792ff61","isHidden":false,"type":"text"},{"content":{"text":"<p><strong>Drop hvad-nu-hvis-tankerne<br><\/strong>Dine egne tanker til dig selv og frygt for eksamen kan v\u00e6re den direkte vej til pr\u00e6stationsangst til eksamen. Du b\u00f8r derfor aktiv \u00e6ndre dine \u2018hvad nu hvis\u2019-tanker til positive tanker og visualiseringer.<\/p>"},"id":"67415536-0255-4e90-86ac-03556882f159","isHidden":false,"type":"text"},{"content":{"text":"<p>Sig dette til dig selv dagligt:<\/p>"},"id":"587c6df8-cc27-4acc-96c3-f13029fd8861","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>Jeg g\u00f8r mit allerbedste ud fra den tid, jeg har.<\/li><li>Det er ikke verdens undergang, hvis jeg fa\u030ar en karakter, jeg ikke er tilfreds med.<\/li><li>L\u00e6rer og censor vurderer min enkelte pr\u00e6station \u2013 ikke mig som person.<\/li><li>Jeg er god nok som person, uanset hvad min karakter bliver.<\/li><\/ul>"},"id":"8405dc62-de78-4261-a0e7-a9b47694df1e","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"Husk v\u00e6rkt\u00f8jerne, n\u00e6ste gang en stor eksamen n\u00e6rmer sig"},"id":"cfb42651-d9ec-4d3b-8b5f-9ccdd9ca0bb0","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der er n\u00e6sten ingen, der kan se sig fri for at have oplevet stress op til en eksamen. Men der er alligevel stor forskel pa\u030a, om det er naturlig nerv\u00f8sitet eller stress, der kan ende med at sp\u00e6nde ben \u2013 ba\u030ade for ens eksamen og psyke.<\/p>"},"id":"2e70da69-1dea-4ca8-9f60-fd12cb42534b","isHidden":false,"type":"text"},{"content":{"text":"<p>Det bedste, du kan g\u00f8re, er at bruge de v\u00e6rkt\u00f8jer, vi har v\u00e6ret igennem her. \u00d8v dig, giv dig tid til det, og sa\u030a vil du opleve, at det bliver lettere at komme igennem den n\u00e6ste eksamensperiode.<\/p>"},"id":"df312f7b-4d7d-4a3e-8594-34665c0b062a","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Eksamensstress - sådan håndterer du det. Af Jonas Schøsler.
+
+----
+
+Seodescription: I en verden, hvor det føles som om man skal være perfekt på alle parametre, er en karakter ikke bare et tal, men et stempel. Her kan du læse om hvordan du kommer præstationsangsten til livs.
+
+----
+
+Seokeywords: eksamensstress, stress, præstationsangst, hjertebanken, nedtrykthed, kvalme
+
+----
+
+Seoimage: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 

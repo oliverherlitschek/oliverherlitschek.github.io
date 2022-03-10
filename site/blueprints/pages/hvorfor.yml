@@ -1,0 +1,76 @@
+title: Hvorfor
+icon: ⁉️
+
+status:
+  draft: true
+  listed: true
+
+tabs:
+  content:
+      fields:
+        description:
+          label: Description
+          type: textarea
+          width: 1/3
+        tagline:
+          label: Tagline
+          type: text
+          width: 1/3
+        cover:
+          label: Cover
+          type: files
+          multiple: false
+          width: 1/3
+        values:
+          label: Values
+          type: structure
+          fields:
+            valuename:
+              label: Name
+              type: text
+            valuedescription:
+              label: Description
+              type: blocks
+        therapy:
+          label: Therapy
+          type: structure
+          fields:
+            question:
+              label: Name
+              type: text
+            answer:
+              label: Description
+              type: blocks
+        business:
+          label: Business
+          type: structure
+          fields:
+            question:
+              label: Name
+              type: text
+            answer:
+              label: Description
+              type: blocks
+        developmenttext:
+          label: Development text
+          type: textarea
+        development:
+          label: Development
+          type: structure
+          fields:
+            question:
+              label: Name
+              type: text
+            answer:
+              label: Description
+              type: blocks
+        space:
+          label: Space
+          type: files
+        thankyou:
+          type: textarea
+          label: Thank you
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

@@ -1,0 +1,16 @@
+title: Sandbox
+
+tabs:
+  content:
+    columns:
+      - width: 1/2
+        fields:
+          colours:
+            type: structure
+            label: Colours
+            fields:
+              colour:
+                type: text
+                width: 1/4
+      - width: 1/2
+        

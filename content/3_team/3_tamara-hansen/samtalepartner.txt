@@ -1,0 +1,92 @@
+Title: Tamara Hansen
+
+----
+
+Firstname: Tamara
+
+----
+
+Email: tamara@avilius.dk
+
+----
+
+Lastbooked: 6
+
+----
+
+Capacity: 0
+
+----
+
+Video:
+
+- tamara-hansen.mp4
+
+----
+
+Portrait:
+
+- tamara-hansen-avilius-5.jpg
+
+----
+
+Secondportrait:
+
+- tamara-hansen-avilius-6.jpg
+
+----
+
+Thirdportrait:
+
+- tamara-hansen-avilius-1.jpg
+
+----
+
+Experience: Angsttanker, Frygt, Relationer, Kommunikation, Barndomstraumer, Opvækst, Selvforståelse, Selvværd, Tankemønstre, Vaner, Motivation, Krop og sundhed
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Tamara er en virkelig dygtig terapeut.
+    Hun er velforberedt, vedkommende og
+    kommer både med baggrundsviden for de
+    psykologiske mekanismer og gode
+    værktøjer.
+  author: Tidligere klient
+- 
+  quote: >
+    Tamara er meget forstående og evner, at
+    sætte sig ind i ens sted, hvilket gør
+    at man føler sig tryg i hendes hænder.
+  author: Tidligere klient
+
+----
+
+Description:
+
+Min tilgang kan sammenlignes med det at lægge et puslespil; jeg vil være opmærksom på din personlige fortælling, så jeg kan danne mig et overblik over brikkerne, deres mønstre og deres mulige kombinationer, hvorefter vi i fællesskab finder ud af samle dem.
+
+Det er mit håb, at min nysgerrighed og bestræbelse på at rede trådene systematisk ud betyder, at du går fra vores samtaler med nye perspektiver samt konkrete og brugbare værktøjer.
+
+Jeg leder også gruppeforløbet (link: https://avilius.dk/grupper/angst text: Angst) her i Avilius.
+
+----
+
+Seotitle: Mød Tamara 🌻
+
+----
+
+Seodescription: Jeg vil være opmærksom på din personlige fortælling, så jeg kan danne mig et overblik over brikkerne, deres mønstre og deres mulige kombinationer.
+
+----
+
+Seokeywords: værktøj, perspektiver, overblik, fællesskab
+
+----
+
+Seoimage:
+
+- tamara-second.jpg

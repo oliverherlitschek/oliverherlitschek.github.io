@@ -1,0 +1,76 @@
+Title: Kunst i det terapeutiske rum: Det Enogtyvende Forår
+
+----
+
+Date: 2021-04-21
+
+----
+
+Card: false
+
+----
+
+Theme: c377e5
+
+----
+
+Author: Oliver Herlitschek
+
+----
+
+Authorlink:
+
+- hvorfor/oliver-herlitschek
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- >
+  det-enogtyvende-foraar-installation-emma-kallan-avilius.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Vi er glade for at kunne \u00e5bne verdens m\u00e5ske f\u00f8rste for\u00e5rsudstilling <a href=\"https:\/\/fb.me\/e\/56wMzwnb4\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Det Enogtyvende Foraar<\/a>, pr\u00e6senteret af Avilius og kurateret af Ida Glitre.<\/p>"},"id":"27b5a154-54b4-4f5c-bc5a-2eae7dec2020","isHidden":false,"type":"text"},{"content":{"text":"<p>Udstillingen tager afs\u00e6t i tanker omkring ungdommen og dens mangefacetterede natur, og har til hensigt at unders\u00f8ge hvordan kunst kan bidrage til det terapeutiske rum. Ligeledes er de bidragende kunstneres v\u00e6rker udvalgt netop fordi de form\u00e5r at udtrykke ungdommens mange sider, fra det meget konkrete til det mere eksistentielle aspekt af det at v\u00e6re ung.<\/p>"},"id":"b8a3adfb-6f51-437a-911e-eba77f93097b","isHidden":false,"type":"text"},{"content":{"text":"<p>De udstillende kunstnere er Ihsan Saad, Olivia Rode Hvass, Karoline Hvidtfeldt, Emma Kallan, Johanne Anastasia Stoffersen og Carl Benny Robert.<\/p>"},"id":"118231f4-b7a9-4703-9735-17d94fb9d6da","isHidden":false,"type":"text"},{"content":{"text":"<p>Udstillingen er \u00e5ben efter aftale, ellers gl\u00e6der vi os til at se jer til ferniseringen d. 14. maj kl. 17-20 p\u00e5 Vesterbrogade 35 1.tv. Husk god afstand og j\u00e6vnlig afspritning \/ h\u00e5ndvask \u2661<\/p>"},"id":"97db1819-dd29-4ef7-8e94-7873f55b7852","isHidden":false,"type":"text"},{"content":{"text":"<p><a href=\"https:\/\/fb.me\/e\/56wMzwnb4\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Facebook event<\/a><\/p>"},"id":"6b0b69a0-df7b-46c7-87a8-8c3d1721756d","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Forårsudstilling i Avilius!
+
+----
+
+Seodescription: Vi er glade for at kunne åbne verdens måske første forårsudstilling - præsenteret af Avilius og kurateret af Ida Glitre.
+
+----
+
+Seokeywords: ung, Avilius, kunstnere, ungdommen
+
+----
+
+Seoimage: 
+
+----
+
+Introduction:
+
+Vi er glade for at kunne åbne verdens måske første forårsudstilling (link: https://fb.me/e/56wMzwnb4 text: Det Enogtyvende Forår), præsenteret af Avilius og kurateret af Ida Glitre.
+Udstillingen tager afsæt i tanker omkring ungdommen og dens mangefacetterede natur, og har til hensigt at undersøge hvordan kunst kan bidrage til det terapeutiske rum. Ligeledes er de bidragende kunstneres værker udvalgt netop fordi de formår at udtrykke ungdommens mange sider, fra det meget konkrete til det mere eksistentielle aspekt af det at være ung.
+De udstillende kunstnere er Ihsan Saad, Olivia Rode Hvass, Karoline Hvidtfeldt, Emma Kallan, Johanne Anastasia Stoffersen og Carl Benny Robert.
+Udstillingen er åben efter aftale, ellers glæder vi os til at se jer til ferniseringen d. 14. maj kl. 17-20 på Vesterbrogade 35 1.tv. Husk god afstand og jævnlig afspritning / håndvask ♡
+(link: https://fb.me/e/56wMzwnb4 text: Facebook event)
+
+----
+
+Link: 
+
+----
+
+Category: Blog

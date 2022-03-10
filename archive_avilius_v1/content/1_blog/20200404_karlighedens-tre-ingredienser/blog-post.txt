@@ -1,0 +1,106 @@
+Title: Kærlighedens tre ingredienser
+
+----
+
+Date: 2020-04-04
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Cover:
+
+- karlighed.jpg
+
+----
+
+References: 
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "<a href=\"https://da.wikipedia.org/wiki/Robert_Sternberg\">Robert Sternberg</a> er en kendt amerikansk psykolog, der st\u00e5r bag indflydelsesrige teorier inden for bl.a. intelligens, kreativitet, tankem\u00f8nstre og k\u00e6rlighed \u2013 og det er netop k\u00e6rlighed, vi dykker ned i her. I f\u00f8lge Sternbergs teori <em>The Triangular Theory of Love </em>best\u00e5r k\u00e6rlighed best\u00e5r af tre komponenter:",
+        "id": "_dynnasxli",
+        "type": "paragraph"
+    },
+    {
+        "attrs": {
+            "language": "html"
+        },
+        "content": "\ud83e\udd75<strong>Passion</strong> er den drift, der leder til et romantisk forhold. Det er fysisk tiltr\u00e6kning, forelskelse og sex.",
+        "id": "_bnka3syz4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83d\udc6f\u200d\u2640\ufe0fIntimitet</strong><em> </em>er f\u00f8lelsen af n\u00e6rhed, forbundethed og tilknytning til en anden person. Du deler hemmeligheder og information med denne person, som du ikke deler til enhver anden.",
+        "id": "_947kqg314",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83e\udd1dForpligtelse </strong>er beslutningen om, at vi er i et forhold og ligeledes kalder det et forhold. Det indeb\u00e6rer ogs\u00e5 en forpligtelse p\u00e5 at ville opretholde forholdet over en l\u00e6ngere periode.",
+        "id": "_t4whg4jep",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Sternberg argumenterer for, at det ikke er k\u00e6rlighed, hvis ikke alle tre komponenter er g\u00e6ldende. I Sternbergs teori har du alts\u00e5 <em>fuldendt k\u00e6rlighed</em>, hvis du har intimitet, passion og forpligtelse. Det rejser selvf\u00f8lgelig en del sp\u00f8rgsm\u00e5l om, hvad det s\u00e5 er, hvis ikke du har alle tre eller kun har nogle af dem. Det unders\u00f8ger vi nu ved at kombinere dem p\u00e5 forskellige m\u00e5der.",
+        "id": "_3a062j1oc",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83d\udeabIkke-k\u00e6rligheden</strong><br>Har I slet ingen af Sternbergs tre komponenter, har I <em>ikke-k\u00e6rlighed</em>. Ikke-k\u00e6rlighed er typisk det forhold, du har til en tilf\u00e6ldig person, du g\u00e5r forbi p\u00e5 gaden. Du har ingen f\u00f8lelse af intimitet og f\u00f8ler dig ikke forpligtet til at opretholde et forhold med personen. Ligeledes er du nok heller ikke seksuelt tiltrukket af personen.",
+        "id": "_nj63cp4mf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83d\udc6f\u200d\u2640\ufe0fIntimitet uden passion og forpligtelse<br></strong>Oplever du intimitet med en person, men ikke passion eller forpligtelse, s\u00e5 er det <em>liking</em>, som Sternberg kalder det. Der er ingen seksuel tiltr\u00e6kning eller et \u00f8nske om at investere tid og f\u00f8lelser i at udvikle forholdet. Typisk ser vi <em>liking</em> i perif\u00e6re venner og bekendte. Hvis du oplever intimitet med en person, men ikke passion eller forpligtelse Dette vil v\u00e6re g\u00e6ldende i et mere perifert venskab, alts\u00e5 de mennesker du har et venskabeligt forhold til, uden at det er dine t\u00e6tteste venner.",
+        "id": "_mnjkphvpw",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83e\udd75Passion uden intimitet og forpligtelse<br></strong>Hvis du er passioneret og har en seksuel tiltr\u00e6kning til en anden person, uden at have intimitet eller forpligtelse, s\u00e5 har du en <em>blind forelskelse</em>. Vi kunne ogs\u00e5 kalde det for k\u00e6rlighed ved f\u00f8rste blik. Du kender ikke personen, I har ikke delt nogen hemmeligheder, og du er ikke forpligtet til forholdet i fremtiden. Du t\u00e6nker slet ikke p\u00e5 fremtiden, du t\u00e6nker p\u00e5 <em>lige nu</em> og du er voldsomt tiltrukket af den anden.",
+        "id": "_1eghh3z09",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83e\udd1dForpligtelse uden passion og intimitet</strong><br>I er ikke intime med hinanden og f\u00f8ler jer ikke forbundne med hinanden. I deler ikke ting med hinanden og der er ingen fysisk tiltr\u00e6kning eller seksuel ophidselse. Til geng\u00e6ld er I forpligtede p\u00e5 at opretholde forholdet. Den slags kalder Sternberg for <em>tom k\u00e6rlighed</em>. Det er ofte det sidste stadie i et langvarigt forhold, der ikke l\u00e6ngere fungerer. Det kunne v\u00e6re to mennesker, der bliver sammen pga. b\u00f8rn. Det kan ogs\u00e5 v\u00e6re man bliver sammen af \u00f8konomiske grunde eller af frygten for, hvad andre ville t\u00e6nke, hvis man gik fra hinanden.",
+        "id": "_6e95knvng",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83e\udd75\ud83d\udc6f\u200d\u2640\ufe0fIntimitet og passion uden forpligtelse</strong><br>I deler jeres verden med hinanden og I er tiltrukket af hinanden, men ingen af jer er forpligtede til jeres forhold. Sternberg kalder denne her variant for <em>romantisk k\u00e6rlighed</em>. En masse fysisk tiltr\u00e6kning og udveksling af f\u00f8lsomme informationer, men ingen forpligtelse. Det er typisk s\u00e5dan her et forhold starter. I bruger sandsynligvis ikke ordet \u201delsker\u201d i det her stadie, fordi ordet forpligter \u2013 hvilket I ikke er klar til endnu.",
+        "id": "_bamsfbpsq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83d\udc6f\u200d\u2640\ufe0f\ud83e\udd1dIntimitet og forpligtelse uden passion<br></strong>I deler jeres hemmeligheder med hinanden og er forpligtede til forholdet, men uden at v\u00e6re fysisk tiltrukkede af hinanden. Denne variant kalder Sternberg for <em>kammeratlig k\u00e6rlighed. </em>Det kunne for eksempel v\u00e6re forholdet til din bedste ven.",
+        "id": "_ow76aq9hh",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>\ud83e\udd75\ud83e\udd1dPassion og forpligtelse uden intimitet<br></strong>\u201dJeg er seksuelt tiltrukket af dig, men jeg er ikke interesseret I at vide s\u00e6rligt meget om dig, og jeg har ikke lyst til at dele noget om mig selv. Jeg vil til geng\u00e6ld gerne opretholde vores forhold\u201d. Denne form for k\u00e6rlighed <em>illusorisk k\u00e6rlighed</em>. Det er en hvirvelvind af flirteri, en Hollywood-romance, der m\u00e5ske ender i et spontant bryllup i Las Vegas. Men efter et par dage, g\u00e5r det op for jer, at det ikke var en s\u00e6rligt god id\u00e9. I et forpligtede til hinanden seksuelt, men I har egentligt ikke s\u00e6rligt meget til f\u00e6lles. Og m\u00e5ske er tilliden der ikke helt.",
+        "id": "_o020iiks0",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Kunne du godt t\u00e6nke dig at blive klogere p\u00e5 k\u00e6rligheden, s\u00e5 kan du tilmelde dig vores nye <a href=\"https://avilius.dk/groups\">gruppeforl\u00f8b om k\u00e6rlighed</a>, som starter op i juni.",
+        "id": "_ztkb7riwq",
+        "type": "paragraph"
+    }
+]

@@ -1,0 +1,197 @@
+Title: Avilius
+
+----
+
+Announcement: 
+
+----
+
+Phonetimes:
+
+- 
+  day: 2021-12-31
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-02
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-04
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-06
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-08
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2021-12-10
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-12
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-14
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-16
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-18
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-20
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-22
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-24
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-26
+  from: 10
+  to: 12
+  toggle: 'false'
+- 
+  day: 2022-01-28
+  from: 15
+  to: 17
+  toggle: 'false'
+- 
+  day: 2022-01-30
+  from: 10
+  to: 12
+  toggle: 'false'
+
+----
+
+Quotes:
+
+- 
+  text: >
+    "Den der ønsker at leve livet om, har
+    overhovedet ikke levet" — Karen
+    Blixen, 1932
+- 
+  text: >
+    "Kroppen er et gidsel, en jolle
+    fortøjet i sit eget mørke" — First
+    Flush, Vildgæret Ensomhed
+  day: >
+    "Mørket trykker ind mod ruden, hører
+    vinden suser derude. Tror at jeg har det
+    som stenene, bølgerne bruser imod." —
+    Hans Philip, Saa Blaa
+- 
+  text: >
+    "Én dag af gangen med min ryg op af
+    muren, hovedet helt i vejret og benene
+    på jorden" — Artigeardit, Stå Op Gå
+    Ned
+  day: >
+    "Aldrig sælg dig selv – men vid hvad
+    du er værd" — Artigeardit,
+    imorgen:igår
+- 
+  text: >
+    "For there is always light, if only
+    we’re brave enough to see it – if
+    only we’re brave enough to be it" —
+    Amanda Gorman, The Hill We Climb
+  day: |
+    "I ain't living in the dark no more; it's not a promise, I'm just gonna call it." — Bon Iver, Beth/Rest
+- 
+  text: >
+    "The only way out is through" —
+    Iceage, Lockdown Blues
+- 
+  text: >
+    "Hvis du kunne gøre det hele igen,
+    ville du gøre det hele igen" — Caspar
+    Eric, Alt hvad du ejer
+
+----
+
+Testimonials:
+
+- 
+  quote: >
+    Det føltes faktisk lidt som at snakke
+    med en rigtig god veninde, som bare
+    havde mange flere kloge ting at sige.
+  author: 'Tidligere klient om (link: /team/ragnhild-mohn text: Ragnhild)'
+- 
+  quote: >
+    Det giver så meget god energi at tale
+    med dig 🌸 Det var rigtig givtigt og
+    skønt! Vi ses d. 7!
+  author: 'Tidligere klient om (link: /team/esther-safir text: Esther)'
+- 
+  quote: >
+    Jeg har følt mig enormt forstået hele
+    vejen igennem. Der har generelt hersket
+    utrolig meget empati i lokalet.
+  author: 'Tidligere klient om (link: /team/ragnhild-mohn text: Ragnhild)'
+- 
+  quote: >
+    Avilius fokuserer på en målgruppe, der
+    virkelig har brug for det — keep up
+    the good work!
+  author: Imran Rashid, læge og forfatter
+
+----
+
+Eventphoto:
+
+- >
+  avilius-talks-sebastian-nathan-honey-moon.jpg
+
+----
+
+Guest: Sebastian Nathan
+
+----
+
+Eventdescription: Lyt med, når Eskild taler med Sebastian Nathan om hans anmelderroste digtsamling og debut ”Honey Moon”.
+
+----
+
+Eventdate: 2021-12-18
+
+----
+
+Toggle: false
+
+----
+
+Eventlink: https://open.spotify.com/show/1XIBT1EZRPdObDx3bQmnvZ?si=0028d235925b4883
+
+----
+
+Showdate: true

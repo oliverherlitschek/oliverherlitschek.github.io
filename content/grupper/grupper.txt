@@ -1,0 +1,213 @@
+Title: Gruppeforløb
+
+----
+
+Headline: Livet er en holdsport.
+
+----
+
+Tagline: Vi laver gruppeterapi målrettet det gode ungdomsliv.
+
+----
+
+Sessionheadline: Næste holdstart
+
+----
+
+Sessiontext:
+
+Her ser du vores aktive forløb.
+
+Venteliste betyder, at vi endnu ikke har fastsat en dato, men venter på, at holdet bliver fyldt.
+
+----
+
+Comparisonheadline: Solorejse eller med holdet på tur?
+
+----
+
+Comparisontext: Vi tror ofte, at vores problemer er helt specielle og at vi står alene med dem. Men faktisk er langt de fleste af livets udfordringer almenmenneskelige oplevelser. Derfor kan gruppeterapi faktisk være mere effektivt end individuelle sessioner med en terapeut.
+
+----
+
+Comparisons:
+
+- 
+  individual: ét unikt udgangspunkt
+  group: mange forskellige perspektiver
+- 
+  individual: defineret af terapeutens værktøjskasse
+  group: >
+    en mulighed for at "crowdsource"
+    terapeutiske værktøjer
+- 
+  individual: 'SU-venligt (299,- per session)'
+  group: 'endnu billigere — fra 199,- per gang'
+
+----
+
+Didyouknow: At de fleste studier viser, at gruppeterapi har en langt større terapeutisk effekt end individuel terapi?
+
+----
+
+Seotitle: Sig hej til Avilius' nye gruppeforløb 👯‍♀️
+
+----
+
+Seodescription: Livet er en holdsport. Sammen med andre unge tackler vi de problemer, vi allesammen oplever — fra stress og præstationsangst til det knuste hjerte.
+
+----
+
+Seokeywords: kærlighed, gruppeforløb, kulturclash, præstationspres, præstationskultur
+
+----
+
+Seoimage:
+
+- Grupper-Avilius-Hero-Resized.jpg
+
+----
+
+Loopheadline: Træt af gruppearbejde?
+
+----
+
+Looptext:
+
+Det forstår vi godt.
+Vi har også (link: /individuelle-samtaler text: individuelle samtaler).
+
+----
+
+Caption: 
+
+----
+
+Introduction:
+
+[
+    {
+        "attrs": [],
+        "content": "Vores gruppeforl\u00f8b baserer sig p\u00e5 psykologisk litteratur, egne oplevelser og de gennemg\u00e5ende temaer, som vi ser i vores individuelle forl\u00f8b med unge.",
+        "id": "_epjTROc1M",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Vi tilbyder et evidensbaseret og fagligt indblik i forl\u00f8bets tema med frihed og plads til at dele egne erfaringer med gruppens \u00f8vrige medlemmer. Avilius er et fortroligt rum med tavshedspligt, der betyder, at vi kan finde svar p\u00e5 nogle af de ting, som kan v\u00e6re sv\u00e6re at tage op med venner og familie.",
+        "id": "_y73c2ckly",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "En gruppe best\u00e5r af mellem fire og otte personer (eksklusive gruppelederen), der gennem forl\u00f8bet opbygger en st\u00e6rk tilknytning, tillid og n\u00e6rv\u00e6r til hinanden.",
+        "id": "_jmd96k2b3",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Gruppeforl\u00f8b har masser fordele. Her er nogle af de vigtige:",
+        "id": "_ojpf1340s",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Universalitet<br></strong>Mange af os lever med tanken om, at vi st\u00e5r alene med vores udfordringer, f\u00f8lelser og tanker. I en gruppe brydes isolationsf\u00f8lelsen i m\u00f8det med andre med samme tanker.",
+        "id": "_n189fbo5o",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "",
+        "id": "_d68rod2bq",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Interpersonel l\u00e6ring<br></strong>En gruppe giver en unik mulighed for at unders\u00f8ge sig selv og sine reaktioner \u2013 og hvordan de spejles i de andre deltagere. Gruppen bliver et mikrokosmos, hvor vi l\u00e6rer af den feedback, vi f\u00e5r fra hinanden.",
+        "id": "_kbdkryhuj",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "",
+        "id": "_8h6xcex2v",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Udveksling af information<br></strong>I grupper udveksler vi information, r\u00e5d og erfaringer om det at v\u00e6re menneske. N\u00e5r vi giver r\u00e5d, stimulerer det vores egen selvf\u00f8lelse \u2014 samtidig med, at det hj\u00e6lper den, der modtager r\u00e5det.",
+        "id": "_na0frwn65",
+        "type": "ul"
+    },
+    {
+        "attrs": {
+            "indent": 0
+        },
+        "content": "",
+        "id": "_fqpstcea4",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvordan fungerer det?",
+        "id": "_6mpjczgkl",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "Det er gratis at tilmelde sig et forl\u00f8b. Er der ledige pladser, f\u00e5r du en invitation til en gratis introaften sammen med gruppens andre medlemmer. Til introm\u00f8det m\u00f8der vi hinanden og gennemg\u00e5r hvad forl\u00f8bet indeholder. Er der ikke plads i gruppen, kommer du p\u00e5 venteliste og vil blive kontaktet ved n\u00e6ste holdstart.",
+        "id": "_0XBkTo4BZ",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Efter introaftenen modtager du en mail og skal bekr\u00e6fte, om du vil deltage i forl\u00f8bet og hvordan du \u00f8nsker at betale (se nedenfor). Efter betaling modtager du en mail med informationer om gruppens m\u00f8dested og tidspunkt.",
+        "id": "_v25ohS8R1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det er <strong>gratis</strong> at tilmelde sig en introaften.",
+        "id": "_rm24kn4h1",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Betaling og rater",
+        "id": "_7l1a0l52q",
+        "type": "h2"
+    },
+    {
+        "attrs": [],
+        "content": "I Avilius ved vi, at det kan v\u00e6re sv\u00e6rt som ung at have r\u00e5d til at pleje psyken og sj\u00e6len lige s\u00e5 meget som kroppen. Derfor har vi gjort det s\u00e5 billigt som muligt. Vi tilbyder tre forskellige betalingsmuligheder:",
+        "id": "_v1r1cxrbf",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Basic </strong><code>8 \u00d7 249,-</code><br>Bel\u00f8bet betales efter hver session.",
+        "id": "_h93vv8p13",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Plus </strong><code>2 \u00d7 896,- (spar 10%)</code><br>Bel\u00f8bet betales inden forl\u00f8bets start og igen i midten af forl\u00f8bet. Du f\u00e5r desuden en billet til en valgfri temaaften med i prisen.",
+        "id": "_53vz2vb1w",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Prime </strong><code>1 \u00d7 1600,- (spar 20%) \ud83d\udd25</code><br>Bel\u00f8bet betales inden forl\u00f8bets start. Du f\u00e5r desuden en billet til en valgfri temaaften med i prisen + en opf\u00f8lgende individuel samtale efter forl\u00f8bets afslutning.<br><br>Alle betalingsmuligheder er bindende for hele perioden, for at sikre kontinuitet i gruppeforl\u00f8bet. L\u00e6s mere i <a href=\"https://avilius.dk/blog/handelsbetingelser\">handelsbetingelser</a>.",
+        "id": "_j8wlkizv9",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Cover: - boger.jpg

@@ -1,0 +1,79 @@
+Title: Græsset er altid grønnere – et tidsaktuelt syndrom
+
+----
+
+Date: 2020-12-26
+
+----
+
+Card: true
+
+----
+
+Theme: bbd663
+
+----
+
+Author: Ragnhild Mohn
+
+----
+
+Authorlink:
+
+- team/ragnhild-mohn
+
+----
+
+Tags: selvværd, indsigt, mange, mange mange, rigtigt, flere tags, tusinde tags, femten tags, tag tag tag
+
+----
+
+Cover:
+
+- avilius-blog-graesset-groennere.jpeg
+
+----
+
+References:
+
+- 
+  name: "Kunsten at elske", Ovidius
+  url: >
+    https://www.saxo.com/dk/ovids-elskovskunst_publius-ovidius-naso_indbundet_9788702294484
+- 
+  name: "Nextopia", Micael Dahlén
+  url: ""
+
+----
+
+Text: [{"content":{"text":"<p>Du ved, hvordan det er \u2013 \u201dgr\u00e6sset er altid gr\u00f8nnere p\u00e5 den anden side\u201d.<\/p>"},"id":"df694d2d-99fc-44be-bc7e-0b840581f7f4","isHidden":false,"type":"text"},{"content":{"text":"<p>Du har h\u00f8jst sandsynligt sagt det. Jeg t\u00e6nker det hele tiden. Det opleves som en sandhed, som gang p\u00e5 gang bruges til at forklare den hverdagslige misundelse, rastl\u00f8shed og utilfredshed.<\/p>"},"id":"ee7b5e58-3928-42f4-a00a-f557210babda","isHidden":false,"type":"text"},{"content":{"text":"<p>Vores blik glider ofte over p\u00e5 den anden side af hegnet, og vi beklager os over vores egen have.<\/p>"},"id":"2842e611-64d1-478c-9464-0d5687ed611d","isHidden":false,"type":"text"},{"content":{"text":"<p>I de n\u00e6ste par minutter \u00f8nsker jeg at dykke ned i et af menneskesindets st\u00f8rste tankefejl \u2013 at nuet, din egen person og dit eget liv aldrig bliver godt nok. At gr\u00e6sset er gr\u00f8nnere p\u00e5 den anden side. Jeg har nemlig fundet ud af, at b\u00e5de den romerske kunstner Ovid, en gammel evolutionsforsker fra 60'erne og Justin Bieber har kloge ting at sige om menneskets iboende rastl\u00f8shed.<\/p>"},"id":"4955f313-cac8-4f4d-bcc1-1eca014cc91d","isHidden":false,"type":"text"},{"content":{"text":"<p>Den romerske kunstner Ovid, kunne i \u00e5r 2 e.Kr meddele, at naboens kv\u00e6g havde st\u00f8rre yver. Ovids litteratur omhandlede dog ikke landbrug. I sin bog \u201d<a href=\"https:\/\/www.saxo.com\/dk\/ovids-elskovskunst_publius-ovidius-naso_indbundet_9788702294484\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kunsten at Elske<\/a>\u201d udforskede han den menneskelige tilb\u00f8jelighed til at kigge p\u00e5 og beg\u00e6re andres parforhold. Allerede i \u00e5r 2 s\u00e5s tendensen til at opfatte andres liv som bedre. Det lader alts\u00e5 til at beg\u00e6ret og misundelsen har fulgt mennesket i mange tusinder \u00e5r. If\u00f8lge evolutionsforsker <a href=\"https:\/\/en.wikipedia.org\/wiki\/Merlin_Donald\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Merlin Donald<\/a> ligger imitation af andre helt indgroet i vores biologiske system.<\/p>"},"id":"b8532083-4220-4924-bd5c-acea25270a8b","isHidden":false,"type":"text"},{"content":{"text":"<p>Vores efterligningsmekanismer g\u00f8r, at vi kigger p\u00e5 andres handlinger, tanker og emotioner, og bruger disse som model for, hvad der er rigtigt. En smart mekanisme, da den fastholder os i f\u00e6llesskab og sikrer vores overlevelse.<\/p>"},"id":"a615bdd2-aaac-49ca-922b-4343713086db","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["jonas-schoesler-avilius-det-meningsfulde-liv.jpg"],"description":"**Vil du gerne l\u00e6re at hvile mere i det sted, du er?**\nJonas er samtalepartner i Avilius og leder af et gruppeforl\u00f8b, der handler om at finde sine egne m\u00e5l i livet \u2014 s\u00e5 man ikke beh\u00f8ver jage andres id\u00e9 om succes.","link":"https:\/\/avilius.dk\/grupper\/det-meningsfulde-liv","linktext":"Find meningen med livet \ud83d\ude05","linkcolor":"lpurple","linktextcolor":"purple"},"id":"01a0defd-3df1-4aea-baf5-b2b4425f9699","isHidden":false,"type":"cta"},{"content":{"text":"<p>Imitation tillader, at vi indl\u00e6rer essentielle v\u00e6rkt\u00f8jer som sprog og kulturelle koder for, hvad der er lov og ikke lov. Det er til geng\u00e6ld dybere end som s\u00e5. Hvad andre v\u00e6rds\u00e6tter, vil vi ogs\u00e5 v\u00e6rds\u00e6tte. Og det er her, at det bliver problematisk. Det kan vise sig, at vores biologiske trang til imitation ogs\u00e5 har en tendens til at lokke os ind i en hule af misundelse og beg\u00e6r.<\/p>"},"id":"b2206ed2-f130-468e-a9e9-d4573601a274","isHidden":false,"type":"text"},{"content":{"text":"<p>Kristendommens Gud anerkendte problemet og sendte de 10 bud i retning ad jorden. <em>Du m\u00e5 ikke beg\u00e6re din n\u00e6stes hus.<\/em> Alt synes dog at pege p\u00e5, at buddet havde en lille effekt. Til trods for den kristne kirkes overbevisende retorik, bliver vi ved med at beg\u00e6re vores n\u00e6stes hus, have, Tesla, k\u00e6reste og iPhone 12 Pro. Lad os kalde det for <em>gr\u00e6sset-er-gr\u00f8nnere-syndromet<\/em>.<\/p>"},"id":"c962f221-10c4-4025-9ed5-7a7b9b29a2b2","isHidden":false,"type":"text"},{"content":{"text":"<p>Gr\u00e6sset-er-gr\u00f8nnere-syndromet har mange udtryksformer. Vi har den 24-\u00e5rige unge mand, der er bange for at forpligte sig med sin s\u00f8de k\u00e6reste, i frygt for at der findes et bedre alternativ derude. Vi har eventyreren, der konstant tjekker Momondo for gode deals til Lima, Mogadishu og Stavanger, da alt andet er bedre end regnbukser p\u00e5 cykel i K\u00f8benhavn. Vi har alle en tendens til at \u00f8nske os, at situationen vi befinder os i, var en anden.<\/p>"},"id":"34fc562b-8039-43e5-9ca4-5fc2e92c0672","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00e6lles for os alle, er vores rastl\u00f8shed og manglende evne til at hvile i nuet. Til at give os selv plads til at m\u00e6rke, hvile og v\u00e6re. Vi iagttager mangler og fejl og har sv\u00e6rt ved at forpligte os til nuet. Vi keder os, og kedsomhed associeres med stagnation.<\/p>"},"id":"e822ab45-1ac3-461a-a32d-3d5e0f869cd3","isHidden":false,"type":"text"},{"content":{"text":"<p><a href=\"https:\/\/en.wikipedia.org\/wiki\/Micael_Dahl%C3%A9n\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Micael Dahl\u00e9n<\/a> beskriver i sin bog <em><a href=\"https:\/\/www.saxo.com\/dk\/nextopia_micael-dahlen_epub_9789187419249\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Nextopia<\/a><\/em>, et forventningssamfund, hvor n\u00f8glen til lykke altid ligger i det n\u00e6ste. Denne beskrivelse bliver mere og mere pr\u00e6cis. Vi er omringet af kultur, der opfordrer os til at s\u00f8ge udad i jagten p\u00e5 nye bestr\u00e6belser.<\/p>"},"id":"828b71d5-ca84-4a9a-8cf8-fb8e72f4c57f","isHidden":false,"type":"text"},{"content":{"text":"<p>Hvor tit eksponeres du ikke for annoncer, der viser kurser, rejsedestinationer og produkter, der forkynder l\u00f8ftet om personlig udvikling? Du skal udvikles. Du skal vokse. Du skal videre.<\/p>"},"id":"3eda7f16-9e5f-44d8-aa7c-5c54d58131b2","isHidden":false,"type":"text"},{"content":{"text":"<p>Forst\u00e5 mig ret: I bund og grund er der ikke noget galt med en enkelt annonce, der reklamerer for en dejlig \u00f8 i Gr\u00e6kenland. Rejsebureauet skal ogs\u00e5 tjene penge. Gr\u00e6kenland <em>er<\/em> l\u00e6kkert. Det samme er det madkursus i Nordvest, der skal l\u00e6re dig at lave en uudtalelig ret fra de Taiwanesiske bjerge. Det er <em>summen af det hele<\/em> der giver grobund for problemer.<\/p>"},"id":"410cdc89-0158-4e5d-ac2f-21ff32c74fae","isHidden":false,"type":"text"},{"content":{"text":"<p>Du er omringet af stimuli, der frar\u00f8ver dig nuet, stilheden og den dejlige fornemmelse af intethed. Din hjerne tvinges ind i tankespor \u00e0 la \u201d<em>hvor kunne jeg ha\u2019 v\u00e6ret lige nu?<\/em>\u201d, \u201d<em>hvordan kan jeg blive lidt klogere, lidt vildere, lidt mere sp\u00e6ndende?<\/em>\u201d. Din opm\u00e6rksomhed rettes mod mangler, huller og forandringspotentiale.<\/p>"},"id":"91caba11-99a6-473d-b610-3d1c71b26062","isHidden":false,"type":"text"},{"content":{"text":"<p>Og det g\u00f8r dig tr\u00e6t. Udmattet faktisk. For mange begynder en lille f\u00f8lelse af meningsl\u00f8shed at skubbe p\u00e5 bagerst i hovedet. Hvad er egentlig pointen med det hele? Det kan f\u00f8les som om det hele sejler. Du mangler <em>fodf\u00e6ste<\/em>.<\/p>"},"id":"d74fe348-cb96-4029-bcf9-5d97bc779fff","isHidden":false,"type":"text"},{"content":{"text":"<p>Og her kommer dagens banger af et budskab: Alt hvad du har brug for, ligger i dig.<\/p>"},"id":"4dbacf53-5ecb-498d-8805-37ba7dced050","isHidden":false,"type":"text"},{"content":{"text":"<p>Du skal bare l\u00e6re dig at hvile i det. Jeg giver dig f\u00f8lgende recept:<\/p>"},"id":"f3c880f8-cf17-4d43-a033-289306e0e12f","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Tr\u00e6k vejret"},"id":"99a53524-7781-474a-8899-e23f7c282705","isHidden":false,"type":"heading"},{"content":{"text":"<p>Din vejrtr\u00e6kning fortjener mere opm\u00e6rksomhed, da den forankrer dig i nuet og bremser grubleri og ubehagelige tanker. En dyb og rolig vejrtr\u00e6kning aktiverer kroppens vagusnerve, nerven der styrer vores <em>rest-and-digest<\/em> system. Tr\u00e6k vejret imens du t\u00e6ller til fire, og pust ud imens du t\u00e6ller til 6. Gentag 7 gange. G\u00f8r det nogle gange hver dag, is\u00e6r n\u00e5r du f\u00f8ler dig stresset og overv\u00e6ldet.<\/p>"},"id":"c98e9814-5958-4ab5-887f-6f87ea30c579","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"L\u00e6g din(e) sk\u00e6rm(e) v\u00e6k"},"id":"4ee39612-e2ed-42d8-9145-9dde6bd39b3a","isHidden":false,"type":"heading"},{"content":{"text":"<p>L\u00e6g m\u00e6rke til dine omgivelser. T\u00e6l skyer. Iagttag manden p\u00e5 den anden side af lyskrydset. Kig ud i luften. T\u00e6l farver du ser i dit n\u00e6rmilj\u00f8 lige nu.<\/p>"},"id":"584a5283-1307-4935-a7ae-2b7d42cd9c66","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Kom udenfor"},"id":"ed2a3350-30a7-49fd-b5a2-26d8cf69a002","isHidden":false,"type":"heading"},{"content":{"text":"<p>Tag ud af byen (hvor statistikken siger du bor) og find en skov. Om ikke bare et tr\u00e6. Lad v\u00e6re med at tag billede af det.<\/p>"},"id":"7c9f941d-dde2-4221-b08a-c0c5a21bc376","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Lav ritualer med dig selv i hverdagen"},"id":"daae51f2-16de-4a8a-acaf-4a67bbf4af09","isHidden":false,"type":"heading"},{"content":{"text":"<p>Dyrk dit her-og-nu. Morgeng\u00e5tur? Yoga? L\u00e6sning? Puslespil? Ligge p\u00e5 gulvet og kigge i loftet? Var det noget med, at du ikke havde tid? Find tid. Lyder det idiotisk? V\u00e6r ligeglad.<\/p>"},"id":"4b566fda-03c3-4fab-83fe-d6694f47fd57","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"Udtryk din taknemmelighed"},"id":"9148b1c3-bc57-42ee-bb29-82075d8bfce8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ingenting i livet er selvsagt. Start dagen med en liste over de ting du er taknemmelig for. En smertefri krop. En n\u00e6rv\u00e6rende ven. Kage i frokostpausen. At cykelk\u00e6den ikke hoppede af i dag.<\/p>"},"id":"72db1401-3f40-4704-8b7d-32fd4806b027","isHidden":false,"type":"text"},{"content":{"text":"<p>Pr\u00f8v det, og se hvad det giver. Gider du ikke? Pr\u00f8v alligevel.<\/p>"},"id":"3f519952-639f-484d-ada6-0c760bf30a28","isHidden":false,"type":"text"},{"content":{"text":"<p>Afslutningsvist viser det sig, at Justin Biebers hit <em>As Long As You Love Me <\/em>har haft kuren til gr\u00e6sset-er-gr\u00f8nnere syndromet siden sin udgivelse i 2012.<\/p>"},"id":"9744469a-77c5-4b0b-a0c3-0a7171a9393b","isHidden":false,"type":"text"},{"content":{"text":"<p><em>But the grass ain't always greener on the other side<br>It's green where you water it<br>So I know, we got issues baby, true, true, true<br>But I'd rather work on this with you<br>Than to go ahead and start with someone new<\/em><\/p>"},"id":"b9f216e5-9deb-42b5-8cf3-d60fbc06918b","isHidden":false,"type":"text"},{"content":{"text":"<p>Beg\u00e6r og misundelse er okay, menneskeligt og biologisk. Men JB har ret \u2013 giv dit gr\u00e6s vand, g\u00f8dning og k\u00e6rlighed. S\u00e6t dig ned p\u00e5 alle fire, og fort\u00e6l gr\u00e6sset hvorfor du godt kan lide det. Det er okay at kede sig. Tag et aktivt valg og v\u00e6lg dit eget gr\u00e6s.<\/p>"},"id":"71d456d2-0673-4c0a-994a-385758860567","isHidden":false,"type":"text"},{"content":{"text":"<p><a href=\"https:\/\/www.avilius.dk\/team\/ragnhild-mohn\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ragnhild Mohn<\/a> er psykologistuderende og samtalepartner i Avilius.<\/p>"},"id":"5a782299-c005-4ca1-ba66-058a0fb1121a","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Græsset er altid grønnere – et tidsaktuelt syndrom.
+
+----
+
+Seodescription: Græsset er altid grønnere. Sådan tænker vi. Vi mennesker har en indbygget tilbøjelighed til at være utilfredse med hvor vi er i livet.
+
+----
+
+Seokeywords: avilius, rastløshed, utilfredshed, meningsløshed, personlig udvikling
+
+----
+
+Seoimage:
+
+- graesset-er-altid-groenne-avilius.gif
+
+----
+
+Introduction: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 

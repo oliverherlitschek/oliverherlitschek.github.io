@@ -1,0 +1,38 @@
+Title: Markus Jacobsen
+
+----
+
+Description:
+
+Hej. Jeg hedder Markus, jeg er uddannet psykolog og Avilius’ researcher og altmuligmand når det gælder tekster i alle afskygninger. Jeg sørger for, at vores hjemmeside er både spændende og saglig, og fra tid til anden forfatter jeg fx også debatindlæg. Derudover er jeg firmaets opmærksomhedscenter, i forhold til hvad der rører sig i psykologfaget generelt. 
+Den verden vi har skabt, ligner den verden, vi udviklede os til at kunne håndtere meget lidt. Og jeg tror især, at det er de unge der føler, at de er nødt til at være lige så hurtige og – fungere lige så upåklageligt – som den højteknologiske verden, de er omgivet af. Jeg tror også, at moderne psykologisk teori er nødt til at reflektere dette. Terapi skal kunne turde at foregribe de problemer det moderne menneske kan have, i stedet for blot at halte bagefter og prøve at passe klienten ind i forældede modeller for, hvad et menneske er.
+
+----
+
+Image:
+
+- markus-jacobsen-avilius.jpg
+
+----
+
+Firstname: Markus
+
+----
+
+Email: markus@avilius.dk
+
+----
+
+Seotitle: Markus Jacobsen - Avilius' researcher
+
+----
+
+Seodescription: Terapi skal kunne turde at foregribe de problemer det moderne menneske kan have.
+
+----
+
+Seokeywords: teori, terapi, researcher, debatindlæg
+
+----
+
+Seoimage: 

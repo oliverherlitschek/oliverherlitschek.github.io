@@ -1,0 +1,136 @@
+Title: Team
+
+----
+
+Description:
+
+### Hej! Vi studerer alle psykologi på Københavns Universitet. Vi har derfor en god teoretisk forståelse af den menneskelige psyke, men er stadig under uddannelse. Vigtigst af alt, så er vi eksperter på, hvad det vil sige at være ung. 
+
+
+### Vores mission er at forebygge mistrivsel, og det starter med, at vi tager tingene i opløbet. Derfor er vi åbensindede og nysgerrige efter at forstå dine behov, så vi kan hjælpe dig bedst muligt.
+
+----
+
+Seotitle: Mød din nye samtalepartner
+
+----
+
+Seodescription: Vi er et hold af kommende psykologer med kriblen efter at hjælpe unge. Vi fokuserer på at fange psykiske problemer i opløbet - som fx stress, før det bliver til depression. Hos os kan du tale om alt. Kom og sig hej!
+
+----
+
+Seokeywords: terapeuter, psyke, Københavns Universitet, mistrivsel
+
+----
+
+Seoimage:
+
+- michelle-second.jpg
+
+----
+
+Caption: Hos Avilius mødes vi ofte for at udveksle idéer og personlige oplevelser.
+
+----
+
+Introduction:
+
+Samtalepartnerne i Avilius studerer psykologi på Københavns Universitet.
+
+De har en god teoretisk forståelse af den menneskelige psyke og har erfaring med at arbejde med unge — men de er ikke eksperter eller professionelle terapeuter. De arbejder derfor ikke diagnostisk. De er nysgerrige, åbensindede og passionerede i deres arbejde med forebyggelse af mistrivsel.
+
+----
+
+Cover: - overhead.jpg
+
+----
+
+Looptext: Besøg Avilius-bloggen
+
+----
+
+Loop: 
+
+----
+
+Therapists:
+
+- 
+  name: Fister Løgsovs Larsen
+  portrait:
+    - justin-aranha-jas.jpg
+  description: Beskrivelsen af Fister
+- 
+  name: Cecilie Hindersson
+  portrait:
+    - justin-aranha-jason.jpg
+  description: Beskrivelse af Cecilie
+- 
+  name: Terapeut
+  portrait: [ ]
+  description: 343434t
+- 
+  name: En til
+  portrait: [ ]
+  description: 34t34t34t
+- 
+  name: Aother
+  portrait: [ ]
+  description: ererg
+- 
+  name: yep
+  portrait: [ ]
+  description: ergerg
+
+----
+
+Loop-text: 
+
+----
+
+Loop-url: - blog/testindlag
+
+----
+
+Text:
+
+Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+
+The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way. When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way. On her way she met a copy.
+
+----
+
+Address:
+
+Mægazine Inc.
+Sesamestreet 1
+Gotham City
+USA
+
+----
+
+Email: mail@maegazine.com
+
+----
+
+Phone: +49 1234 5678
+
+----
+
+Social:
+
+- 
+  platform: Twitter
+  url: https://twitter.com/getkirby
+- 
+  platform: Instagram
+  url: https://instagram.com/getkirby
+
+----
+
+Contact:
+
+Kirby Magazine Inc.
+Sesamestreet 1
+Gotham City
+USA

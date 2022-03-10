@@ -1,0 +1,50 @@
+Title: Instagram
+
+----
+
+Links:
+
+- 
+  linktext: Selvværdsforløb
+  linkurl: https://www.avilius.dk/grupper/selvvaerd
+- 
+  linktext: '299,- 🔜 399,-'
+  linkurl: >
+    https://avilius.dk/blog/om-ideologi-og-oekonomi
+- 
+  linktext: Mød Emil 💕
+  linkurl: https://avilius.dk/team/emil-andresen
+- 
+  linktext: 'Avilius Blog: Hvad er et selvværd værd?'
+  linkurl: >
+    https://avilius.dk/blog/hvad-er-et-selvvard-vard
+- 
+  linktext: Angstforløb
+  linkurl: https://avilius.dk/grupper/angst
+- 
+  linktext: 'Avilius Blog: Angst og kunsten at mestre ordet "ærgerligt" ☔️'
+  linkurl: >
+    https://www.avilius.dk/blog/angst-og-kunsten-at-mestre-ordet-aergerligt
+- 
+  linktext: Avilius Talks på Spotify
+  linkurl: 'https://open.spotify.com/show/1XIBT1EZRPdObDx3bQmnvZ?si=Kq6p6tJrSqCYahmMRNhUfw&dl_branch=1'
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 
+
+----
+
+Events: 

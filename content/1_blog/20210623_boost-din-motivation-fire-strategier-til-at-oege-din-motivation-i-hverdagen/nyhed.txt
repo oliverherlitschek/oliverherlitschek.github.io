@@ -1,0 +1,70 @@
+Title: Boost din motivation – fire strategier til at øge din motivation i hverdagen
+
+----
+
+Date: 2021-06-23
+
+----
+
+Card: false
+
+----
+
+Theme: baddfc
+
+----
+
+Author: Emil Andresen
+
+----
+
+Authorlink:
+
+- team/emil-andresen
+
+----
+
+Tags: test
+
+----
+
+Cover:
+
+- >
+  emil-andresen-boost-din-motivation-avilius.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p><a href=\"https:\/\/avilius.dk\/team\/emil-andresen\">Emil<\/a> er samtalepartner i Avilius.<\/p>"},"id":"a02ecea1-a4b2-465c-bd6c-c7715ea014b5","isHidden":false,"type":"text"},{"content":{"text":"<p>Kender du det at v\u00e5gne op og finde det sv\u00e6rt at komme ud af sengen? At begynde p\u00e5 en aflevering, eller l\u00e6se op til en eksamen? Eller m\u00e5ske bare det at s\u00e6tte en vask over, eller at komme ud ad d\u00f8ren for at m\u00f8de venner?<\/p>"},"id":"d4ae4e00-24c2-478d-a993-981371f37b03","isHidden":false,"type":"text"},{"content":{"text":"<p>Ovenst\u00e5ende er eksempler p\u00e5 helt almindelige begivenheder i unges liv. Det er samtidig begivenheder, der alle bliver nemmere, hvis man er motiveret til at udf\u00f8re de handlinger, som det kr\u00e6ver for at komme til m\u00e5ls med de ting i livet, som man gerne vil opn\u00e5.<\/p>"},"id":"cf5c333c-cf0f-4f31-b89b-1350d0d07214","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"S\u00e5 hvad er motivation egentlig?"},"id":"be730fa6-abca-47c1-a310-ffe0b0eda7f0","isHidden":false,"type":"heading"},{"content":{"text":"<p>Motivation kan sammenlignes med en cykel. En cykel har mulighed for at bev\u00e6ge sig og man\u00f8vrere i verden. Cyklen bev\u00e6ger sig til geng\u00e6ld ikke ud af fl\u00e6kken, hvis ikke der sidder nogen p\u00e5 sadlen og tr\u00e6der i pedalerne.<\/p>"},"id":"9cb53d47-7b23-4f65-99f8-d571cd6e082b","isHidden":false,"type":"text"},{"content":{"text":"<p>F\u00e6lles for cyklen og motivation er, at begge beh\u00f8ver retning, drivkraft og udholdenhed for at opn\u00e5 fremdrift \u2013 for mennesket er retningen, drivkraften og udholdenheden bare relateret til adf\u00e6rd.<\/p>"},"id":"75c7e35b-67f8-4180-968c-370abb17a74c","isHidden":false,"type":"text"},{"content":{"text":"<p>I den ovenst\u00e5ende metafor udg\u00f8r cyklen den motivation, der skal f\u00e5 dig transporteret til den endelige destination \u2013 nemlig dit m\u00e5l. Og n\u00e5rh ja, s\u00e5 sidder du selvf\u00f8lgelig p\u00e5 cyklen og styrer farten.<\/p>"},"id":"17ff3e3b-055d-4cac-9237-895103c9e49d","isHidden":false,"type":"text"},{"content":{"text":"<p>Som n\u00e6vnt i indledningen kan motivation ogs\u00e5 tage en helt omvendt form, nemlig som demotivation \u2013 og det er netop denne f\u00f8lelse, som vi kan pr\u00f8ve at omforme til reel motivation.<\/p>"},"id":"6ca3c761-67c4-45bd-bb22-adbbdd13ade6","isHidden":false,"type":"text"},{"content":{"category":"cta","image":["jonas-schoesler-avilius-det-meningsfulde-liv.jpg"],"description":"**Brug for et ekstra skub?**\nJonas har lavet et forl\u00f8b til dig, der gerne vil finde mere retning og mening med dagligdagen. Vi taler om det, der forhindrer os i at komme i gang med det liv, vi gerne vil leve.","link":"https:\/\/avilius.dk\/grupper\/det-meningsfulde-liv","linktext":"Genfind din lyst til livet \ud83e\udde8","linkcolor":"brown","linktextcolor":"purple"},"id":"80e3408f-a822-4364-99d0-59d00d20a2d8","isHidden":false,"type":"cta"},{"content":{"text":"<p>Motivation kan opdeles i to forskellige former, henholdsvis en indre og en ydre motivation. Den indre motivation opst\u00e5r, n\u00e5r vi engagerer os i noget, der er sjovt og interessant. Det kan beskrives som <em>engageret adf\u00e6rd<\/em> og kendetegnes bedst ved en lyst til at l\u00e6re og forbedre sig inden for noget. Det kunne for eksempel v\u00e6re at sparke det perfekte frispark, perfektionere sin spaghetti carbonara opskrift eller f\u00e5 bedre karakterer i skolen. Alle disse tre eksempler er sv\u00e6re at opn\u00e5, hvis man ikke er motiveret til det.<\/p>"},"id":"67a8e961-b2a0-4da1-a963-7fbef854eb34","isHidden":false,"type":"text"},{"content":{"text":"<p>Den ydre motivation bygger modsat p\u00e5 bel\u00f8nning og straf. Du kender det m\u00e5ske selv? At du kan v\u00e6re villig til at overarbejde, hvis du ved, at du bliver betalt ekstra. Eller at du m\u00f8der op til undervisning p\u00e5 Zoom tidligt om morgenen, kun fordi at du ved, at der bliver taget frav\u00e6r? Her fungerer penge og frav\u00e6rsregistrering som ydre motivationskilder.<\/p>"},"id":"51b3b135-81b0-4a33-b863-2b880a73f510","isHidden":false,"type":"text"},{"content":{"text":"<p>Den ydre motivation kan v\u00e6re lige s\u00e5 st\u00e6rk som den indre, men hvor den indre motivation er langvarig, intens og i overensstemmelse som ens v\u00e6rdier, er den ydre motivation ofte kortlevet og afh\u00e6ngig af straf og bel\u00f8nninger. For at kunne beholde en stabil og sund motivation, m\u00e5 der arbejdes for at udvikle den indre motivation.<\/p>"},"id":"dfeecd6e-1851-4430-80a0-e5e6090f1f87","isHidden":false,"type":"text"},{"content":{"level":"h2","text":"S\u00e5 hvordan kan man motivere sig selv?"},"id":"07d04f14-4cad-4286-a029-0e74e1030849","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lad os vende tilbage til cyklen for en kort stund. Hvis man efterlader sin cykel udenfor i vind og vejr for l\u00e6nge, s\u00e5 falder den hen, ruster og ender med at k\u00f8re d\u00e5rligt. P\u00e5 samme m\u00e5de som cyklen har brug for sm\u00f8relse, fedt og justering, har motivation ligeledes brug for nogle strategier for at styrkes. Her kommer 4 strategier til at styrke din motivation i hverdagen.<\/p>"},"id":"9fb6347a-a23b-489d-af46-c73b947bf1b5","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"1. S\u00e6t delm\u00e5l"},"id":"063d75d4-24b9-4823-a15c-d454f993961e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Motivation er den kraft, der skal hj\u00e6lpe dig til at opn\u00e5 de m\u00e5l, som du \u00f8nsker opfyldt. M\u00e5l kan tage mange former \u2013 v\u00e6re kortsigtede eller langsigtede \u2013 og de kan til tider v\u00e6re sv\u00e6re at n\u00e5. Derfor er det vigtigt at s\u00e6tte sig nogle delm\u00e5l p\u00e5 vej mod det endelige m\u00e5l.<\/p>"},"id":"37936a52-0c7b-47df-a5e0-8b5078f5c5d8","isHidden":false,"type":"text"},{"content":{"text":"<p>Delm\u00e5l har den fantastiske funktion, at de kan fungere som en p\u00e5fyldning af energi og engagement til vejen mod det endelige m\u00e5l \u2013 de hj\u00e6lper til at se fremskridt, fremdrift og giver en f\u00f8lelse af mestring.<\/p>"},"id":"91054eb6-73bf-462f-9f2a-1e6135f15256","isHidden":false,"type":"text"},{"content":{"text":"<p>En god id\u00e9 kan v\u00e6re at notere sig sine delm\u00e5l for hen ad vejen at kunne hakke dem af og g\u00e5 videre til n\u00e6ste delm\u00e5l. Det kan v\u00e6re en god strategi, da det ofte hj\u00e6lper at se processen og fremdriften visuelt. Det kan v\u00e6re en god id\u00e9 at s\u00e6tte sine m\u00e5l op efter fem korte retningslinjer: De skal v\u00e6re <em>specifikke<\/em>, <em>m\u00e5lbare<\/em>, <em>opn\u00e5elige<\/em>, <em>realistiske<\/em> og have en <em>tidsbegr\u00e6nsning<\/em>.<\/p>"},"id":"0e7eb6a1-0018-4e77-8e39-f495ca94f5d0","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"2. Del dine m\u00e5l med nogle t\u00e6tte venner eller familie"},"id":"fbf47b04-f517-4db1-9085-f1ada2668ff5","isHidden":false,"type":"heading"},{"content":{"text":"<p>Ved at dele dine m\u00e5ls\u00e6tninger og delm\u00e5l, \u00e5bner du automatisk op for en ekstra kilde af motivation. N\u00e5r du deler m\u00e5ls\u00e6tninger med din t\u00e6tte omgangskreds, f\u00e5r du nogle relationer, der kan st\u00f8tte op om din proces, vejlede og hj\u00e6lpe, s\u00e5 du f\u00e5r den optimale udfordring, der skal til for at lykkes. Det at omgive sig med mennesker, der bidrager positivt til din hverdag og dit hum\u00f8r, fungerer ogs\u00e5 som en opladning af motivation.<\/p>"},"id":"e7dbbfd4-cf0a-4a1d-983a-6a86f9e9a95b","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"3. Tag kontrol over processen"},"id":"15fc3f81-71eb-4f04-aa70-7b75e46a0d71","isHidden":false,"type":"heading"},{"content":{"text":"<p>En f\u00f8lelse af kontrol kan have en meget gavnlig effekt p\u00e5 ens motivation. At planl\u00e6gge og strukturere sin hverdag kan hj\u00e6lpe til, at man genvinder overblikket over vejen til de m\u00e5l, som man \u00f8nsker opn\u00e5et og motivere til at s\u00e6tte i gang \u2013 men det hj\u00e6lper ogs\u00e5 med at holde pauser i de projekter, som man k\u00f8rende.<\/p>"},"id":"893d98cb-dd09-4d0b-bb61-bddc24dd03f5","isHidden":false,"type":"text"},{"content":{"text":"<p>En effektiv m\u00e5de at fors\u00f8ge at tage kontrol over sin hverdag kan v\u00e6re ved at f\u00f8re en kalender eller To-Do liste over, hvad man skal f\u00e5 klaret p\u00e5 den givne dag eller uge. Strukturering og kalenderf\u00f8relse kan ofte skabe ro og frigive mental energi til at n\u00e5 andre ting i hverdagen, der f\u00f8r har v\u00e6ret sv\u00e6re at f\u00e5 tid og energi til.<\/p>"},"id":"bdc2108c-148c-44d8-8d54-c422cd1326c5","isHidden":false,"type":"text"},{"content":{"level":"h3","text":"4. Fejr de sm\u00e5 sejre"},"id":"1dd279e5-a174-4da0-bdc5-d648e647886b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Det at arbejde sig mod m\u00e5l er ikke en nem proces. Derfor er det vigtigt at tage tid til at fejre, n\u00e5r m\u00e5lene bliver opfyldt og arbejdet har vist sig betalt. Fejring kan tage mange former og kan sp\u00e6nde fra at man s\u00e6tter nogle episoder p\u00e5 af sin yndlings Netflix-serie til at man l\u00e6ser en god bog eller m\u00f8des med sine venner og nyder f\u00f8lelsen af at v\u00e6re kommet i m\u00e5l efter h\u00e5rdt arbejde.<\/p>"},"id":"d06e2c74-502c-40ab-aff8-9e8fb6d661f7","isHidden":false,"type":"text"},{"content":{"text":"<p>En f\u00f8lelse af demotivation eller at have sv\u00e6rt ved at begynde eller f\u00e6rdigg\u00f8re opgaver og handlinger er meget normalt og opleves af stort set alle mennesker i perioder. Det kan dog v\u00e6re udfordrende at g\u00e5 rundt med alene, hvorfor det altid er godt at snakke med andre om de problemer, der g\u00e5r \u00e9n p\u00e5 her i livet.<\/p>"},"id":"bd9c6cfb-b3e4-445b-8059-209a220515b5","isHidden":false,"type":"text"},{"content":{"text":"<p>Hos Avilius hj\u00e6lper vi unge med at finde hoved og hale i de problematikker og bump i vejen, der er en naturlig del af livet. Den f\u00f8rste samtale er gratis, s\u00e5 hvis dette lyder som et tilbud for dig, s\u00e5 <a href=\"https:\/\/avilius.dk\/team\">tjek vores dygtige samtalepartnere ud<\/a> og se om der er en, som du synes passer til dine behov.<\/p>"},"id":"cbfe023f-fd39-466a-80b7-82f6c71ca40b","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Blog - Fire strategier til at booste din motivation
+
+----
+
+Seodescription: At det halter med motivationen - Det har vi alle sammen oplevet. Det er den store stopklods, når der er noget vi gerne vil opnå. Her er hvad du gør ved det.
+
+----
+
+Seokeywords: Motivation, Undevisning, Eksamen, kontrol
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Link: 
+
+----
+
+Category: Blog

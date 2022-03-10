@@ -1,0 +1,69 @@
+Title: På trods af en pandemi
+
+----
+
+Date: 2020-10-29
+
+----
+
+Card: false
+
+----
+
+Theme: bbd663
+
+----
+
+Author: Oliver Herlitschek
+
+----
+
+Authorlink:
+
+- hvorfor/oliver-herlitschek
+
+----
+
+Tags: 
+
+----
+
+Cover:
+
+- avilius-1.jpg
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>\ud83e\udda0 <em>Opdateret 17. marts 2020<\/em> \ud83e\udda0<\/p>"},"id":"7cc7b06e-1802-4b32-911c-8b8cb9499f46","isHidden":false,"type":"text"},{"content":{"text":"<p>I lyset af de seneste regler fra <a href=\"https:\/\/www.sst.dk\/da\/corona\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Sundhedsstyrelsen<\/a>, har vi i Avilius taget et par ekstra forholdsregler. I dine sessioner vil du opleve lidt mindre fysisk kontakt \u2013 uden h\u00e5ndtryk eller kram, og m\u00e5ske med lidt mere afstand, end hvad vi er vant til. Ved indgangen til terapilokalet har vi b\u00e5de mundbind og h\u00e5ndsprit, hvis du har glemt det ene eller det andet.<\/p>"},"id":"77716fea-fd51-46d8-83b8-ab7efb9f9896","isHidden":false,"type":"text"},{"content":{"category":"book","image":[],"description":"**F\u00f8ler du en snert af coronaangst?**\nVi kender det godt herinde \u2014 book en tid til en uforpligtende gratis samtale om det, der tynger dig ned.","link":"","linktext":"","linkcolor":"lpurple","linktextcolor":"purple"},"id":"650427fc-ba65-4596-ad59-8890cbcd5e26","isHidden":false,"type":"cta"},{"content":{"text":"<p>Vi foretr\u00e6kker alle fordelene ved at sidde ansigt til ansigt, men forst\u00e5r naturligvis den mulige bekymring om smittefare. Derfor tilbyder vi, at dit forl\u00f8b kan forts\u00e6tte (eller starte!) via Zoom. Bare r\u00e6k ud til din samtalepartner, s\u00e5 I sammen kan finde en l\u00f8sning, der er tryg og sikker.<\/p>"},"id":"fbe4c707-e15e-4ee7-9dcb-657ba3faf4e6","isHidden":false,"type":"text"},{"content":{"text":"<p>Med h\u00e5bet om positive tanker og negative tests,<\/p><p>Avilius \u2728\ud83d\udc4b<\/p>"},"id":"03c34bc6-2a54-419d-833a-095ff2cd5e43","isHidden":false,"type":"text"}]
+
+----
+
+Seotitle: Vi er der stadig for jer. Men selvfølgelig tager vi ansvar.
+
+----
+
+Seodescription: Du vil opleve at vi skruer ned for håndtrykkene og krammeriet i den kommende tid. Men vi lover jer at vores terapeuter er lige så nærværende som altid.
+
+----
+
+Seokeywords: smittefare, forholdsregler, sundhedsstyrelsen, håndtryk, håndsprit, mundbind
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Category: Blog
+
+----
+
+Link: 

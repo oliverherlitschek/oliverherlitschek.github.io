@@ -1,0 +1,48 @@
+title: Avilius Talks
+icon: 🏠
+
+options:
+  status: false
+tabs:
+  content:
+    fields:
+      events:
+          label: Events
+          type: structure
+          fields:
+            tba:
+              label: If not confirmed, what month?
+              type: text
+              maxlength: 3
+              default: Jan
+              placeholder: Jan, Feb, etc.
+            date:
+              label: Date
+              type: date
+            headline:
+              label: Headline
+              type: text
+            description:
+              label: Description
+              type: textarea
+              buttons:
+                - link
+            link:
+              label: link
+              type: url
+            buttontext:
+              label: Button text
+              type: toggle
+              text:
+                - Lyt til podcast
+                - Find billetter
+            status:
+              label: Sold out?
+              type: toggle
+              text:
+                - No!
+                - Yes!
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

@@ -1,0 +1,38 @@
+title: Individuel terapi
+icon: 🏠
+
+options:
+  status: false
+
+tabs:
+  content:
+    fields:
+      tagline:
+          label: Tagline
+          type: text
+      howto:
+          label: How to get started
+          type: structure
+          fields:
+            howtoname:
+              label: Name
+              type: text
+            howtodescription:
+              label: Description
+              type: textarea
+      testimonials:
+        type: structure
+        fields:
+          quote:
+            label: Quote
+            type: text
+          author:
+            label: Who's it from?
+            type: textarea
+      foryou:
+        label: Reasons to start therapy
+        type: tags
+  meta:
+    type: fields
+    fields:
+      meta: fields/meta

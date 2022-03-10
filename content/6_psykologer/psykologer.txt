@@ -1,0 +1,69 @@
+Title: Psykologer
+
+----
+
+Cover:
+
+- avilius-psykologer-test.jpg
+
+----
+
+Headline: Psykologhjælp i København
+
+----
+
+Tagline: Find en ung psykolog i Københavnsområdet her.
+
+----
+
+Howto:
+
+- 
+  howtoname: '1.  Skriv til os'
+  howtodescription: 'Skriv til os via <a href="" class="book-button underline" title="Skriv til os">formularen</a>. Så vender vi tilbage indenfor et par dage med nogle tider, der passer dig. Måske har du på forhånd gjort dig tanker om, hvem du gerne vil snakke med – hvis ikke, kan vi hjælpe dig med at finde et godt match. Lær os bedre at kende <a href="../team" class="underline" title="Team" target="_blank">her</a>.'
+- 
+  howtoname: '2.  Vi mødes til en samtale'
+  howtodescription: 'Vi lærer hinanden at kende og sporer os ind på, hvad du har lyst til at bruge forløbet til og hvad din målsætning er. Det kan være, at du allerede ved det – og hvis ikke, finder vi ud af det sammen.<br><br>Samtalerne varer én time og foregår i vores lokale på <a href="https://goo.gl/maps/p1CovkiFJoBvUKZJ6"  class="underline" title="Avilius på Google Maps" target="_blank">Vesterbrogade 35</a>. Bor du ikke i byen, tilbyder vi også onlineforløb.'
+- 
+  howtoname: 3. Vi planlægger dit forløb sammen
+  howtodescription: 'Sammen aftaler vi dit videre forløb, så det passer til dig og din hverdag. Vi hjælper dig med at nå din målsætning — om det er ugentligt, månedligt eller ved behov er helt op til dig.<br><br>Vi glæder os til at møde dig!'
+
+----
+
+Testimonials: 
+
+----
+
+Foryou: 
+
+----
+
+Comparisonheadline: Terapi eller behandling?
+
+----
+
+Comparisontext: Psykoterapi, psykiater, psykolog – hvad er forskellen? Grundlæggende kan vores ydelser i Avilius separeres sådan her:
+
+----
+
+Comparisons:
+
+- 
+  individual: forebyggende
+  group: behandlingskrævende
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seokeywords: 
+
+----
+
+Seoimage: 

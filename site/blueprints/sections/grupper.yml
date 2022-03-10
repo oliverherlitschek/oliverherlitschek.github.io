@@ -1,0 +1,6 @@
+type: pages
+headline: Groups
+parent: kirby.page("grupper")
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: gruppe
+empty: No posts yet

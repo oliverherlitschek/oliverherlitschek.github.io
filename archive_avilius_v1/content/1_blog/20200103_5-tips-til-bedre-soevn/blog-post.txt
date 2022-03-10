@@ -1,0 +1,109 @@
+Title: 5 tips til bedre søvn
+
+----
+
+Text:
+
+[
+    {
+        "attrs": [],
+        "content": "Det der med at v\u00e6re ung og samtidig f\u00e5 nok s\u00f8vn, er som at v\u00e6re p\u00e5 Roskilde Festival og holde en hvid t-shirt ren; vildt sv\u00e6rt. Ikke desto mindre er s\u00f8vn kritisk for vores energiniveau, helbred og vigtige hjernefunktioner som for eksempel hukommelsen og koncentrationsevnen.",
+        "id": "_UEELYuBHU",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvis du g\u00e5r ind i en vilk\u00e5rlig boghandel, vil du finde et hav af b\u00f8ger, der handler om metoder til bedre s\u00f8vn. Det er imidlertid ikke s\u00e6rligt mange af dem, der g\u00e5r p\u00e5 kompromis med ungdomslivet, hvorfor r\u00e5dene oftest kunne v\u00e6re:",
+        "id": "_MHhNEfBAP",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u00b7 Ingen sk\u00e6rmtid 1-3 timer f\u00f8r sengetid<br>\u00b7 Ingen telefoner i sovev\u00e6relset<br>\u00b7 Ingen m\u00e5ltider 2 timer f\u00f8r sengetid<br>\u00b7 G\u00e5 i seng og st\u00e5 op p\u00e5 samme tid",
+        "id": "_VK52rYmxW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "\u2014 og s\u00e5 videre.",
+        "id": "_3aDsxmYb8",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Det er gode r\u00e5d, s\u00e6rligt hvis nu alle dagene var ens, strukturerede og uden forstyrrelser. Det er de til geng\u00e6ld sj\u00e6ldent. Derfor bringer vi fem tips til en bedre s\u00f8vn, som er nemmere at starte med.",
+        "id": "_1WWHI5r3l",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>En god podcast kan tage tankemyldret</strong><br>En velkendt s\u00f8vndr\u00e6ber er det scenarie, at idet vi l\u00e6gger os i sengen, s\u00e5 er der en lille abe inde i hjernen, som begynder at fl\u00e5 alle mulige ting ned fra hylderne, som vi skal tage stilling til. Inden den er f\u00e6rdig med emner som \u201dfremtid\u201d og \u201dingen penge p\u00e5 kontoen\u201d, s\u00e5 kan der v\u00e6re g\u00e5et et par timer. En god podcast kan imidlertid v\u00e6re med til at aflede tankerne og g\u00f8re det lettere at d\u00f8se hen.",
+        "id": "_oH2vbbAOW",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>K\u00f8l nervesystemet ned</strong><br>Alle pattedyr har den samme refleks, n\u00e5r kroppen kommer i kontakt med koldt vand, som er udviklet til at minimere energiforbruget. Hvis du tager et koldt bad, s\u00e5 vil din puls dykke og dine perifere blodkar vil sn\u00e6vre sammen, s\u00e5dan at blodtilf\u00f8rslen til dit hjerte og din hjerne \u00f8ges. Koldt vand s\u00e6tter kroppen i en slags afslappet dvaletilstand, som kan hj\u00e6lpe med at finde ro. Du kan ogs\u00e5 n\u00f8jes med at vaske dit ansigt med koldt vand i 30 sek.",
+        "id": "_9zQbkQM4b",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Hold igen med late-night munchies</strong><br>Vi kender det selv alt for godt; hvis man kommer sent hjem fra en lang dag, har tr\u00e6net om aftenen eller ikke fik nok til aftensmad, s\u00e5 er det sv\u00e6rt ikke at spise noget f\u00f8r sengetid. Problemet er, at det s\u00e6tter gang i ford\u00f8jelsesprocesser, som p\u00e5virker din s\u00f8vn \u2013 ogs\u00e5 selvom du godt kan falde i s\u00f8vn. Et godt r\u00e5d er at holde det til for eksempel en myslibar eller en banan med en smoothie. Det tager de v\u00e6rste cravings og giver kroppen lidt at styrke sig p\u00e5.",
+        "id": "_CIrhPYYDz",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Aftenjournal</strong><br>Forskning viser, at folk som bruger et par minutter hver aften p\u00e5 at skrive om deres dag, b\u00e5de sover bedre og l\u00e6ngere. Der er nogle, som laver en liste over de ting, som de er taknemmelige for, hvilket \u00f8ger fokusset p\u00e5 de positive sider. Der kan imidlertid ogs\u00e5 v\u00e6re en positiv effekt af at skrive alle dagens udfordringer eller problemer ned. Det l\u00e6gger en d\u00e6mper p\u00e5 vores frygt og angst, n\u00e5r vi f\u00e5r dem eksternaliseret ud p\u00e5 et stykke papir.",
+        "id": "_1aMxP5QxN",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "<strong>Surf p\u00e5 melatoninb\u00f8lgen</strong><br>Du har helt sikkert h\u00f8rt det f\u00f8r - vores telefoner og computere er de st\u00f8rste s\u00f8vntyve. Det er typisk om aftenen, at vi gerne vil ligge og slappe af med serier eller finde memes p\u00e5 reddit. Det er imidlertid s\u00e5dan, at det hvide lys fra sk\u00e6rmene h\u00e6mmer produktionen af melatonin, som er kroppens s\u00f8vnhormon. I stedet for at bremse melatoninb\u00f8lgen, som g\u00f8r dig s\u00f8vnig om aftenen, kan du surfe p\u00e5 den ved at have nattelys sl\u00e5et automatisk til p\u00e5 b\u00e5de computeren og telefonen, n\u00e5r solen g\u00e5r ned. Det varme og gule lys er langt bedre for dine \u00f8jne og din s\u00f8vn.",
+        "id": "_mTRMpaEBo",
+        "type": "paragraph"
+    },
+    {
+        "attrs": [],
+        "content": "Hvis du oplever vedvarende problemer med at f\u00e5 nok s\u00f8vn om natten, kan det v\u00e6re godt at f\u00e5 snakket med nogen om det. I Avilius er vores dygtige <a href=\"https://avilius.dk/therapists\">terapeuter</a> klar til at hj\u00e6lpe dig.",
+        "id": "_PqkqtUF8X",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Date: 2020-01-03
+
+----
+
+Author: Jonas Schøsler
+
+----
+
+Cover:
+
+- avilius-fem-tips-til-bedre-soevn.jpg
+
+----
+
+References:
+
+- 
+  name: >
+    Gratitude Influences Sleep, US National
+    Library of Medicine
+  url: >
+    https://www.ncbi.nlm.nih.gov/pubmed/19073292
+- 
+  name: >
+    The Mammalian Diving Response, US
+    National Library of Medicine
+  url: >
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768097/
+- 
+  name: Sluk af Imran Rashid
+  url: >
+    https://www.saxo.com/dk/sluk_imran-rashid_haeftet_9788711566633?gclid=CjwKCAjwzJjrBRBvEiwA867bylX33G0j_JSvk7n4Vx-Huv1LIGPtNXTfr6MWiiL6hdWuPQoeSdOISxoChGgQAvD_BwE

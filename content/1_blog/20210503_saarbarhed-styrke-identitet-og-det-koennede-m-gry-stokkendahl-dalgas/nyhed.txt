@@ -1,0 +1,83 @@
+Title: Sårbarhed, styrke, identitet og det kønnede med Gry Stokkendahl Dalgas
+
+----
+
+Date: 2021-05-03
+
+----
+
+Card: true
+
+----
+
+Theme: febaa7
+
+----
+
+Author: Eskild Bibow
+
+----
+
+Authorlink:
+
+- team/eskild-bibow
+
+----
+
+Tags: Nyhed, selvværd
+
+----
+
+Cover: 
+
+----
+
+References: 
+
+----
+
+Text: [{"content":{"text":"<p>Velkommen til sjette episode af Avilius Talks \u2014 en podcast om at have det godt.<\/p>"},"id":"2ed3d0ee-d0ce-4960-a621-c54ac2e59b2e","isHidden":false,"type":"text"},{"content":{"text":"<p>Dansk litteratur er sprudlende og voldsomt vedkommende for tiden. Mange nye digtere og forfattere beretter og skriver poesi, der revser vores system og fors\u00f8ger muligvis at rykke mod en bedre fremtid. M\u00e5ske en mere omsorgsfuld og \u00e5ben fremtid \u2013 kan man h\u00e5be. Kunst er en vigtig del af os menneskers m\u00e5de at forst\u00e5 os selv p\u00e5, s\u00e6tte ord p\u00e5 vores smerte, dr\u00f8mme og fantasier.<\/p>"},"id":"2f1107f4-2d7a-4f5a-933b-1d0b09ff76c4","isHidden":false,"type":"text"},{"content":{"category":"call","image":[],"description":"**Har du brug for at tale med nogen?**\nI Avilius er vi altid klar p\u00e5 en uforpligtende gratis samtale om det, der trykker.","link":"","linktext":"","linkcolor":"lpurple","linktextcolor":"black"},"id":"a6952a33-486d-460c-86e7-b0a333da07ba","isHidden":false,"type":"cta"},{"content":{"text":"<p>I dag snakker <a href=\"https:\/\/avilius.dk\/team\/eskild-bibow\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eskild<\/a> med Gry Stokkendahl Dalgas, der med en prisvindende samling af digte, optegnelser og breve tegner et transk\u00f8nnet perspektiv.<\/p>"},"id":"c09e2b74-8836-4730-8b46-47d9fa83de38","isHidden":false,"type":"text"},{"content":{"text":"<iframe src=\"https:\/\/open.spotify.com\/embed-podcast\/episode\/6up1GLkLgPuyRPD4B2e6i5\" width=\"100%\" height=\"232\" frameborder=\"0\" allowtransparency=\"true\" allow=\"encrypted-media\"><\/iframe>"},"id":"a57b2051-f247-4e40-86d3-690a8ae540c2","isHidden":false,"type":"markdown"}]
+
+----
+
+Seotitle: Avilis Talks - Gry Stokkendahl Dalgas
+
+----
+
+Seodescription: Eskild taler i dag med Gry Stokkendahl Dalgas - prisvindende digter og forfatter. Sammen udforsker de hvordan vi skaber en mere omsorgsfuld fremtid.
+
+----
+
+Seokeywords: transkønnet, system, drømme, fantasier
+
+----
+
+Seoimage: 
+
+----
+
+Introduction: 
+
+----
+
+Link: https://open.spotify.com/episode/6up1GLkLgPuyRPD4B2e6i5?si=525030ed8d8c4324
+
+----
+
+Category: Blog
+
+----
+
+Podcastlink: https://open.spotify.com/episode/0zmLCgMyWkjJWVObztH8tY?si=fPp_3mOWRs6ZeMQhgZeNjA
+
+----
+
+Talkslink: 
+
+----
+
+Content: 
+
+----
+
+Type: news
